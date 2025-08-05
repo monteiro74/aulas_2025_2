@@ -31,18 +31,17 @@ https://linktr.ee/si.unemat
 ## 4.1. Geral da universidade
 
 Calendário de aulas (previstas no calendário) p/ 2025/1: Consulte o calendário oficial do curso e da universidade. No site ponto de ensino e no site da disciplina temos material adiconal ou info sobre o calendário com os dias de aula de cada disciplina.
-https://cms.unemat.br/storage/documentos/bloco-documento-arquivo/cY0yA4T6cQm9fuCwKaMDMPZbn3saE2YJ8phNsHfM.pdf
 
-## 4.2. Calendário do curso 2025/1
 
-https://docs.google.com/spreadsheets/d/1U4Naem9pWYuhsldxvcZpwIVLA7PNvkIZi5urKVEYc38/edit?gid=312431323#gid=312431323
+## 4.2. Calendário do curso 2025/2
+
+
 
 
 ---
 # 5. Horários
 
-![]()
-
+![https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/horarios_2025_v2.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/horarios_2025_v2.png)
 
 ---
 # 6. Normatização acadêmica

@@ -41,11 +41,8 @@ https://docs.google.com/spreadsheets/d/1U4Naem9pWYuhsldxvcZpwIVLA7PNvkIZi5urKVEY
 ---
 # 5. Horários
 
-![https://github.com/monteiro74/aulas_2025_1/blob/main/horarios_2025.drawio.png?raw=true](https://github.com/monteiro74/aulas_2025_1/blob/main/horarios_2025.drawio.png?raw=true)
+![]()
 
-## 5.1. Distribuição de carga horária:
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/carga_horaria.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/carga_horaria.png)
 
 ---
 # 6. Normatização acadêmica

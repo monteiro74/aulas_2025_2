@@ -7,11 +7,12 @@ Projeto de extensão aprovado, maiores detalhes [aqui](https://www.pontodeensino
 
 
 ---
-# 1. Disciplinas para 2025/1.
+# 1. Disciplinas para 2025/2.
 
-* Engenharia de software - 4ª fase
 * Modelagem e projeto de banco de dados - 4ª fase
 * Introdução à engenharia de dados - 5ª fase
+* TCC1
+* TCC2
 * Orientação de: TCC1, extensão e estágio de mestrado
 
 ---
@@ -32,9 +33,9 @@ https://linktr.ee/si.unemat
 
 Calendário de aulas (previstas no calendário) p/ 2025/1: Consulte o calendário oficial do curso e da universidade. No site ponto de ensino e no site da disciplina temos material adiconal ou info sobre o calendário com os dias de aula de cada disciplina.
 
+https://cms.unemat.br/storage/documentos/bloco-documento-arquivo/fzPAyPvWQrw6zoHywg60yrsQg4LDtgUpDTC4VWit.pdf
 
 ## 4.2. Calendário do curso 2025/2
-
 
 
 

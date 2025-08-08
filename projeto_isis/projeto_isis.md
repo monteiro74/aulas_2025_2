@@ -110,3 +110,28 @@ Cronograma
 |7. Implantação e avaliação                        | 17/10/2025 | 28/11/2025 |
 |8. Documentação                                   | 08/12/2025 | 16/01/2025 |
 |9. Avaliação e encerramento                       | 20/01/2026 | 07/04/2026 |
+
+Atenção para o cronograma:
+
+Considerando que a pró reitoria de extensão demorou para aprovar o projeto, a reunião com os professores orientadores e o plano de trabalho poderá entregue até 23/04/2025, agente com seu orientador a reunião. Envie via email seu plano de trabalho com a estrutura mencionada acima, após conversar com seu orientador primeiro!
+
+---
+PROCESSO DE INSCRIÇÃO:
+
+1. Converse pessoalmente com um membro do projeto (coordenador e/ou professor).
+
+2. Faça a inscrição via [SIGAA](https://sigaa.unemat.br/sigaa).
+
+3. Elabore o Plano de Trabalho e encaminhe ao professor para aprovação (use o formulário abaixo).
+
+4. Após revisão, obtenha a assinatura do responsável pela empresa e devolva o plano assinado.
+
+5. Inicie as atividades após a aprovação.
+
+---
+Agendamento de reunião e envio de ideia inicial (plano de trabalho)
+
+Use este [formulário](https://forms.gle/WmozF1kawhHPkPzi8) para enviar o plano de trabalho e marcar uma reunião com seu orientador.
+
+
+ATENÇÃO: Esta página poderá sofrer alterações sem aviso prévio.

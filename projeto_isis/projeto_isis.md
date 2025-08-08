@@ -8,11 +8,9 @@ Coordenador do projeto:	 Emiliano Soares Monteiro
 
 Membros docentes da UNEMAT:	
 
-Benevid Félix da Silva 
-
-Francisco Sanches Banhos Filho
-
-Ivan Luiz Pedroso Filho
+* Benevid Félix da Silva 
+* Francisco Sanches Banhos Filho
+* Ivan Luiz Pedroso Filho
 
 DESCRIÇÃO RESUMIDA:
 

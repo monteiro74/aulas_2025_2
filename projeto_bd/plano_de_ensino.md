@@ -27,11 +27,11 @@ Plano de ensino - Modelagem e projeto de banco de dados
 - [:alarm\_clock: 14. Carga horária de 15hs adicionais (remota/online)](#alarm_clock-14-carga-horária-de-15hs-adicionais-remotaonline)
   - [🎓 14.1. Playlist de Banco de Dados (15h)](#-141-playlist-de-banco-de-dados-15h)
   - [📄 14.2. Artigos Científicos Open Access sobre Banco de Dados](#-142-artigos-científicos-open-access-sobre-banco-de-dados)
-- [15. Bancos de dados da fundação Apache](#15-bancos-de-dados-da-fundação-apache)
-- [16. OLTP --\> OLAP](#16-oltp----olap)
-  - [16.1. Banco OLTP](#161-banco-oltp)
-    - [16.1.1. Comandos SQL p/ OLTP](#1611-comandos-sql-p-oltp)
-    - [16.1.2. Diagrama ER OLTP](#1612-diagrama-er-oltp)
+- [:floppy\_disk: 15. Bancos de dados da fundação Apache](#floppy_disk-15-bancos-de-dados-da-fundação-apache)
+- [:crystal\_ball: 16.  OLTP --\> OLAP](#crystal_ball-16--oltp----olap)
+  - [:cd: 16.1. Banco OLTP](#cd-161-banco-oltp)
+    - [:dvd: 16.1.1. Comandos SQL p/ OLTP](#dvd-1611-comandos-sql-p-oltp)
+    - [:radio: 16.1.2. Diagrama ER OLTP](#radio-1612-diagrama-er-oltp)
   - [16.2. Banco OLAP --\> DW](#162-banco-olap----dw)
   - [16.2.1. Diagram ER OLAP DW](#1621-diagram-er-olap-dw)
   - [16.2.2. Fatos resumidas](#1622-fatos-resumidas)
@@ -405,7 +405,7 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 **⏱️ Duração Total Estimada de Leitura:** 15h 00min
 
 
-## 15. Bancos de dados da fundação Apache
+## :floppy_disk: 15. Bancos de dados da fundação Apache
 
 
 
@@ -425,11 +425,11 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 | **Jackrabbit** | Repositório de conteúdo (JCR), utilizado para armazenamento estruturado e hierárquico de documentos.                  |
 
 
-## 16. OLTP --> OLAP
+## :crystal_ball: 16.  OLTP --> OLAP
 
-### 16.1. Banco OLTP
+### :cd: 16.1. Banco OLTP
 
-#### 16.1.1. Comandos SQL p/ OLTP
+#### :dvd: 16.1.1. Comandos SQL p/ OLTP
 
 ```SQL
 
@@ -512,7 +512,7 @@ CREATE TABLE itens_venda (
 
 ```
 
-#### 16.1.2. Diagrama ER OLTP
+#### :radio: 16.1.2. Diagrama ER OLTP
 
 ```mermaid
 erDiagram

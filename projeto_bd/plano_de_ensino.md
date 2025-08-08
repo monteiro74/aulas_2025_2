@@ -111,20 +111,20 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-| 1   | 14/08 | 3hs |  |
-| 2   | 21/08 | 3hs |  |
-| 3   | 28/08 | 3hs |  |
-| 4   | 04/09 | 3hs |**Avaliação 1**. |
-| 5   | 11/09 | 3hs |  |
-| 6   | 18/09 | 3hs |  |
-| 7   | 25/09 | 3hs |  |
-| 8   | 02/10 | 3hs |  |
-| 9   | 09/10 | 3hs |  |
-| 10  | 16/10 | 3hs |  |
-| 11  | 23/10 | 3hs |  |
-| 12  | 30/10 | 3hs | **Avaliação 2**. |
-| 13  | 06/11 | 3hs |  |
-| 14  | 13/11 | 3hs |  |
+| 1   | 14/08 | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas |
+| 2   | 21/08 | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. |
+| 3   | 28/08 | 3hs | Conceitos de BD e SGBD, Comparações com SO e arquivos. Estrutura interna. Slides da aula 2. Scripts SQL p/ MySQL e SQL Server.  |
+| 4   | 04/09 | 3hs |Conceito de transação. ACID. Concorrência. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. |
+| 5   | 11/09 | 3hs | **Avaliação 1**  |
+| 6   | 18/09 | 3hs | Detalhes do SQL Server. Conhecendo o SSMS. Monitorando o SQL Server e propriedades do servidor. Slides da aula 3.  |
+| 7   | 25/09 | 3hs | Modelo ER, criação de tabelas e diagramas no SSMS, Join no SQL Server. Criação de tabelas e diagramas no SQL |
+| 8   | 02/10 | 3hs | Joins no SQL Server. SQL Server, criação de tabelas, Modelo de dados relacional, SQL Joins no SQL Server. |
+| 9   | 09/10 | 3hs | Normalização. |
+| 10  | 16/10 | 3hs | **Avaliação 2**. |
+| 11  | 23/10 | 3hs | Revisão de modelo ER. Conceitos de ODBC. Conexão ODBC com Power BI e Excel. ODBC. DW, BI. Importação de dados do Excel p/ SQL Server. Objetos do banco SQL Server. |
+| 12  | 30/10 | 3hs | Conexões ODBC, SQL Server criptografia, SQL Server Migration Assistante, Intro. blockchain. |
+| 13  | 06/11 | 3hs | Blockchain e bancos NoSQL. |
+| 14  | 13/11 | 3hs | Migração OLTP para OLAP. Dados Abertos. |
 | 15  | 20/11 | 3hs | **Avaliação 3** |
 
 
@@ -160,10 +160,6 @@ MongoDB:
 
 
 Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
-
-
-
-
 
 
 

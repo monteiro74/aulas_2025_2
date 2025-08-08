@@ -96,3 +96,17 @@ Cronograma das Atividades:
 
 OBSERVAÇÃO: quando o aluno elaborar seu plano de atividade deve levar em consideração até 12hs por semana.
 
+---
+Cronograma
+
+| Atividade | Data início | Data fim |
+|-----------|-------------|----------|
+|1. Reunião com professor, apresentação do projeto | 07/04/2025 | 04/11/2025 |
+|2. Levantamento e análise de requisitos           | 14/04/2025 | 02/05/2025 |
+|3. Definição de escopo e planejamento             | 05/05/2025 | 23/05/2025 |
+|4. Design e prototipação                          | 26/05/2025 | 27/06/2025 |
+|5. Desenvolvimento de software                    | 11/08/2025 | 10/10/2025 |
+|6. Testes e depuração                             | 13/10/2025 | 14/11/2025 |
+|7. Implantação e avaliação                        | 17/10/2025 | 28/11/2025 |
+|8. Documentação                                   | 08/12/2025 | 16/01/2025 |
+|9. Avaliação e encerramento                       | 20/01/2026 | 07/04/2026 |

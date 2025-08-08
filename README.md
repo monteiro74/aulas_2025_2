@@ -1,8 +1,4 @@
-# Disciplinas para 2025/2
 
-
-
----
 # 1. Disciplinas para 2025/2.
 
 * Modelagem e projeto de banco de dados - 4ª fase

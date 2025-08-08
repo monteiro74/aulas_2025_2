@@ -12,14 +12,17 @@ Membros docentes da UNEMAT:
 * Francisco Sanches Banhos Filho
 * Ivan Luiz Pedroso Filho
 
+---
 DESCRIÇÃO RESUMIDA:
 
 O projeto Inovação em Sistemas de Informação (ISIS) unifica inovação tecnológica e impacto social ao criar produtos tecnológicos à comunidade e preparar os graduandos para o futuro. Este projeto de extensão universitária se destaca por sua proposta inovadora e transformadora. Através do desenvolvimento de sistemas de informação personalizados, utilizando tecnologias de ponta, buscamos atender às demandas mais urgentes da comunidade local, promovendo o seu desenvolvimento social e econômico. Para os graduandos, o projeto oferece uma experiência prática imersiva, onde podem aplicar o conhecimento teórico adquirido em sala de aula, desenvolver novas habilidades e aprimorar seu perfil profissional. Ao final deste projeto de extensão, espera-se que as necessidades das empresas locais sejam atendidas por meio do desenvolvimento de soluções de software específicas, com a implementação efetiva dessas ferramentas nas organizações da cidade. O objetivo é gerar benefícios tangíveis para as empresas da comunidade, demonstrando o potencial dos acadêmicos na resolução de problemas reais e no apoio ao crescimento econômico local. Como resultado, espera-se que os alunos adquiram um conjunto sólido de habilidades técnicas e competências profissionais, capacitando-os a enfrentar com sucesso os desafios do mercado de trabalho, ao mesmo tempo em que contribuem para o fortalecimento do ecossistema empresarial regional
 
+---
 OBJETIVOS:
 
 O objetivo geral deste projeto de extensão universitária é promover a interação entre a universidade e as empresas locais por meio do desenvolvimento de softwares web, IoT, desktop e protótipos utilizando tecnologias modernas. O projeto visa capacitar os acadêmicos de Sistemas de Informação, permitindo-lhes aplicar o conhecimento adquirido em sala de aula na resolução de problemas reais enfrentados pelas empresas da cidade. Dessa forma, busca-se atender às demandas específicas da comunidade empresarial, oferecendo soluções personalizadas que contribuam para a modernização e eficiência dos processos locais. Além disso, o projeto se propõe a desenvolver softwares de alta qualidade, com interfaces intuitivas, desempenho otimizado e segurança robusta, ao mesmo tempo em que proporciona aos estudantes uma experiência prática enriquecedora. Essa vivência inclui o desenvolvimento de habilidades técnicas e socioemocionais, como trabalho em equipe, gestão de projetos e resolução de problemas, preparando-os para o mercado de trabalho enquanto reforça o compromisso social da universidade com o desenvolvimento regional.
 
+---
 METODOLOGIA:
 
 1. Levantamento e Análise de Requisitos Objetivo: 
@@ -38,31 +41,25 @@ Criar protótipos e de interface para testar ideias iniciais com os stakeholders
 
 Codificar as funcionalidades do sistema conforme os requisitos definidos e o design elaborado. Ação sugerida: A fase de desenvolvimento será realizada com o auxílio de ferramentas e linguagens de programação adequadas ao tipo de software ou protótipo (web, IoT, desktop). Os alunos irão aplicar conceitos de engenharia de software, como versionamento de código e boas práticas de desenvolvimento e documentação. Criando uma forte articulação entre teoria acadêmica e as demandas do mercado de trabalho.  [Template de documento para esta fase](https://docs.google.com/document/d/184Wjr0fXUd6VpLyIYv4XB-wdlhU6zZ3d2M3XlClj16Q/edit?usp=sharing), quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
------------------------------------------ 
 
 5. Testes e Depuração Objetivo: 
 
 Garantir que o software funcione corretamente e esteja livre de erros. Ação sugerida: Os alunos irão realizar uma série de testes, incluindo testes de funcionalidade, usabilidade e performance. Durante essa fase, será enfatizada a importância de testes no contexto empresarial, permitindo que os alunos articulem a teoria de testes com os desafios reais encontrados durante o desenvolvimento.  [Template de documento para esta fase](https://docs.google.com/document/d/1yLQutyplVFfS9loUE3LOZN0YuJ5qlHtxLA294wU4FPo/edit?usp=sharing), quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
------------------------------------------ 
 
 6. Implementação e Avaliação Objetivo: 
 
 Colocar o software ou protótipo em funcionamento no ambiente real e coletar feedback. Ação sugerida: Após o desenvolvimento, os alunos participarão da implantação do sistema no ambiente real das empresas. Será realizado um monitoramento do desempenho do software, juntamente com a coleta de feedback dos usuários finais. Os alunos poderão aplicar surveys ou entrevistas, para verificar a solução.  [Template de documento para esta fase](https://docs.google.com/document/d/1WcVH-NriPGIWRZPtxQBXvJhTPa0QmnxWphg3n8SJdE4/edit?usp=sharing), quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
------------------------------------------ 
-
 7. Documentação e Disseminação Objetivo: 
 
 Documentar o processo e os resultados do projeto para disseminação do conhecimento gerado. Ação sugerida: A documentação do projeto será realizada pelos alunos, incluindo a descrição dos requisitos, processos de desenvolvimento, código-fonte, testes realizados, e feedback dos usuários. A disseminação de resultados servirá tanto para enriquecer o aprendizado dos alunos quanto para impactar positivamente as empresas e outros trabalhos acadêmicos futuros.  [Template de documento para esta fase](https://docs.google.com/document/d/10PecvJMAKHGmAXlR0-j0taxfr7B5AOrnJKAuarYkkQM/edit?usp=sharing), quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
-
------------------------------------------ 
 
 8. Avaliação e Encerramento Objetivo: 
 
 Avaliar os resultados do projeto e refletir sobre o aprendizado adquirido. Ação sugerida: A avaliação final do projeto será realizada com reunião com os alunos, comentando cada dificuldade e avanço ao longo do projeto (similar a uma sprint de retrospectiva Scrum), promovendo um espaço de reflexão sobre o processo de desenvolvimento. O encerramento do projeto envolverá a análise do impacto gerado nas empresas e a possibilidade de continuidade ou expansão do projeto para novas demandas.  [Template de documento para esta fase](https://docs.google.com/document/d/1lKbKz01zjxNOd3hR3yHfLnxYMAdZ-IcuE9JmY_a7vnQ/edit?usp=sharing), quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
-
+---
 Vagas e período:
 
 Vagas: 25 discentes.<br>
@@ -70,6 +67,7 @@ Público alvo: 30.<br>
 Período: 07/04/2025 a 07/04/2026.<br>
 Aprovado em: 16/04/2025.<br>
 
+---
 O aluno deverá apresentar um plano de trabalho contendo:
 
 Título da Ação: (exemplo: 1. 2. Levantamento e Análise de Requisitos)
@@ -97,3 +95,4 @@ Atividades a Serem Desenvolvidas: (exemplo... na fase: uma das fases relacionada
 Cronograma das Atividades:
 
 OBSERVAÇÃO: quando o aluno elaborar seu plano de atividade deve levar em consideração até 12hs por semana.
+

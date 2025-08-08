@@ -151,9 +151,9 @@ Considerando que a pró reitoria de extensão demorou para aprovar o projeto, a 
 
 4. Após revisão, **obtenha a assinatura do responsável pela empresa e devolva o plano assinado**.
 
-5. Inicie as atividades após a aprovação.
+5. Inicie as atividades (metodologia descrita acima) após a aprovação.
 
-6. Realize o envio dos materiais de cada etapa acima usando os links de cada fase.   
+6. Realize o envio dos materiais de cada etapa acima usando os links de cada fase (metodologia descrita acima).   
 
 ---
 # 8. Agendamento e formulário

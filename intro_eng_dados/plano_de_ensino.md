@@ -101,26 +101,27 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | Resumo de diagramas para Engenharia de Software | https://github.com/monteiro74/diagramas_resumo  |
 | Lista de ferramentas | https://github.com/monteiro74/lista_de_ferramentas |
 
+
 ---
 ## :date: 4. Datas de aulas e conteúdo
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-| 1   | 18/fev | 3hs | Apresentação da disciplina. Introdução. Referências bibliográficas. Conceitos de engenharia de software. Introdução e conceitos de engenharia de software. Análise de sistemas e analista de sistemas. Conceitos e características de sistemas. Crise de software. Processos de software (conceito de processo, time lime de processos). Cascata, Espiral, Prototipação, Reuso, Modelo V, RUP. Conceitos de interação e iteração. [Slides da aula1](https://docs.google.com/presentation/d/1tIuagJwEzinInLuPx4IMmtbrp2857sFWZrt73csWhvo/view) e [referências comentadas](https://docs.google.com/presentation/d/1fPCiTa1Hv8-hBUTcj-lHyh2qgsLtupA22h2J90KhRGQ/view). |
-| 2 | 11/mar| 3hs | Introdução à processos de software, Scrum e Kanban. Intro UML. Processos de software, Análise de requisitos, Scrum, UML, parte 1. Processo de desenvolvimento ágil. O manifesto ágil (pilares e princípios). Processo AUP, OpenUP e Scrum ( definição, pilares, tipos de reunião, sprint, participantes, documentação, PO, Scrum Master, Devs, Product Backlog, Sprint Backlog, Débito Técnico, Kanban). Análise de requisitos (o que é, formas de levantamento, tipos, etapas, SDL, especificação, exemplos de especificação de requisitos, análise vs especificação, níveis de especificação e modularidade). [Processos de software](https://docs.google.com/presentation/d/1t6toyLjqC5DxDVd9JKgqgSY1DFGAqUG6yKxRBpbCKj8/view), [Processo Scrum](https://docs.google.com/presentation/d/1_DADuYyWPqahhqivNJ3iGID6QLMfyXdD8YBKzD9lsAg/view) e [Análise de requisito](https://docs.google.com/presentation/d/1oRvFdQ3Vo_sYEjBH2d4zXtaFG0G_d3Izhz_iSbmjF9A/view).  Criação de página de projeto no github. |
-| 3   | 18/mar | 3hs | Apresentação de [UML](https://docs.google.com/presentation/d/1Z0lfOdimvdzrV1ag7WH3-vkVg6lJdeoKD2kYITRLTME/view). [Projeto exemplo feito em WhiteStarUML](https://drive.google.com/file/d/1rpnKEaQzLqUy8t6dnmKeSUf9FZowZsPO/view?usp=sharing). Classes, Casos de uso. [Exemplo de casos de uso para um ATM (caixa eletrônico)](https://docs.google.com/presentation/d/1VSnV0tGEJ5S3SZVaEHhzRUd71ZKsPywnHpoDvcAyWtI/view).  |
-| 4   | 25/mar | 3hs | Linguagens de programação e seu impacto na arquitetura do projeto, exemplo de implentação OO, exemplo de classe com C Sharp (com seus métodos e atributos), arquitetura de software, modelos de execução de código, desenvolvimento em camadas, IDE x CASE. [Programação OO e estruturada, modelo de execução de código, arquitetura de aplicações](https://docs.google.com/presentation/d/183rfFz2dEiBpwuGozM_wQbwen7_NUW87qBnuOWlBZew/view). |
-| 5 | 01/abr  | 3hs | **Avaliação 1**.  |
-| 6 | 08/abr | 3hs | Uso de ferramenta IDE RAD (desenvolvimento de projeto: menu, login, consulta, formulários, gráficos).  Elaboração do diagrama ER e diagrama de classes, comandos CREATE e INSERT elaborados com IA. Atualização do projeto de software. [Estrutura pública do projeto](https://github.com/monteiro74/sdmc).|
-| 7 | 15/abr | 3hs | Continuação do projeto com ferramenta IDE RAD (desenvolvidos: app com código html, relatório, alteração de campos mostrando dados de outras tabelas, eventos, códigos e botões, barra de ferramenta, impressão de formulário, dashboard, calendário, revisão do módulo de segurança, instalador, configuração do instalador, filtros nas consultas). Apresentação de outras alternativas de ferramentas como: [madbuilder](https://www.madbuilder.com.br/home), [creator](https://creator.com.br/), [scriptcase](https://www.scriptcase.com.br/), [PHPRad](https://radsystems.io/), [PHPRunner](https://xlinesoft.com/phprunner), [Firebird PHP Generator](https://www.sqlmaestro.com/products/firebird/phpgenerator/), etc. |
-| 8 | 22/abr | 4hs | [Wizard para escolha de licença CC](https://chooser-beta.creativecommons.org/). [Sobre arquitetura](https://docs.google.com/presentation/d/1pThCsV172XUa6aR7uHr5_s5O9nGEgTtYBO8dsiCrcTk/view), [Licença, prompts, pilha](https://docs.google.com/presentation/d/1McjVWkWs6wmT5N93IQxHT9DbPjynviWvNANu3c3c3I0/view), [Orcamento e gantt](https://docs.google.com/spreadsheets/d/1XjTebvKyNQ0SEfC4NSZhVPEun8niZ4d1PTr-ieG_PIA/view). ||
-| 9 | 29/abr | 4hs | [Slides de aula](https://docs.google.com/presentation/d/1JpNFJOquDm_YoroshY5hB5fjR1eZ_IQg3M-O8FQTzCM/view). [Estrutura do projeto atualizada com conceitos](https://github.com/monteiro74/sdmc). Arquitetura de software, componentes, MVC, MVVM, ,NET MAUI, Webapp, Android, Projeto visual, navegação, UX, Wireframe x Mockup x Protótipo, C4, IDE, Componentes, RAD. |
-| 10 | 06/mai | 3hs | **Avaliação 2**. |
-| 11 | 13/mai | 4hs | [Jogo the Work In Progress(WIP) game](https://analytics.actionableagile.com/twig/index.html). [Slides de aula](https://docs.google.com/presentation/d/1HbyynlHZWmOYb7Le1UD9WAOm8WYLPH6mYXSAlMsyonY/view) Clean code, solid, sourceforge, rpa, mpsbr, clean room, [swebok](https://www.computer.org/education/bodies-of-knowledge/software-engineering), ergonomia x ergonometria, acessibilidade, tipping point. |
-|    | 20/mai | 3hs | **Semana de extensão.** |
-| 12 | 27/mai | 3hs | [Script SQL na fase de projeto, metodologias Jelinski Moranda, Warnier-Orr e Jackson; cursos de Engenharia de Software em diversas universidades](https://docs.google.com/presentation/d/1MSZO-_HX5VCOEA0zgcv_g4yuh2HbSaUSS0bCGFDzcqg/view). [Testes de software, testes unitários, tdd e bdd](https://docs.google.com/presentation/d/1GBSbH87yCr2X9ODzQVkh0gsneE_lLMT9UFpS1hFwWdk/view). [Selenium](https://www.selenium.dev/). [Doxygen](https://www.doxygen.nl/index.html). [Gherkin](https://cucumber.io/docs/gherkin/).  |
-| 13 | 3/jun  | 3hs | Finalização do projeto: <br> 1. Montagem do banco de dados. <br> 2. Desenvolvimento de telas. <br> 3. Verificação da documentação completa. <br> 4. Apresentação de projetos dos alunos.<br>|
-| 14 | 10/jun | 3hs | **Avaliação 3**, Projeto + conteúdo das últimas aulas + artigos da seção 8. (referências bibliográficas complementares), Entrega de notas, revisão para PF. |
+| 1   | 13/08 | 3hs | Apresentação da disciplina. Conceitos de engenharia de dados.  |
+| 2   | 20/08 | 3hs | Processo KDD (knowledge Discovery in Database), padrão, Processo CRISP DM.  |
+| 3   | 27/08 | 3hs | Limpeza de dados, campos vazios, estatísticas descritiva. |
+| 4   | 03/09 | 3hs | Agrupamento e classificação. |
+| 5   | 10/09 | 3hs | **Avaliação 1**.  |
+| 6   | 17/09 | 3hs | Agrupamento e classificação no Orange Data Ming. Dados abertos. Apache Hadoop. |
+| 7   | 24/09 | 3hs | Normalização (1,2, e 3 forma normal), modelo floco de neve, desnormalização, formatos de troca de dados. |
+| 8   | 01/10 | 4hs | Formatos abertos, os 5 V do big data, Pentaho PDI. |
+| 9   | 08/10 | 4hs | Listas de exercícios. |
+| 10  | 15/10 | 3hs | **Avaliação 2**. |
+| 11  | 22/10 | 4hs | Regressão linear e Pentaho. |
+| 12  | 29/10 | 3hs |Vozviewer, Arquivos RIS openRefine. Qualidade de dados. Bibliometria.  |
+| 13  | 05/11 | 3hs | Virtualização de dados, Enriquecimento e análise de redes sociais, Caso de ETL. |
+| 14  | 12/11 | 3hs | Streming de dados, Kafka, Spark, Atlas, Amundsen, Dark Data, Streamlit, LakeFS, Governança. |
+| 15  | 19/11 | 3hs | **Avaliação 3**,  Entrega de notas, revisão para PF. |
 
 
 ## :date: 5. Datas de avaliações

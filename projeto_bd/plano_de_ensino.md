@@ -16,7 +16,7 @@ Plano de ensino - Modelagem e projeto de banco de dados
 - [:date: 5. Unidades de avaliações](#date-5-unidades-de-avaliações)
 - [:hammer\_and\_wrench: 6. Links para download de ferramentas](#hammer_and_wrench-6-links-para-download-de-ferramentas)
 - [:books: 7. Livros](#books-7-livros)
-  - [:newspaper: 8. Artigos (referências bibliográficas complementares)](#newspaper-8-artigos-referências-bibliográficas-complementares)
+- [:newspaper: 8. Artigos (referências bibliográficas complementares)](#newspaper-8-artigos-referências-bibliográficas-complementares)
 - [:notebook: 9. Cursos gratuítos (opcionais)](#notebook-9-cursos-gratuítos-opcionais)
 - [:green\_book: 10. Como estudar (dicas)](#green_book-10-como-estudar-dicas)
 - [:family\_man\_woman\_girl\_boy: 11. Grupos no telegram](#family_man_woman_girl_boy-11-grupos-no-telegram)
@@ -186,12 +186,8 @@ Referências na biblioteca virtual:
 
 
 
-
-
-
-
 ---
-### :newspaper: 8. Artigos (referências bibliográficas complementares)
+## :newspaper: 8. Artigos (referências bibliográficas complementares)
 
 Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software
 https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575

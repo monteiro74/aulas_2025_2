@@ -13,12 +13,12 @@ Projeto de extensão ISIS
   - [💾 3.4. Desenvolvimento do Software Objetivo:](#-34-desenvolvimento-do-software-objetivo)
   - [🎳 3.5. Testes e Depuração Objetivo:](#-35-testes-e-depuração-objetivo)
   - [🚀 3.6. Implementação e Avaliação Objetivo:](#-36-implementação-e-avaliação-objetivo)
-  - [3.7. 📢 Documentação e Disseminação Objetivo:](#37--documentação-e-disseminação-objetivo)
+  - [📢 3.7.  Documentação e Disseminação Objetivo:](#-37--documentação-e-disseminação-objetivo)
   - [🔎 3.8. Avaliação e Encerramento Objetivo:](#-38-avaliação-e-encerramento-objetivo)
 - [🌲 4. Vagas e período:](#-4-vagas-e-período)
 - [⏰ 5. Conteúdo do PLANO DE TRABALHO](#-5-conteúdo-do-plano-de-trabalho)
 - [📆 6. Cronograma](#-6-cronograma)
-  - [🔔 Atenção para o cronograma](#-atenção-para-o-cronograma)
+    - [🔔 Atenção para o cronograma](#-atenção-para-o-cronograma)
 - [🌲 7. Processo de inscrição](#-7-processo-de-inscrição)
 - [📝 8. Agendamento e formulário](#-8-agendamento-e-formulário)
 
@@ -72,7 +72,7 @@ Garantir que o software funcione corretamente e esteja livre de erros. Ação su
 
 Colocar o software ou protótipo em funcionamento no ambiente real e coletar feedback. Ação sugerida: Após o desenvolvimento, os alunos participarão da implantação do sistema no ambiente real das empresas. Será realizado um monitoramento do desempenho do software, juntamente com a coleta de feedback dos usuários finais. Os alunos poderão aplicar surveys ou entrevistas, para verificar a solução.  [Template de documento para esta fase](https://docs.google.com/document/d/1WcVH-NriPGIWRZPtxQBXvJhTPa0QmnxWphg3n8SJdE4/edit?usp=sharing), quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
-## 3.7. 📢 Documentação e Disseminação Objetivo: 
+## 📢 3.7.  Documentação e Disseminação Objetivo: 
 
 Documentar o processo e os resultados do projeto para disseminação do conhecimento gerado. Ação sugerida: A documentação do projeto será realizada pelos alunos, incluindo a descrição dos requisitos, processos de desenvolvimento, código-fonte, testes realizados, e feedback dos usuários. A disseminação de resultados servirá tanto para enriquecer o aprendizado dos alunos quanto para impactar positivamente as empresas e outros trabalhos acadêmicos futuros.  [Template de documento para esta fase](https://docs.google.com/document/d/10PecvJMAKHGmAXlR0-j0taxfr7B5AOrnJKAuarYkkQM/edit?usp=sharing), quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
@@ -135,7 +135,7 @@ OBSERVAÇÃO: quando o aluno elaborar seu plano de atividade deve levar em consi
 |8. Documentação                                   | 08/12/2025 | 16/01/2025 |
 |9. Avaliação e encerramento                       | 20/01/2026 | 07/04/2026 |
 
-## 🔔 Atenção para o cronograma
+### 🔔 Atenção para o cronograma
 
 Considerando que a pró reitoria de extensão demorou para aprovar o projeto, a reunião com os professores orientadores e o plano de trabalho poderá entregue até 23/04/2025, agente com seu orientador a reunião. Envie via email seu plano de trabalho com a estrutura mencionada acima, após conversar com seu orientador primeiro!
 

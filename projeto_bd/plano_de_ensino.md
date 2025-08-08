@@ -32,9 +32,9 @@ Plano de ensino - Modelagem e projeto de banco de dados
   - [:cd: 16.1. Banco OLTP](#cd-161-banco-oltp)
     - [:dvd: 16.1.1. Comandos SQL p/ OLTP](#dvd-1611-comandos-sql-p-oltp)
     - [:radio: 16.1.2. Diagrama ER OLTP](#radio-1612-diagrama-er-oltp)
-  - [16.2. Banco OLAP --\> DW](#162-banco-olap----dw)
-  - [16.2.1. Diagram ER OLAP DW](#1621-diagram-er-olap-dw)
-  - [16.2.2. Fatos resumidas](#1622-fatos-resumidas)
+  - [:pager: 16.2. Banco OLAP --\> DW](#pager-162-banco-olap----dw)
+  - [:loop: 16.2.1. Diagram ER OLAP DW](#loop-1621-diagram-er-olap-dw)
+  - [:mag: 16.2.2. Fatos resumidas](#mag-1622-fatos-resumidas)
 
 
 
@@ -596,9 +596,9 @@ erDiagram
 ```
 
 
-### 16.2. Banco OLAP --> DW
+### :pager: 16.2. Banco OLAP --> DW
 
-### 16.2.1. Diagram ER OLAP DW
+### :loop: 16.2.1. Diagram ER OLAP DW
 
 ```mermaid
 erDiagram
@@ -687,7 +687,7 @@ erDiagram
 
 ```
 
-### 16.2.2. Fatos resumidas
+### :mag: 16.2.2. Fatos resumidas
 
 ```mermaid
 erDiagram

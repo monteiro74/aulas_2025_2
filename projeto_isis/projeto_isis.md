@@ -21,7 +21,7 @@ Projeto de extensão ISIS
 - [6. Cronograma](#6-cronograma)
   - [Atenção para o cronograma](#atenção-para-o-cronograma)
 - [7. Processo de inscrição](#7-processo-de-inscrição)
-- [8. Agendamento](#8-agendamento)
+- [8. Agendamento e formulário](#8-agendamento-e-formulário)
 
 
 # Projeto Inovação em Sistemas de Informação (ISIS) (Projeto de extensão) [PJ134-2025].
@@ -143,18 +143,20 @@ Considerando que a pró reitoria de extensão demorou para aprovar o projeto, a 
 ---
 # 7. Processo de inscrição
 
-1. Converse pessoalmente com um membro do projeto (coordenador e/ou professor).
+1. Converse **pessoalmente** com um membro do projeto (coordenador e/ou professor).
 
 2. Faça a inscrição via [SIGAA](https://sigaa.unemat.br/sigaa).
 
 3. Elabore o Plano de Trabalho e encaminhe ao professor para aprovação (use o formulário abaixo).
 
-4. Após revisão, obtenha a assinatura do responsável pela empresa e devolva o plano assinado.
+4. Após revisão, **obtenha a assinatura do responsável pela empresa e devolva o plano assinado**.
 
 5. Inicie as atividades após a aprovação.
 
+6. Realize o envio dos materiais de cada etapa acima usando os links de cada fase.   
+
 ---
-# 8. Agendamento 
+# 8. Agendamento e formulário
 
 Agendamento de reunião e envio de ideia inicial (plano de trabalho)
 

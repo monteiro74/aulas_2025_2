@@ -2,9 +2,9 @@ Projeto de extensão ISIS
 
 
 - [Projeto Inovação em Sistemas de Informação (ISIS) (Projeto de extensão) \[PJ134-2025\].](#projeto-inovação-em-sistemas-de-informação-isis-projeto-de-extensão-pj134-2025)
-  - [Coordenador do projeto:	 Emiliano Soares Monteiro](#coordenador-do-projeto-emiliano-soares-monteiro)
-  - [Área do conhecimento (CNPq):	 Tecnologia e Produção](#área-do-conhecimento-cnpq-tecnologia-e-produção)
-  - [Membros docentes da UNEMAT:](#membros-docentes-da-unemat)
+  - [:sunglasses: Coordenador do projeto: Emiliano Soares Monteiro](#sunglasses-coordenador-do-projeto-emiliano-soares-monteiro)
+  - [:fire: Área do conhecimento (CNPq):	 Tecnologia e Produção](#fire-área-do-conhecimento-cnpq-tecnologia-e-produção)
+  - [:star: Membros docentes da UNEMAT:](#star-membros-docentes-da-unemat)
 - [1. DESCRIÇÃO RESUMIDA:](#1-descrição-resumida)
 - [2. OBJETIVOS:](#2-objetivos)
 - [3. METODOLOGIA:](#3-metodologia)
@@ -26,11 +26,11 @@ Projeto de extensão ISIS
 
 # Projeto Inovação em Sistemas de Informação (ISIS) (Projeto de extensão) [PJ134-2025].
 
-## Coordenador do projeto:	 Emiliano Soares Monteiro
+## :sunglasses: Coordenador do projeto: Emiliano Soares Monteiro
 
-## Área do conhecimento (CNPq):	 Tecnologia e Produção
+## :fire: Área do conhecimento (CNPq):	 Tecnologia e Produção
 
-## Membros docentes da UNEMAT:	
+## :star: Membros docentes da UNEMAT:	
 
 * Benevid Félix da Silva 
 * Francisco Sanches Banhos Filho

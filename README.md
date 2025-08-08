@@ -1,9 +1,5 @@
-# aulas_2025_2
-Disciplinas para 2025/2
+# Disciplinas para 2025/2
 
-# Atenção (ISIS)
-
-Projeto de extensão aprovado, maiores detalhes [aqui](https://www.pontodeensino.com/projetos/isis).
 
 
 ---
@@ -37,7 +33,7 @@ https://cms.unemat.br/storage/documentos/bloco-documento-arquivo/fzPAyPvWQrw6zoH
 
 ## 4.2. Calendário do curso 2025/2
 
-
+https://unemat.br/pro-reitoria/proeg/calend%C3%A1rio-acad%C3%AAmico
 
 ---
 # 5. Horários
@@ -66,11 +62,4 @@ https://cms.unemat.br/download/documentos/bloco-documento-arquivo/Z7V40ETDcn8Cqz
 # 7. Outros repositórios de apoio no github
 
 https://github.com/monteiro74?tab=repositories
-
-
----
-# 8. Localização das disciplinas no quadro geral do curso
-
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/disciplinas.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/disciplinas.png)
 

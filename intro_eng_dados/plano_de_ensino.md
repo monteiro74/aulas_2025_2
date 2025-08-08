@@ -37,7 +37,7 @@ Plano de ensino - Introdução à Engenharia de Dados
     - [🔐 14.2.7. Governança de Dados](#-1427-governança-de-dados)
     - [📊 14.2.8. Big Data](#-1428-big-data)
   - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
-  - [15. Exemplos usados em sala de aula](#15-exemplos-usados-em-sala-de-aula)
+  - [📄 15. Exemplos usados em sala de aula](#-15-exemplos-usados-em-sala-de-aula)
 
 
 ---
@@ -415,7 +415,7 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 
 
-### 15. Exemplos usados em sala de aula 
+### 📄 15. Exemplos usados em sala de aula 
 
 Algoritmos classificadores, comparação:
 

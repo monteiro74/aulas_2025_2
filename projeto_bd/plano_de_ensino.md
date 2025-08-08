@@ -111,28 +111,28 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-| 1   | 06/mar | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas. [Slides da aula 1](https://docs.google.com/presentation/d/1k2S8-ciWdA36AHM13OM1-yuJUCzB5jlZlgVFjLHHRNY/view)e [referências bibliográficas](https://docs.google.com/presentation/d/1StFHjTjcc9mpTTDoWmMHJibmx2n17o8FLwxMhHskXZo/view), [Ranking de bancos de dados](https://docs.google.com/presentation/d/1d9IFPUf_Pc4PV1Q8Vrq46xc_5BxJyFlbQdepoCTIcZg/view).  |
-|  2  | 13/mar | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. Conceitos de BD e SGBD, Comparações com SO e arquivos. Estrutura interna. [Slides da aula 2](https://docs.google.com/presentation/d/1Q8MyeK5AGzpnQ2yHfWyzstUnkgXiQeJxDYm6Up1Nzr0/view). [Scripts SQL p/ MySQL e SQL Server](https://github.com/monteiro74/aulas_2025_1/tree/main/Modelagem_de_projeto_BD). |
-| 3  | 20/mar  | 3hs | Conceito de transação. ACID. Concorrência. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. [Detalhes do SQL Server](https://docs.google.com/presentation/d/1uHECTMhqvmWZwq8FGt-_9UGawGFrTfSnWb28YGy8Of8/view). [Conhecendo o SSMS](https://docs.google.com/presentation/d/1TnanbvGRm8B0Kn_b9BB3GSLUgq65gkmlEskGpJk7QP0/view). [Monitorando o SQL Server e propriedades do servidor](https://docs.google.com/presentation/d/1cwH2mM63vV5QxTIipVqGLdmWvwDal8SLZwG7hAuv5nY/view). [Slides da aula 3](https://docs.google.com/presentation/d/1TdDhVu5FDH-svhK1HecBWRPBAnkfGgp6DKsxhiaFemQ/view). [Segurança de aplicações](https://docs.google.com/presentation/d/1oW90UpNWErX7yvV3oBtBBgHvMPJuYnXWZMHvzkl09To/view). [Threads](https://docs.google.com/presentation/d/1zXQdDfjkuTqLSq8I1RmeEkz_H3RDJIBNZabzfW6vZGg/view). |
-| 4   | 27/mar | 3hs | Modelo ER, criação de tabelas e diagramas no SSMS, Join no SQL Server.  Criação de tabelas e diagramas no SQL Server. Joins no SQL Server. [SQL Server, criação de tabelas](https://docs.google.com/presentation/d/1WUcHWo3uwYIhLZAfp_-I0LiEPOwCKlLhf18IHdh8I8I/view), [Modelo de dados relacional](https://docs.google.com/presentation/d/1PAWy0t3O0Un5vwTfP_Zex4ZblXRLg4weeor8NDeYm6c/view), [SQL Joins no SQL Server](https://docs.google.com/presentation/d/1mwNJbEtrn_JaRL7ujMjtijDwjzh5E7Ljmi9PClNyrGI/view). |
-| 5   | 03/abr | 3hs | **Avaliação 1**.  |
-| 6   | 10/abr | 3hs | <!-- Normalização. Revisão de modelo ER. Revisão do modelo ER. Normalização. SQL Joins.. Objetos do banco. Conexão ODBC. Conexão do Excel com SQL Server. Conectando LibreOffice via ODBC: ctrl + shift + F4. Conceitos de ODBC. Detalhes ODBC. --> Normalização. Revisão de modelo ER. Conceitos de ODBC. Conexão ODBC com Power BI e Excel. [ODBC](https://docs.google.com/presentation/d/1fRHFyps9MnBF_eIAlIEKk73S-bTrAPlImunOi68BAkE/view). [DW, BI](https://docs.google.com/presentation/d/1gvXrmCMsLwHKwgSqhFKVFs4niW3XlRg6cK1ebdLtqZE/view). [Importação de dados do Excel p/ SQL Server](https://docs.google.com/presentation/d/1OhPqv-H0wK5WUS2gcWWVrlc4jrs4R0HfnvvmBnWMle4/view). [Objetos do banco SQL Server](https://docs.google.com/presentation/d/1OhPqv-H0wK5WUS2gcWWVrlc4jrs4R0HfnvvmBnWMle4/view).|
-|   | 17/abr |  | <!-- Criação de conta de usuário. Importação dados (uma tabela do Excel) e flat file (texto puro em csv). Resultado do exercício PowerBI. Arquivo do exercício com PowerBI. Tutorial de Power BI. Tutorial de importação de flat file. Importação de planilha Excel. --> Não haverá aula, feriado.|
-| 7   | 24/abr | 3hs | <!-- Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table).  +1h reprogramada referênte ao dia 27/02. -->  [Exercício mineradora](https://docs.google.com/presentation/d/1NHSY2LNHHY9ITMlO56JYuLnkAsSkETv1Vre5O6Ur6A8/view), [Conexões ODBC](https://docs.google.com/presentation/d/1We7-yJVxtQoRtPk2Lyy8UqwgEA7mYZHuH0sSWYSOZlE/view), [SQL Server criptografia](https://docs.google.com/presentation/d/1rcYGif4Nb1B9wK-32KVm5tho36u6hcAdkbmO3BUJlaE/view), [SQL Server Migration Assistante](https://docs.google.com/presentation/d/1lYyq8emcwasYhNjsmyxq0pUNUvMjNPllayOmScSZ89I/view), [Intro. blockchain](https://docs.google.com/presentation/d/1hs-bvkG2r99NErw3_0_OOuP0OMg4quwuHwy5ri8iNow/view). |
-| 8  | 08/mai | 3hs | Modelagem de dados, exercícios com diagrama ER.  |
-| 9  | 15/mai | 3hs | **Avaliação 2**. |
-| 10  | 22/mai | 3hs | Revisão de modelagem de dados, finalização de [Blockchain](https://docs.google.com/presentation/d/1hs-bvkG2r99NErw3_0_OOuP0OMg4quwuHwy5ri8iNow/view). |
-| 11  | 29/mai | 3hs | <!-- +1h reprogramada referênte ao dia 27/02. --> [Multichain blockchain](https://docs.google.com/presentation/d/1FAnn5t2rphlXewBBUFbNuVSfp4y2B1wKYFmwBdOz6VY/view), [Exemplo de exercício com Multichain Blockchain](https://docs.google.com/presentation/d/1r5Ny9dH8XKeleMUWNuWjzPNlbVwuBQKjjkjITa_jqPY/view), [Bancos NoSQL](https://docs.google.com/presentation/d/19YZpn8Y07P2op-goaFZTeFUgn1WZ4wFGcaQ_393Dxl4/view), [Bancos distribuídos](https://docs.google.com/presentation/d/1kr5VIgCDO30gtL6sGo8M1Hme2cs9S1VrWCu7vGvbRfk/view). Extra... [Tutorial para uso da Multichain](https://www.multichain.com/getting-started/). |
-| 12  | 05/jun | 3hs | <!-- Banco vetorial, SQL Server Profiler.     --> [Side chain, private blockchain x public blockchain, SQL Server Ledger Table, Oracle Table, SQL Server Profiler](https://docs.google.com/presentation/d/1Lc1_R2P19VCIaXcVBvByyqNlneOCyteMgEqB8bxF1F0/view). |
-| 13  | 12/jun | 3hs | <!-- **Avaliação 3**, Conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares), entrega de notas, revisão para PF. --> Migração de um banco OLTP para OLAP. |
-| 14  | 26/jun | 3hs | **Avaliação 3** |
+| 1   | 14/08 | 3hs |  |
+| 2   | 21/08 | 3hs |  |
+| 3   | 28/08 | 3hs |  |
+| 4   | 04/09 | 3hs |**Avaliação 1**. |
+| 5   | 11/09 | 3hs |  |
+| 6   | 18/09 | 3hs |  |
+| 7   | 25/09 | 3hs |  |
+| 8   | 02/10 | 3hs |  |
+| 9   | 09/10 | 3hs |  |
+| 10  | 16/10 | 3hs |  |
+| 11  | 23/10 | 3hs |  |
+| 12  | 30/10 | 3hs | **Avaliação 2**. |
+| 13  | 06/11 | 3hs |  |
+| 14  | 13/11 | 3hs |  |
+| 15  | 20/11 | 3hs | **Avaliação 3** |
 
 
 ## :date: 5. Unidades de avaliações
 
-* Avaliação 1: 03/04/2025.
-* Avaliação 2: 15/05/2025.
-* Avaliação 3: 26/06/2025.
+* Avaliação 1: 04/09/2025.
+* Avaliação 2: 30/10/2025.
+* Avaliação 3: 20/11/2025.
 
 ---
 ## :hammer_and_wrench: 6. Links para download de ferramentas

@@ -102,21 +102,21 @@ No momento os professores que temos no curso são:
 |1 | ANDRESSA FABRINA KLAUCK | ÉTICA, INFORMÁTICA E SOCIEDADE | Pesquisas relacionadas a LGPD <br> Marco Cível da internet <br> Uso de tecnologias e sua interação na sociedade. |
 |2 | BENEVID FELIX DA SILVA  | PROGRAMAÇÃO ESTRUTURADA <br> LABORATÓRIO DE PROGRAMAÇÃO <br> TÓPICOS ESPECIAIS EM PROGRAMAÇÃO| Tecnologías emergentes em inteligencia artificial |
 |3 |CRISTIANO CAMPOS DE MIRANDA | FUNDAMENTOS DE MATEMÁTICA | Área de ensino |
-|4 |EDSON MINORU SASSAKI        |INTRODUÇÃO À ÁLGEBRA LINEAR <br> ARITMÉTICA E MATEMÁTICA DISCRETA |
-|5 |ELIAS ANTONIO MORGAN |SISTEMAS OPERACIONAIS <br> INTELIGÊNCIA COMPUTACIONAL <br> INTRODUÇÃO À SEGURANÇA COMPUTACIONAL |
-|6 | ELISANGELA DIAS BRUGNERA | INTERAÇÃO HOMEM E COMPUTADOR |
+|4 |EDSON MINORU SASSAKI        |INTRODUÇÃO À ÁLGEBRA LINEAR <br> ARITMÉTICA E MATEMÁTICA DISCRETA | |
+|5 |ELIAS ANTONIO MORGAN |SISTEMAS OPERACIONAIS <br> INTELIGÊNCIA COMPUTACIONAL <br> INTRODUÇÃO À SEGURANÇA COMPUTACIONAL | |
+|6 | ELISANGELA DIAS BRUGNERA | INTERAÇÃO HOMEM E COMPUTADOR | |
 |7 | ELIZEU MARTINS DE OLIVEIRA JUNIOR | PROBABILIDADE E ESTATÍSTICA |
-|8 | EMILIANO SOARES MONTEIRO | MODELAGEM E PROJETO DE BANCO DE DADOS <br> INTRODUÇÃO À ENGENHARIA DE DADOS|
-|9| FERNANDA DE SOUZA PEDROSO CAMPELO | LEITURA E PRODUÇÃO DE TEXTOS |
+|8 | EMILIANO SOARES MONTEIRO | MODELAGEM E PROJETO DE BANCO DE DADOS <br> INTRODUÇÃO À ENGENHARIA DE DADOS| Supply chain (cadeia de suprimentos  e rastreabilidade) <br> IoT e tratamento de dados via ETL e dashboards <br> Blockchain e Multichain blockchain <br> Database ledger (com SQL Server ou Oracle) <br> Blockchain privadas e consórcio de blockchain <br> Sistemas de gestão e suporte empresariais <br> ERP, BI, CRM  e integrações de sistemas <br> Operações de ETL e dashboards de BI <br> Ferramentas de desenvolvimento Low Code, No Code, CASE e IDEs RAD <br> Scrum e RAD, aplicação de metodologias e testes <br> Desenvolvimento mobile (com .NET Maui) <br> Redes de computadores (coleta e análise de dados)<br> |
+|9| FERNANDA DE SOUZA PEDROSO CAMPELO | LEITURA E PRODUÇÃO DE TEXTOS | |
 |10| FRANCISCO SANCHES BANHOS FILHO | LABORATÓRIO DE BANCO DE DADOS <br> ESTRUTURAS DE DADOS | Arquiteturas de Big Data (Data Lakes, Lakehouses). <br> Pipelines de dados (ETL/ELT) otimizados e automatizados. <br> Visualização de dados e análise exploratória em larga escala. <br> Escalabilidade, resiliência e consistência em sistemas distribuídos. <br> Computação em Nuvem (Cloud), de Borda (Edge) e Névoa (Fog). <br> Protocolos de comunicação e otimização de desempenho em redes. <br> Bancos de dados distribuídos (NoSQL, NewSQL). <br> Modelos de programação paralela (MPI, OpenMP, CUDA). <br> Projeto e análise de algoritmos paralelos. <br> Virtualização de recursos de HPC. <br> Ecossistema Apache Hadoop/Yarn.|
-|11|GREGORY DUARTE JUFFO|	METODOLOGIA DE PESQUISA |
+|11|GREGORY DUARTE JUFFO|	METODOLOGIA DE PESQUISA | |
 |12|IVAN LUIZ PEDROSO PIRES|	FRAMEWORKS MODERNOS PARA DESENVOLVIMENTO DE SISTEMAS| Sistemas web |
-|13|JANECLER FOPPA|	PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO |
+|13|JANECLER FOPPA|	PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO | |
 |14|JOAO RICARDO DOS SANTOS ROSA|	ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES <br> INTRODUÇÃO AO DESENVOLVIMENTO WEB | Acessibilidade, usabilidade, UX, engenharia de software, engenharia de requisitos, design ou prototipação, interação humano-computador |
-|15| JULIANO FERNANDES DE AVILA | DESENVOLVIMENTO WEB <br> GERÊNCIA DE PROJETOS DE SOFTWARE|
-|16| MAICON APARECIDO SARTIN | INTRODUÇÃO ÀS REDES DE COMPUTADORES <br> TÓPICOS ESPECIAIS EM COMPUTAÇÃO TECNOLÓGICA |
+|15| JULIANO FERNANDES DE AVILA | DESENVOLVIMENTO WEB <br> GERÊNCIA DE PROJETOS DE SOFTWARE| |
+|16| MAICON APARECIDO SARTIN | INTRODUÇÃO ÀS REDES DE COMPUTADORES <br> TÓPICOS ESPECIAIS EM COMPUTAÇÃO TECNOLÓGICA | |
 |17| MAURO FRANCISCO DOS SANTOS JUNIOR | GESTÃO EM TECNOLOGIA DE INFORMAÇÃO <br> INTRODUÇÃO À COMPUTAÇÃO <br> TÓPICOS ESPECIAIS EM COMPUTAÇÃO APLICADA |
-|18| NADISSON LUIS PAVAN | INTRODUÇÃO À LÓGICA MATEMÁTICA |
+|18| NADISSON LUIS PAVAN | INTRODUÇÃO À LÓGICA MATEMÁTICA | |
 |19| RAMILTON COSTA GOMES JUNIOR | ENGENHARIA DE SOFTWARE <br> ADMINISTRAÇÃO E INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO <br> COMPUTAÇÃO E SISTEMAS DISTRIBUÍDOS | Banco de dados, segurança, computação forense, IA, visão computacional |
 |20| TALES NEREU BOGONI | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | Empreendedorismo, desenvolvimento de sistemas, técnicas de scrapping |
 

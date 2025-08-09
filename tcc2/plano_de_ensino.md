@@ -86,6 +86,12 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 ---
 ## :alarm_clock: Professores x áreas de orientação
 
+| Professor | Área de orientação |
+|-----------|--------------------|
+|           |                    |
+
+---
+## 📆 Calendário geral
 
 ---
 ## 📆 Calendário de bancas

@@ -12,6 +12,7 @@ Plano de ensino - TCC1
 - [:books: 4. Referências](#books-4-referências)
 - [:green\_book: 5. Como estudar (dicas)](#green_book-5-como-estudar-dicas)
 - [:alarm\_clock: Professores x áreas de orientação](#alarm_clock-professores-x-áreas-de-orientação)
+- [📆 Calendário geral](#-calendário-geral)
 - [📆 Calendário de bancas](#-calendário-de-bancas)
 
 
@@ -93,7 +94,12 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 ---
 ## :alarm_clock: Professores x áreas de orientação
 
+| Professor | Área de orientação |
+|-----------|--------------------|
+|           |                    |
+
+---
+## 📆 Calendário geral
 
 ---
 ## 📆 Calendário de bancas
-

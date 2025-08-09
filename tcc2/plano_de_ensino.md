@@ -158,13 +158,13 @@ Relação professor x aluno:
 
 
 
-![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto.png?raw=true)
+![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto2.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto2.png?raw=true)
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/setembro.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/setembro.png?raw=true)
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png)
 
-![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro.png?raw=true)
+![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro2.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro2.png?raw=true)
 
 
 

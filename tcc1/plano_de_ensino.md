@@ -48,20 +48,20 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |-----|--------|--------------|----------|
 |  1  | 13/08  | 1hs  | Introdução a disciplina, detalhamento do trabalho, orientações gerais, acompanhamento do desenvolvimento do trabalho aluno-orientador.  |
 |  2  | 20/08  | 1hs  | Introdução a disciplina, detalhamento do trabalho, orientações gerais, acompanhamento do desenvolvimento do trabalho aluno-orientador. |
-|  3  | 23/08  | 3hs  | Acompanhamento do trabalho aluno-orientador.  |
-|  4  | 30/08  | 3hs  | Avaliação 1. Entrega de termos de orientação. |
-|  5  | 06/09  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
-|  6  | 13/09  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
-|  7  | 20/09  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
-|  8  | 27/09  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
-|  9  | 04/10  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
-|  10 | 11/10  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
-|  11 | 18/10  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
-|  12 | 25/10  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
-|  13 | 01/11  | 3hs  | Avaliação 2, entrega de trabalho para banca.  |
-|  14 | 08/11  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
-|  15 | 22/11  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
-|  16 | 29/11  | 3hs  | Avaliação 3, entrega de versão final do trabalho. |
+|  3  | 23/08  | 2hs  | Acompanhamento do trabalho aluno-orientador.  |
+|  4  | 30/08  | 2hs  | **Avaliação 1. Entrega de termos de orientação.** |
+|  5  | 06/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  6  | 13/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  7  | 20/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  8  | 27/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  9  | 04/10  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  10 | 11/10  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  11 | 18/10  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  12 | 25/10  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  13 | 01/11  | 2hs  | **Avaliação 2. Entrega de trabalho para banca.**  |
+|  14 | 08/11  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  15 | 22/11  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  16 | 29/11  | 2hs  | **Avaliação 3, entrega de versão final do trabalho.** |
 
 
 ## :date: 3. Datas de avaliações

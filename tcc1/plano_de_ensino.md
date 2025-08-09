@@ -1,5 +1,19 @@
 Plano de ensino - TCC1
 
+- [:game\_die: 1. Turma: TCC1](#game_die-1-turma-tcc1)
+  - [:watch: 1.1. Carga Horária Total: 30](#watch-11-carga-horária-total-30)
+  - [:hourglass\_flowing\_sand: 1.2. Horário:](#hourglass_flowing_sand-12-horário)
+  - [:page\_with\_curl: 1.3. Ementa](#page_with_curl-13-ementa)
+  - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
+  - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
+  - [:hourglass\_flowing\_sand: 1.6. Horário de atendimento](#hourglass_flowing_sand-16-horário-de-atendimento)
+- [:date: 2. Datas de aulas e conteúdo](#date-2-datas-de-aulas-e-conteúdo)
+- [:date: 3. Datas de avaliações](#date-3-datas-de-avaliações)
+- [:books: 4. Referências](#books-4-referências)
+- [:green\_book: 5. Como estudar (dicas)](#green_book-5-como-estudar-dicas)
+- [:alarm\_clock: Professores x áreas de orientação](#alarm_clock-professores-x-áreas-de-orientação)
+- [📆 Calendário de bancas](#-calendário-de-bancas)
+
 
 ---
 ## :game_die: 1. Turma: TCC1
@@ -10,12 +24,9 @@ Plano de ensino - TCC1
 
 ### :page_with_curl: 1.3. Ementa
 
-
 ### :page_with_curl: 1.4. Metodologia
 
-
 ### :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem
-
 
 ### :hourglass_flowing_sand: 1.6. Horário de atendimento
 
@@ -53,7 +64,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## :books: 4. Livros (básicos)
+## :books: 4. Referências
 
 
 * MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
@@ -62,14 +73,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## :newspaper: 5. Artigos (referências bibliográficas complementares)
-
----
-### :books: 5.1. Outras referências complementares
-
-
----
-## :green_book: 6. Como estudar (dicas)
+## :green_book: 5. Como estudar (dicas)
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -79,9 +83,9 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## :alarm_clock: 7. Carga horária de 15hs adicionais (remota/online)
+## :alarm_clock: Professores x áreas de orientação
 
-Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
-### 🎓 7.1. Playlist (até 15h)
+---
+## 📆 Calendário de bancas
 

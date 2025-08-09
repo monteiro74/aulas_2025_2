@@ -1,8 +1,8 @@
 Plano de ensino - TCC1
 
-- [:game\_die: 1. Turma: TCC1](#game_die-1-turma-tcc1)
+- [:game\_die: 1. Turma: TCC1 FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2025.2)](#game_die-1-turma-tcc1-facet-snp-336---trabalho-de-conclusão-de-curso-i---t01-20252)
   - [:watch: 1.1. Carga Horária Total: 30](#watch-11-carga-horária-total-30)
-  - [:hourglass\_flowing\_sand: 1.2. Horário:](#hourglass_flowing_sand-12-horário)
+  - [:hourglass\_flowing\_sand: 1.2. Horário: 30 horas, noturno, sábado.](#hourglass_flowing_sand-12-horário-30-horas-noturno-sábado)
   - [:page\_with\_curl: 1.3. Ementa](#page_with_curl-13-ementa)
   - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
   - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
@@ -16,15 +16,22 @@ Plano de ensino - TCC1
 
 
 ---
-## :game_die: 1. Turma: TCC1
+## :game_die: 1. Turma: TCC1 FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2025.2)
 
 ### :watch: 1.1. Carga Horária Total: 30
 
-### :hourglass_flowing_sand: 1.2. Horário: 
+### :hourglass_flowing_sand: 1.2. Horário: 30 horas, noturno, sábado.
 
 ### :page_with_curl: 1.3. Ementa
 
+Elaboração e formatação de um projeto de pesquisa ao nível de graduação.
+
 ### :page_with_curl: 1.4. Metodologia
+
+Nota 1: Envio de documentação relativa a aceitação de orientação com orientador e alinhamento de tema.
+Nota 2: Envio de documento do TCC1
+Nota 3: Nota elaborada pela banca.
+Conforme: Resolução CONEPE Nº 038/2022, páginas 18 a 19 e Resolução Nº 030/2012.
 
 ### :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem
 
@@ -39,21 +46,22 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  |   | 3hs  |  |
-|  2  |   | 3hs  |  |
-|  3  |   | 3hs  |  |
-|  4  |   | 3hs  |  |
-|  5  |   | 3hs  |  |
-|  6  |   | 3hs  |  |
-|  7  |   | 3hs  |  |
-|  8  |   | 3hs  |  |
-|  9  |   | 3hs  |  |
-|  10 |   | 3hs  |  |
-|  11 |   | 3hs  |  |
-|  12 |   | 3hs  |  |
-|  13 |   | 3hs  |  |
-|  14 |   | 3hs  |  |
-|  15 |   | 3hs  |  |
+|  1  | 13/08  | 1hs  | Introdução a disciplina, detalhamento do trabalho, orientações gerais, acompanhamento do desenvolvimento do trabalho aluno-orientador.  |
+|  2  | 20/08  | 1hs  | Introdução a disciplina, detalhamento do trabalho, orientações gerais, acompanhamento do desenvolvimento do trabalho aluno-orientador. |
+|  3  | 23/08  | 3hs  | Acompanhamento do trabalho aluno-orientador.  |
+|  4  | 30/08  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
+|  5  | 06/09  | 3hs  | Avaliação 1. |
+|  6  | 13/09  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
+|  7  | 20/09  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
+|  8  | 27/09  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
+|  9  | 04/10  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
+|  10 | 11/10  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
+|  11 | 18/10  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
+|  12 | 25/10  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
+|  13 | 01/11  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
+|  14 | 08/11  | 3hs  | Avaliação 2, entrega de trabalho para banca. |
+|  15 | 22/11  | 3hs  | Acompanhamento do trabalho aluno-orientador. |
+|  15 | 29/11  | 3hs  | Avaliação 3, encerramento. |
 
 
 ## :date: 3. Datas de avaliações

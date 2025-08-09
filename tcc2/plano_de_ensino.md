@@ -53,7 +53,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  12 |   | 3hs  |  |
 |  13 |   | 3hs  |  |
 |  14 |   | 3hs  |  |
-|  15 |   | 3hs  |  |
+|  15 |   | 3hs  | Avaliação 3. |
 
 
 ## :date: 3. Datas de avaliações

@@ -101,5 +101,14 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 ---
 ## 📆 Calendário geral
 
+![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto.png?raw=true)
+
+![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/setembro.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/setembro.png?raw=true)
+
+![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png)
+
+![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro.png?raw=true)
+
+
 ---
 ## 📆 Calendário de bancas

@@ -39,21 +39,22 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  |   | 3hs  |  |
-|  2  |   | 3hs  |  |
-|  3  |   | 3hs  |  |
-|  4  |   | 3hs  |  |
-|  5  |   | 3hs  |  |
-|  6  |   | 3hs  |  |
-|  7  |   | 3hs  |  |
-|  8  |   | 3hs  |  |
-|  9  |   | 3hs  |  |
-|  10 |   | 3hs  |  |
-|  11 |   | 3hs  |  |
-|  12 |   | 3hs  |  |
-|  13 |   | 3hs  |  |
-|  14 |   | 3hs  |  |
-|  15 |   | 3hs  | Avaliação 3. |
+|  1  | 14/08  | 1hs  |  |
+|  2  | 21/08  | 1hs  |  |
+|  3  | 23/08  | 2hs  |  |
+|  4  | 30/08  | 2hs  |  |
+|  5  | 06/09  | 2hs  |  |
+|  6  | 13/09  | 2hs  |  |
+|  7  | 20/09  | 2hs  |  |
+|  8  | 27/09  | 2hs  |  |
+|  9  | 04/09  | 2hs  |  |
+|  10  | 11/09  | 2hs  |  |
+|  11 | 18/10  | 2hs  |  |
+|  12 | 25/10  | 2hs  |  |
+|  13 | 01/11  | 2hs  |  |
+|  14 | 08/11  | 2hs  |  |
+|  15 | 22/11  | 2hs  |  |
+|  16 | 29/11  | 2hs  | Avaliação 3. Entrega de versão final do trabalho. |
 
 
 ## :date: 3. Datas de avaliações

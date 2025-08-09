@@ -28,22 +28,14 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |Sites utilizados|Url|
 |-----|-----|
 |Site do professor	| https://www.pontodeensino.com |
-|Site das disciplinas | https://sites.google.com/unemat.br/professoremiliano |
-|Sites das disciplinas no github | https://github.com/monteiro74/aulas_2025_1 |
+|Sites das disciplinas no github | https://github.com/monteiro74/aulas_2025_2 |
 |Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do|
 | Link Tree do curso | https://linktr.ee/si.unemat |
 | Página do curso | https://sinop.unemat.br/faculdades/facet/graduacao/sistemas-de-informacao-bacharelado-graduacao-presencial-noturno-sinop |
 
----
-## :abacus: 3. Repositórios de apoio
-
-|Sites utilizados|Url|
-|-----|-----|
-| Resumo de diagramas para Engenharia de Software | https://github.com/monteiro74/diagramas_resumo  |
-| Lista de ferramentas | https://github.com/monteiro74/lista_de_ferramentas |
 
 ---
-## :date: 4. Datas de aulas e conteúdo
+## :date: 3. Datas de aulas e conteúdo
 
 
 |Aula | Data   | Carga horária| Conteúdo |
@@ -65,16 +57,15 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  15 |   | 3hs  |  |
 
 
-## :date: 5. Datas de avaliações
+## :date: 4. Datas de avaliações
 
 * Avaliação 1: /09/2025
 * Avaliação 2: /10/2025
 * Avaliação 3: /11/2025
 
 
-
 ---
-## :books: 7. Livros (básicos)
+## :books: 5. Livros (básicos)
 
 
 * MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
@@ -83,16 +74,14 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## :newspaper: 8. Artigos (referências bibliográficas complementares)
+## :newspaper: 6. Artigos (referências bibliográficas complementares)
 
+---
+### :books: 6.1. Outras referências complementares
 
 
 ---
-### :books: 8.1. Outras referências complementares
-
-
----
-## :green_book: 9. Como estudar (dicas)
+## :green_book: 7. Como estudar (dicas)
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -101,13 +90,12 @@ As formas mais eficientes de estudar para prova
 https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
-
 ---
-## :alarm_clock: 14. Carga horária de 15hs adicionais (remota/online)
+## :alarm_clock: 8. Carga horária de 15hs adicionais (remota/online)
 
 Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
-### 🎓 14.1. Playlist de Introdução à Engenharia de Dados (até 15h)
+### 🎓 8.1. Playlist de Introdução à Engenharia de Dados (até 15h)
 
 | #  | Tópico               | Título do Vídeo                                                 | Duração Estimada | URL      |
 |----|----------------------|-----------------------------------------------------------------|----------|----------|

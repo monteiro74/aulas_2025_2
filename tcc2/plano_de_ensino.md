@@ -12,6 +12,7 @@ Plano de ensino - TCC2
 - [:books: 4. Referências](#books-4-referências)
 - [:green\_book: 5. Como estudar (dicas)](#green_book-5-como-estudar-dicas)
 - [:alarm\_clock: Professores x áreas de orientação](#alarm_clock-professores-x-áreas-de-orientação)
+- [📆 Calendário geral](#-calendário-geral)
 - [📆 Calendário de bancas](#-calendário-de-bancas)
 
 

@@ -16,7 +16,7 @@ Projeto de extensão ISIS
   - [📢 3.7.  Documentação e Disseminação Objetivo:](#-37--documentação-e-disseminação-objetivo)
   - [🔎 3.8. Avaliação e Encerramento Objetivo:](#-38-avaliação-e-encerramento-objetivo)
 - [🌲 4. Vagas e período:](#-4-vagas-e-período)
-- [⏰ 5. Conteúdo do PLANO DE TRABALHO](#-5-conteúdo-do-plano-de-trabalho)
+- [📓 5. Conteúdo do PLANO DE TRABALHO](#-5-conteúdo-do-plano-de-trabalho)
 - [📆 6. Cronograma](#-6-cronograma)
     - [🔔 Atenção para o cronograma](#-atenção-para-o-cronograma)
 - [🌲 7. Processo de inscrição](#-7-processo-de-inscrição)
@@ -89,7 +89,7 @@ Período: 07/04/2025 a 07/04/2026.<br>
 Aprovado em: 16/04/2025.<br>
 
 ---
-# ⏰ 5. Conteúdo do PLANO DE TRABALHO
+# 📓 5. Conteúdo do PLANO DE TRABALHO
 
 O aluno deverá apresentar um plano de trabalho contendo:
 
@@ -162,4 +162,4 @@ Agendamento de reunião e envio de ideia inicial (plano de trabalho)
 Use este [formulário](https://forms.gle/WmozF1kawhHPkPzi8) para enviar o plano de trabalho e marcar uma reunião com seu orientador.
 
 
-* 🔔 ATENÇÃO: Esta página poderá sofrer alterações sem aviso prévio.
+* 🔔 **ATENÇÃO**: Esta página poderá sofrer alterações sem aviso prévio.

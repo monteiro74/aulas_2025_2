@@ -104,7 +104,7 @@ No momento os professores que temos no curso são:
 |3 |CRISTIANO CAMPOS DE MIRANDA | FUNDAMENTOS DE MATEMÁTICA | Área de ensino |
 |4 |EDSON MINORU SASSAKI        |INTRODUÇÃO À ÁLGEBRA LINEAR <br> ARITMÉTICA E MATEMÁTICA DISCRETA | |
 |5 |ELIAS ANTONIO MORGAN |SISTEMAS OPERACIONAIS <br> INTELIGÊNCIA COMPUTACIONAL <br> INTRODUÇÃO À SEGURANÇA COMPUTACIONAL | |
-|6 | ELISANGELA DIAS BRUGNERA | INTERAÇÃO HOMEM E COMPUTADOR | |
+|6 | ELISANGELA DIAS BRUGNERA | INTERAÇÃO HOMEM E COMPUTADOR | Tecnologias assistiva, tecnologias na educação, IHC |
 |7 | ELIZEU MARTINS DE OLIVEIRA JUNIOR | PROBABILIDADE E ESTATÍSTICA |
 |8 | EMILIANO SOARES MONTEIRO | MODELAGEM E PROJETO DE BANCO DE DADOS <br> INTRODUÇÃO À ENGENHARIA DE DADOS| Supply chain (cadeia de suprimentos  e rastreabilidade) <br> IoT e tratamento de dados via ETL e dashboards <br> Blockchain e Multichain blockchain <br> Database ledger (com SQL Server ou Oracle) <br> Blockchain privadas e consórcio de blockchain <br> Sistemas de gestão e suporte empresariais <br> ERP, BI, CRM  e integrações de sistemas <br> Operações de ETL e dashboards de BI <br> Ferramentas de desenvolvimento Low Code, No Code, CASE e IDEs RAD <br> Scrum e RAD, aplicação de metodologias e testes <br> Desenvolvimento mobile (com .NET Maui) <br> Redes de computadores (coleta e análise de dados)<br> |
 |9| FERNANDA DE SOUZA PEDROSO CAMPELO | LEITURA E PRODUÇÃO DE TEXTOS | |

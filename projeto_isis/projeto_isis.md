@@ -3,7 +3,8 @@ Projeto de extensão ISIS
 - [⭐ Projeto Inovação em Sistemas de Informação (ISIS) (Projeto de extensão) \[PJ134-2025\].](#-projeto-inovação-em-sistemas-de-informação-isis-projeto-de-extensão-pj134-2025)
   - [👮 Coordenador do projeto: Emiliano Soares Monteiro](#-coordenador-do-projeto-emiliano-soares-monteiro)
   - [💥 Área do conhecimento (CNPq):	 Tecnologia e Produção](#-área-do-conhecimento-cnpq-tecnologia-e-produção)
-  - [😎 Membros docentes da UNEMAT:](#-membros-docentes-da-unemat)
+  - [👨‍🏫 Membros docentes da UNEMAT:](#-membros-docentes-da-unemat)
+  - [👨‍🎓 Membros discentes:](#-membros-discentes)
 - [🌲 1. DESCRIÇÃO RESUMIDA:](#-1-descrição-resumida)
 - [🌲 2. OBJETIVOS:](#-2-objetivos)
 - [🌲 3. METODOLOGIA:](#-3-metodologia)
@@ -21,6 +22,7 @@ Projeto de extensão ISIS
     - [🔔 Atenção para o cronograma](#-atenção-para-o-cronograma)
 - [🌲 7. Processo de inscrição](#-7-processo-de-inscrição)
 - [📝 8. Agendamento e formulário](#-8-agendamento-e-formulário)
+  - [Atenção](#atenção)
 
 
 # ⭐ Projeto Inovação em Sistemas de Informação (ISIS) (Projeto de extensão) [PJ134-2025].
@@ -29,11 +31,21 @@ Projeto de extensão ISIS
 
 ## 💥 Área do conhecimento (CNPq):	 Tecnologia e Produção
 
-## 😎 Membros docentes da UNEMAT:	
+## 👨‍🏫 Membros docentes da UNEMAT:	
 
 * Benevid Félix da Silva 
 * Francisco Sanches Banhos Filho
 * Ivan Luiz Pedroso Filho
+
+## 👨‍🎓 Membros discentes:
+
+|    | Alunos                  | Professor          |
+|----|-------------------------|--------------------|
+| 1️⃣ | * Camila Weber          | Emiliano S. M.     |
+| 2️⃣ | * Alan Pasqualetto      | Ivan Pires         |
+| 3️⃣ | * Vitor L. de Oliveira  | Ivan Pires         |
+| 4️⃣ | * Vitor E. S. Sauzen    | Ivan Pires         |
+
 
 ---
 # 🌲 1. DESCRIÇÃO RESUMIDA:
@@ -162,4 +174,8 @@ Agendamento de reunião e envio de ideia inicial (plano de trabalho)
 Use este [formulário](https://forms.gle/WmozF1kawhHPkPzi8) para enviar o plano de trabalho e marcar uma reunião com seu orientador.
 
 
-* 🔔 **ATENÇÃO**: Esta página poderá sofrer alterações sem aviso prévio.
+---
+## Atenção
+* 🔔  Esta página poderá sofrer alterações sem aviso prévio.
+
+* ícones usados nesta página: https://gist.github.com/rxaviers/7360908 e https://github.com/ikatyang/emoji-cheat-sheet

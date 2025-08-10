@@ -105,7 +105,7 @@ No momento os professores que temos no curso são:
 |10| FRANCISCO SANCHES BANHOS FILHO | LABORATÓRIO DE BANCO DE DADOS <br> ESTRUTURAS DE DADOS | Arquiteturas de Big Data (Data Lakes, Lakehouses). <br> Pipelines de dados (ETL/ELT) otimizados e automatizados. <br> Visualização de dados e análise exploratória em larga escala. <br> Escalabilidade, resiliência e consistência em sistemas distribuídos. <br> Computação em Nuvem (Cloud), de Borda (Edge) e Névoa (Fog). <br> Protocolos de comunicação e otimização de desempenho em redes. <br> Bancos de dados distribuídos (NoSQL, NewSQL). <br> Modelos de programação paralela (MPI, OpenMP, CUDA). <br> Projeto e análise de algoritmos paralelos. <br> Virtualização de recursos de HPC. <br> Ecossistema Apache Hadoop/Yarn.|
 |11|GREGORY DUARTE JUFFO|	METODOLOGIA DE PESQUISA | |
 |12|IVAN LUIZ PEDROSO PIRES|	FRAMEWORKS MODERNOS PARA DESENVOLVIMENTO DE SISTEMAS| Sistemas web |
-|13|JANECLER FOPPA|	PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO | |
+|13|JANECLER FOPPA|	PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO | Tópicos Especiais em Computação aplicada <br> Interação Homem Computador <br> Gestão de tecnologia da Informação |
 |14|JOAO RICARDO DOS SANTOS ROSA|	ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES <br> INTRODUÇÃO AO DESENVOLVIMENTO WEB | Acessibilidade, usabilidade, UX, engenharia de software, engenharia de requisitos, design ou prototipação, interação humano-computador |
 |15| JULIANO FERNANDES DE AVILA | DESENVOLVIMENTO WEB <br> GERÊNCIA DE PROJETOS DE SOFTWARE| |
 |16| MAICON APARECIDO SARTIN | INTRODUÇÃO ÀS REDES DE COMPUTADORES <br> TÓPICOS ESPECIAIS EM COMPUTAÇÃO TECNOLÓGICA | |

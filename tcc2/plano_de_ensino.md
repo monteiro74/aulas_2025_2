@@ -42,8 +42,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  | 14/08  | 1hs  | Introdução a disciplina, detalhamento do trabalho. |
-|  2  | 21/08  | 1hs  | Acompanhamento do trabalho aluno-orientador.  |
+|  1  | 14/08  | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite". |
+|  2  | 21/08  | 1hs  | Orientações sobre o TCC com o prof. de TCC, selecionar orientador, definir tema, enviar termo de orientação. Procurar orientador. Trabalhos orientador+aluno. Definir termas, preparar "termo de aceite".  |
 |  3  | 23/08  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
 |  4  | 30/08  | 2hs  | **Avaliação 1. Entrega de termos de orientação.** |
 |  5  | 06/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
@@ -54,8 +54,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  10 | 11/09  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
 |  11 | 18/10  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
 |  12 | 25/10  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
-|  13 | 01/11  | 2hs  | **Avaliação 2. Entrega de trabalho para banca.** |
-|  14 | 08/11  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  13 | 01/11  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
+|  14 | 08/11  | 2hs  | **Avaliação 2. Entrega de trabalho para banca.** |
 |  15 | 22/11  | 2hs  | Acompanhamento do trabalho aluno-orientador. |
 |  16 | 29/11  | 2hs  | **Avaliação 3. Entrega de versão final do trabalho.** |
 

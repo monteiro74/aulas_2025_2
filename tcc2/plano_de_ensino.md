@@ -12,10 +12,11 @@
 - [:date: 2. Datas de aulas e conteúdo](#date-2-datas-de-aulas-e-conteúdo)
 - [:date: 3. Datas de avaliações](#date-3-datas-de-avaliações)
 - [:books: 4. Referências](#books-4-referências)
-- [:green\_book: 5. Como estudar (dicas)](#green_book-5-como-estudar-dicas)
-- [:alarm\_clock: Professores x áreas de orientação](#alarm_clock-professores-x-áreas-de-orientação)
-- [📆 Calendário geral](#-calendário-geral)
-- [📆 Calendário de bancas](#-calendário-de-bancas)
+- [💾 5. Arquivos](#-5-arquivos)
+- [:alarm\_clock: 6. Professores x áreas de orientação](#alarm_clock-6-professores-x-áreas-de-orientação)
+  - [6.1. Relação professor x aluno:](#61-relação-professor-x-aluno)
+- [📆 7. Calendário geral](#-7-calendário-geral)
+- [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
 
 
 ---
@@ -75,8 +76,11 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 [Referências bibliográficas nas bibliotecas virtuais](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view).
 
+
 ---
 ## 💾 5. Arquivos
+
+https://drive.google.com/drive/folders/1fYyjmitE3Shpln3Hpk5wBf_6x-j8aZGx
 
 
 

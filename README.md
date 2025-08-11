@@ -1,11 +1,11 @@
 
 # 1. Disciplinas para 2025/2.
 
-* Modelagem e projeto de banco de dados - 4ª fase
-* Introdução à engenharia de dados - 5ª fase
-* TCC1
-* TCC2
-* Orientação de: TCC1, extensão e estágio de mestrado
+* [Modelagem e projeto de banco de dados](https://github.com/monteiro74/aulas_2025_2/blob/main/projeto_bd/plano_de_ensino.md)
+* [Introdução à engenharia de dados](https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/plano_de_ensino.md)
+* [TCC1](https://github.com/monteiro74/aulas_2025_2/blob/main/tcc1/plano_de_ensino.md)
+* [TCC2](https://github.com/monteiro74/aulas_2025_2/blob/main/tcc2/plano_de_ensino.md)
+* [Projeto de extensão ISIS](https://github.com/monteiro74/aulas_2025_2/blob/main/projeto_isis/projeto_isis.md)
 
 ---
 # 2. Mapa do curso

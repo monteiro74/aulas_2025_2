@@ -1,5 +1,19 @@
+# Disciplinas e projetos do Professor Emiliano Monteiro
 
-# 1. Disciplinas para 2025/2.
+- [Disciplinas e projetos do Professor Emiliano Monteiro](#disciplinas-e-projetos-do-professor-emiliano-monteiro)
+- [🎯 1. Disciplinas para 2025/2.](#-1-disciplinas-para-20252)
+- [🗺️ 2. Mapa do curso](#️-2-mapa-do-curso)
+- [🌳 3. Link tree do curso](#-3-link-tree-do-curso)
+- [📅 4. Calendário](#-4-calendário)
+  - [4.1. Geral da universidade](#41-geral-da-universidade)
+  - [4.2. Calendário do curso 2025/2](#42-calendário-do-curso-20252)
+- [⌚ 5. Horários do professor](#-5-horários-do-professor)
+- [📓 6. Normatização acadêmica](#-6-normatização-acadêmica)
+- [🗃️ 7. Outros repositórios de apoio no github](#️-7-outros-repositórios-de-apoio-no-github)
+
+
+
+# 🎯 1. Disciplinas para 2025/2.
 
 * [Modelagem e projeto de banco de dados](https://github.com/monteiro74/aulas_2025_2/blob/main/projeto_bd/plano_de_ensino.md)
 * [Introdução à engenharia de dados](https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/plano_de_ensino.md)
@@ -8,18 +22,18 @@
 * [Projeto de extensão ISIS](https://github.com/monteiro74/aulas_2025_2/blob/main/projeto_isis/projeto_isis.md)
 
 ---
-# 2. Mapa do curso
+# 🗺️ 2. Mapa do curso
 
 Mapa do curso
 https://github.com/monteiro74/aulas_2025_1/blob/main/Mapa%20do%20Curso%20-%20Sistemas.pdf
 
 ---
-# 3. Link tree
+# 🌳 3. Link tree do curso
 
 https://linktr.ee/si.unemat
 
 ---
-# 4. Calendário 
+# 📅 4. Calendário 
 
 ## 4.1. Geral da universidade
 
@@ -32,15 +46,12 @@ https://cms.unemat.br/storage/documentos/bloco-documento-arquivo/fzPAyPvWQrw6zoH
 https://unemat.br/pro-reitoria/proeg/calend%C3%A1rio-acad%C3%AAmico
 
 ---
-# 5. Horários
+# ⌚ 5. Horários do professor
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/horarios_2025_v2.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/horarios_2025_v2.png)
 
 ---
-# 6. Normatização acadêmica
-
-Resolução CONEPE Nº 038/2022-CONEPE.
-https://cms.unemat.br/download/documentos/bloco-documento-arquivo/Z7V40ETDcn8Cqz3NvXE48T1LMV2uuD0M1FuxRsb7/Ppc-de-Sistemas-de-Informacao-Resolucao-no-0382022-Conepe.pdf
+# 📓 6. Normatização acadêmica
 
 
 | Resolução | Descrição |
@@ -55,7 +66,7 @@ https://cms.unemat.br/download/documentos/bloco-documento-arquivo/Z7V40ETDcn8Cqz
 
 
 ---
-# 7. Outros repositórios de apoio no github
+# 🗃️ 7. Outros repositórios de apoio no github
 
-https://github.com/monteiro74?tab=repositories
+🛑 https://github.com/monteiro74?tab=repositories
 

@@ -1,4 +1,6 @@
-Plano de ensino - TCC1
+* Plano de curso - TCC1
+
+* FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2025.2)
 
 - [:game\_die: 1. Turma: TCC1 FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2025.2)](#game_die-1-turma-tcc1-facet-snp-336---trabalho-de-conclusão-de-curso-i---t01-20252)
   - [:watch: 1.1. Carga Horária Total: 30](#watch-11-carga-horária-total-30)

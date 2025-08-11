@@ -1,4 +1,6 @@
-Plano de ensino - TCC2
+* Plano de curso - TCC2
+
+* FACET-SNP-337 - TRABALHO DE CONCLUSÃO DE CURSO II - T01 (2025.2)
 
 - [:game\_die: 1. Turma: TCC2](#game_die-1-turma-tcc2)
   - [:watch: 1.1. Carga Horária Total: 30](#watch-11-carga-horária-total-30)

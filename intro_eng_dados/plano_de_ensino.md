@@ -1,8 +1,6 @@
-Plano de ensino - Introdução à Engenharia de Dados
+**Plano de curso de Introdução a Engenharia de Dados**
 
-**Plano de ensino de Introdução a Engenharia de Dados**
-
-
+* FACET-SNP-317 - INTRODUÇÃO À ENGENHARIA DE DADOS - T01 (2025.2 - 4N123)
 
 - [:game\_die: 1. Turma: Introdução a Engenharia de Dados](#game_die-1-turma-introdução-a-engenharia-de-dados)
   - [:watch: 1.1. Carga Horária Total: 60](#watch-11-carga-horária-total-60)

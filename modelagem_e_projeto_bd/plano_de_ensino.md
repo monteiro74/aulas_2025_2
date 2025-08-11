@@ -1,7 +1,6 @@
-Plano de ensino - Modelagem e projeto de banco de dados
+**Planos de curso Modelagem e Projeto de Banco de Dados**
 
-**Planos de aula Modelagem e Projeto de Banco de Dados**
-
+* FACET-SNP-323 - MODELAGEM E PROJETO DE BANCO DE DADOS - T01 (2025.2 - 5N123)
 
 - [:floppy\_disk: 1. Turma: Modelagem e Projeto de Banco de Dados](#floppy_disk-1-turma-modelagem-e-projeto-de-banco-de-dados)
   - [:watch: 1.1. Carga Horária Total: 60](#watch-11-carga-horária-total-60)

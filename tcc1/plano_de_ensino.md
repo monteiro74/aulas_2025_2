@@ -12,10 +12,11 @@
 - [:date: 2. Datas de aulas e conteúdo](#date-2-datas-de-aulas-e-conteúdo)
 - [:date: 3. Datas de avaliações](#date-3-datas-de-avaliações)
 - [:books: 4. Referências](#books-4-referências)
-- [:green\_book: 5. Como estudar (dicas)](#green_book-5-como-estudar-dicas)
-- [:alarm\_clock: Professores x áreas de orientação](#alarm_clock-professores-x-áreas-de-orientação)
-- [📆 Calendário geral](#-calendário-geral)
-- [📆 Calendário de bancas](#-calendário-de-bancas)
+- [💾 5. Arquivos](#-5-arquivos)
+- [:alarm\_clock: 6. Professores x áreas de orientação](#alarm_clock-6-professores-x-áreas-de-orientação)
+  - [6.1. Relação Aluno x Professor:](#61-relação-aluno-x-professor)
+- [📆 7. Calendário geral](#-7-calendário-geral)
+- [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
 
 
 ---
@@ -84,17 +85,12 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## :green_book: 5. Como estudar (dicas)
+## 💾 5. Arquivos
 
-3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
-https://www.youtube.com/watch?v=posTc56basM
-
-As formas mais eficientes de estudar para prova
-https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## :alarm_clock: Professores x áreas de orientação
+## :alarm_clock: 6. Professores x áreas de orientação
 
 **! Em breve atualizaremos as áreas dos professores e suas áreas de orientação**.<br> 
 No momento os professores que temos no curso são:
@@ -124,7 +120,7 @@ No momento os professores que temos no curso são:
 |19| RAMILTON COSTA GOMES JUNIOR   | ENGENHARIA DE SOFTWARE <br> ADMINISTRAÇÃO E INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO <br> COMPUTAÇÃO E SISTEMAS DISTRIBUÍDOS | 1. Banco de dados. <br> 2. Segurança. <br> 3. Computação forense. <br> 4. IA. <br> 5. Visão computacional.<br> |
 |20| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3. Técnicas de scrapping. |
 
-Relação Aluno x Professor:
+### 6.1. Relação Aluno x Professor:
 
 |  | Aluno                           | Professor          |
 |--|---------------------------------|--------------------|
@@ -172,7 +168,7 @@ Relação Aluno x Professor:
 
 
 ---
-## 📆 Calendário geral
+## 📆 7. Calendário geral
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto2.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto2.png?raw=true)
 
@@ -184,4 +180,4 @@ Relação Aluno x Professor:
 
 
 ---
-## 📆 Calendário de bancas
+## 📆 8. Calendário de bancas

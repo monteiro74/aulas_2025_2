@@ -75,19 +75,13 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 [Referências bibliográficas nas bibliotecas virtuais](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view).
 
-
 ---
-## :green_book: 5. Como estudar (dicas)
+## 💾 5. Arquivos
 
-3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
-https://www.youtube.com/watch?v=posTc56basM
-
-As formas mais eficientes de estudar para prova
-https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## :alarm_clock: Professores x áreas de orientação
+## :alarm_clock: 6. Professores x áreas de orientação
 
 
 **! Em breve atualizaremos as áreas dos professores e suas áreas de orientação**.<br> 
@@ -116,7 +110,7 @@ No momento os professores que temos no curso são:
 |19| RAMILTON COSTA GOMES JUNIOR   | ENGENHARIA DE SOFTWARE <br> ADMINISTRAÇÃO E INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO <br> COMPUTAÇÃO E SISTEMAS DISTRIBUÍDOS | 1. Banco de dados. <br> 2. Segurança. <br> 3. Computação forense. <br> 4. IA. <br> 5. Visão computacional.<br> |
 |20| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3. Técnicas de scrapping. |
 
-Relação professor x aluno:
+### 6.1. Relação professor x aluno:
 
 |  | Aluno | Professor |
 |--|------------------------------|--------------------|
@@ -156,7 +150,7 @@ Relação professor x aluno:
 |34| WINY ZANIN | |
 
 ---
-## 📆 Calendário geral
+## 📆 7. Calendário geral
 
 
 
@@ -171,5 +165,5 @@ Relação professor x aluno:
 
 
 ---
-## 📆 Calendário de bancas
+## 📆 8. Calendário de bancas
 

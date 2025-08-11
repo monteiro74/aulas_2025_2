@@ -97,6 +97,8 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 **! Em breve atualizaremos as áreas dos professores e suas áreas de orientação**.<br> 
 No momento os professores que temos no curso são:
 
+
+
 |  | Professor                     | Disciplinas                    | Linhas de pesquisa |
 |--|-------------------------------|--------------------------------|--------------------|
 |1 | ANDRESSA FABRINA KLAUCK       | ÉTICA, INFORMÁTICA E SOCIEDADE | Pesquisas relacionadas a LGPD <br> Marco Cível da internet <br> Uso de tecnologias e sua interação na sociedade. |

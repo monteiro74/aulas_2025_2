@@ -17,6 +17,7 @@
   - [6.1. Relação Aluno x Professor:](#61-relação-aluno-x-professor)
 - [📆 7. Calendário geral](#-7-calendário-geral)
 - [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
+- [📺 9. Vídeos](#-9-vídeos)
 
 
 ---
@@ -181,3 +182,88 @@ No momento os professores que temos no curso são:
 
 ---
 ## 📆 8. Calendário de bancas
+
+
+---
+## 📺 9. Vídeos
+
+1. "Introdução" em um projeto de pesquisa
+
+[Como escrever a INTRODUÇÃO de um PROJETO DE PESQUISA??](https://www.youtube.com/watch?v=mVNGp3h9-2Y)
+
+[Como escrever uma introdução? (Projeto de pesquisa) | Iniciação Científica](https://www.youtube.com/watch?v=x1tWKdZkfc0)
+
+[Como escrever uma INTRODUÇÃO – Exemplo no WORD para PROJETO DE PESQUISA, ARTIGO CIENTÍFICO e TCC](https://www.youtube.com/watch?v=wQbZCKcg9BY)
+
+2. "Problemática" em um projeto de pesquisa
+
+[Problema de pesquisa - como definir](https://www.youtube.com/watch?v=hCg8qfqXQOM)
+
+[Problema de pesquisa: Como definir? - Pesquisa na prática 163](https://www.youtube.com/watch?v=KTLd8M5gLZ8)
+
+[TCC: O que é e Como fazer o seu Problema de Pesquisa](https://www.youtube.com/watch?v=amTtrerAKvc)
+
+3. "Objetivos" em um projeto de pesquisa
+
+[Objetivos de pesquisa: geral e específicos.] https://www.youtube.com/watch?v=disr6-Cof3M
+
+[Quais são os objetivos do seu projeto de pesquisa] https://www.youtube.com/watch?v=UY9LrgrsqjM
+
+[Objetivo Geral e Objetivos Específicos - Técnica passo a passo! | André Fontenelle](https://www.youtube.com/watch?v=MhUzhXRm-Io)
+
+4. "Justificativa" em um projeto de pesquisa
+
+[COMO REALIZAR A JUSTIFICATIVA DE UMA PESQUISA CIENTÍFICA](https://www.youtube.com/watch?v=FYykgc0OnKw)
+
+[TCC: Justificativa do jeito certo](https://www.youtube.com/watch?v=oD1Q-bkEY5o)
+
+[Justificativa de TCC - Tire todas as suas dúvidas! | André Fontenelle](https://www.youtube.com/watch?v=lU90DQHRLKg)
+
+[JUSTIFICATIVA DE TCC E PROJETO DE PESQUISA: o que é e como fazer / Com exemplos](https://www.youtube.com/watch?v=cnYBb1IwBgo)
+
+5. "Referências teórico" (ou "Revisão de literatura" ou "Trabalhos relacionados") em um projeto de pesquisa
+
+[Referencial Teórico: Como organizar e escrever? | Para dissertação, tese ou projeto de pesquisa](https://www.youtube.com/watch?v=joLnfx8nwSc)
+
+[REFERÊNCIAL TEÓRICO NO PROJETO DE PESQUISA | Como escrever, o que escrever](https://www.youtube.com/watch?v=DXfJRtMB_SA)
+
+[#4 - FUNDAMENTAÇÃO TEÓRICA - ELABORAÇÃO DE PROJETO DE PESQUISA](https://www.youtube.com/watch?v=WMgbYdqvelY)
+
+[FUNDAMENTAÇÃO TEÓRICA para TCC, Projeto de Pesquisa e Artigos: Exemplo Passo a Passo](https://www.youtube.com/watch?v=tjppG26WOK0)
+
+6. "Metodologia" em um projeto de pesquisa
+
+[METODOLOGIA DO PROJETO DE PESQUISA | O que escrever, como escrever?](https://www.youtube.com/watch?v=xh-5SyaOTnY)
+
+[Metodologia Científica do seu TCC - Em 5 passos simples](https://www.youtube.com/watch?v=fVmmPZsmtbE)
+
+[PROJETO DE PESQUISA - MÉTODO](https://www.youtube.com/watch?v=QlWYzUSUO64)
+
+7. "Procedimentos metodológicos" em um projeto de pesquisa
+
+[COMO ESCREVER A METODOLOGIA DO PROJETO DE PESQUISA | Daniel Mendes](https://www.youtube.com/watch?v=HhuTYwsC3bc)
+
+[Projeto de pesquisa | Procedimentos metodológicos.](https://www.youtube.com/watch?v=XfXGyypexN0)
+
+8. "Cronograma" em um projeto de pesquisa
+
+[Orientações sobre o CRONOGRAMA do projeto de pesquisa](https://www.youtube.com/watch?v=uv5Hpu6gaew)
+
+[Como elaborar um cronograma para o pré-projeto de pesquisa?](https://www.youtube.com/watch?v=E3lp-S8LOOc
+
+9. "Referências bibliográficas" em um projeto de pesquisa
+
+[Como buscar referências para o TCC de revisão bibliográfica?](https://www.youtube.com/watch?v=XJqqffY4dS8
+
+[Projeto de Pesquisa - Referências Bibliográficas](https://www.youtube.com/watch?v=jgTWsJGpi-8
+
+[PROJETO DE PESQUISA - CONCLUSÃO E REFERÊNCIAS](https://www.youtube.com/watch?v=_Nfq-n2m2vA
+
+[CITAÇÃO E REFERÊNCIA - TCC, MESTRADO E DOUTORADO](https://www.youtube.com/watch?v=RpriX_2uGSo
+
+[COMO FAZER AS REFERÊNCIAS ABNT! FÁCIL E RÁPIDO! 2025!](https://www.youtube.com/watch?v=43m777TUcEg
+
+
+---
+💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+

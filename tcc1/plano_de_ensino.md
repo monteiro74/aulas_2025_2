@@ -59,6 +59,8 @@ Avaliação 2: Esta condicionada a entrega de: (a) autorização para banca com 
 
 Avaliação 3: Ata de defesa inserida no documento e, este devidamente corrigido.
 
+Os documentos devem ser enviados pelo Sigaa, será aberta na data apropriada um ítem para o upload dos documentos.
+
 Conforme: Resolução CONEPE Nº 038/2022, páginas 18 a 19 e Resolução Nº 030/2012.
 
 ### :hourglass_flowing_sand: 1.6. Horário de atendimento

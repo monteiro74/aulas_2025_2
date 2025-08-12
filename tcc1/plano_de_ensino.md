@@ -14,10 +14,10 @@
 - [:books: 4. Referências](#books-4-referências)
 - [💾 5. Arquivos](#-5-arquivos)
 - [:alarm\_clock: 6. Professores x áreas de orientação](#alarm_clock-6-professores-x-áreas-de-orientação)
-  - [6.1. Relação Aluno x Professor:](#61-relação-aluno-x-professor)
+  - [🧑‍🎓 6.1. Relação Aluno x Professor:](#-61-relação-aluno-x-professor)
 - [📆 7. Calendário geral](#-7-calendário-geral)
 - [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
-- [📺 9. Vídeos](#-9-vídeos)
+- [📺 9. Vídeos recomendados](#-9-vídeos-recomendados)
   - [📹 9.1. "Introdução" em um projeto de pesquisa](#-91-introdução-em-um-projeto-de-pesquisa)
   - [📹 9.2. "Problemática" em um projeto de pesquisa](#-92-problemática-em-um-projeto-de-pesquisa)
   - [📹 9.3. "Objetivos" em um projeto de pesquisa](#-93-objetivos-em-um-projeto-de-pesquisa)
@@ -27,10 +27,10 @@
   - [📹 9.7. "Procedimentos metodológicos" em um projeto de pesquisa](#-97-procedimentos-metodológicos-em-um-projeto-de-pesquisa)
   - [📹 9.8. "Cronograma" em um projeto de pesquisa](#-98-cronograma-em-um-projeto-de-pesquisa)
   - [📹 9.9. "Referências bibliográficas" em um projeto de pesquisa](#-99-referências-bibliográficas-em-um-projeto-de-pesquisa)
-- [10. Tipos de pesquisa](#10-tipos-de-pesquisa)
-  - [10.1. Mapa mental](#101-mapa-mental)
-  - [10.2. Exemplos](#102-exemplos)
-    - [10.2.1. 📌 Resumo textual:](#1021--resumo-textual)
+- [💡 10. Tipos de pesquisa](#-10-tipos-de-pesquisa)
+  - [🧠 10.1. Mapa mental](#-101-mapa-mental)
+  - [🧭 10.2. Exemplos](#-102-exemplos)
+    - [📌 10.2.1.  Resumo textual:](#-1021--resumo-textual)
 
 
 ---
@@ -136,7 +136,7 @@ No momento os professores que temos no curso são:
 |19| RAMILTON COSTA GOMES JUNIOR   | ENGENHARIA DE SOFTWARE <br> ADMINISTRAÇÃO E INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO <br> COMPUTAÇÃO E SISTEMAS DISTRIBUÍDOS | 1. Banco de dados. <br> 2. Segurança. <br> 3. Computação forense. <br> 4. IA. <br> 5. Visão computacional.<br> |
 |20| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3. Técnicas de scrapping. |
 
-### 6.1. Relação Aluno x Professor:
+### 🧑‍🎓 6.1. Relação Aluno x Professor:
 
 |  | Aluno                           | Professor          |
 |--|---------------------------------|--------------------|
@@ -200,7 +200,7 @@ No momento os professores que temos no curso são:
 
 
 ---
-## 📺 9. Vídeos
+## 📺 9. Vídeos recomendados
 
 ### 📹 9.1. "Introdução" em um projeto de pesquisa
 
@@ -279,7 +279,7 @@ No momento os professores que temos no curso são:
 [COMO FAZER AS REFERÊNCIAS ABNT! FÁCIL E RÁPIDO! 2025!](https://www.youtube.com/watch?v=43m777TUcEg)
 
 ---
-## 10. Tipos de pesquisa
+## 💡 10. Tipos de pesquisa
 
 | Dimensão / Tipo                      | Descrição                                                                                  | Exemplos                                                |
 | ------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
@@ -299,7 +299,7 @@ No momento os professores que temos no curso são:
 | **Procedimento – Estudo de Caso**    | Análise profunda de um ou poucos objetos.                                                  | Gestão de inovação em uma startup.                      |
 | **Procedimento – Entrevista/Survey** | Questionários ou entrevistas para coletar percepções e opiniões.                           | Pesquisa de satisfação de clientes.                     |
 
-### 10.1. Mapa mental
+### 🧠 10.1. Mapa mental
 
 ```mermaid
 
@@ -351,7 +351,7 @@ mindmap
 
 ```
 
-### 10.2. Exemplos
+### 🧭 10.2. Exemplos
 
 Exemplo de situação para classificar a pesquisa:
 
@@ -367,7 +367,7 @@ A classificação da pesquisa será:
 | **Procedimentos – Pesquisa-Ação + Experimental + Estudo de Caso** | **Pesquisa-Ação** porque ele participa ativamente da implementação junto aos usuários. **Experimental** porque vai mensurar e testar desempenho com variáveis controladas (ex.: antes e depois de otimizações). **Estudo de Caso** porque o trabalho é focado em uma única empresa. Também haverá **Pesquisa de Campo** (entrevistas presenciais) e **Documental** (integração e análise de dados de diversas fontes). |
 
 
-#### 10.2.1. 📌 Resumo textual:
+#### 📌 10.2.1.  Resumo textual:
 O projeto é uma pesquisa quali-quantitativa, de natureza aplicada, com objetivo explicativo, conduzida por meio de pesquisa-ação, experimentos e estudo de caso, complementada por entrevistas e análise documental.
 
 

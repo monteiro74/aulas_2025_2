@@ -14,7 +14,7 @@
 - [:books: 4. Referências](#books-4-referências)
 - [💾 5. Arquivos](#-5-arquivos)
 - [:alarm\_clock: 6. Professores x áreas de orientação](#alarm_clock-6-professores-x-áreas-de-orientação)
-  - [6.1. Relação professor x aluno:](#61-relação-professor-x-aluno)
+  - [🧑‍🎓 6.1. Relação professor x aluno:](#-61-relação-professor-x-aluno)
 - [📆 7. Calendário geral](#-7-calendário-geral)
 - [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
 - [📺 9. Vídeos](#-9-vídeos)
@@ -124,7 +124,7 @@ No momento os professores que temos no curso são:
 |19| RAMILTON COSTA GOMES JUNIOR   | ENGENHARIA DE SOFTWARE <br> ADMINISTRAÇÃO E INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO <br> COMPUTAÇÃO E SISTEMAS DISTRIBUÍDOS | 1. Banco de dados. <br> 2. Segurança. <br> 3. Computação forense. <br> 4. IA. <br> 5. Visão computacional.<br> |
 |20| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3. Técnicas de scrapping. |
 
-### 6.1. Relação professor x aluno:
+### 🧑‍🎓 6.1. Relação professor x aluno:
 
 |  | Aluno | Professor |
 |--|------------------------------|--------------------|

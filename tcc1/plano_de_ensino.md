@@ -27,6 +27,7 @@
   - [9.7. "Procedimentos metodológicos" em um projeto de pesquisa](#97-procedimentos-metodológicos-em-um-projeto-de-pesquisa)
   - [9.8. "Cronograma" em um projeto de pesquisa](#98-cronograma-em-um-projeto-de-pesquisa)
   - [9.9. "Referências bibliográficas" em um projeto de pesquisa](#99-referências-bibliográficas-em-um-projeto-de-pesquisa)
+- [10. Tipos de pesquisa](#10-tipos-de-pesquisa)
 
 
 ---
@@ -273,6 +274,27 @@ No momento os professores que temos no curso são:
 [CITAÇÃO E REFERÊNCIA - TCC, MESTRADO E DOUTORADO](https://www.youtube.com/watch?v=RpriX_2uGSo)
 
 [COMO FAZER AS REFERÊNCIAS ABNT! FÁCIL E RÁPIDO! 2025!](https://www.youtube.com/watch?v=43m777TUcEg)
+
+---
+## 10. Tipos de pesquisa
+
+| Dimensão / Tipo                      | Descrição                                                                                  | Exemplos                                                |
+| ------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| **Abordagem – Quantitativa**         | Analisa dados numéricos para medir e testar hipóteses, buscando resultados mensuráveis.    | Questionários estruturados, experimentos laboratoriais. |
+| **Abordagem – Qualitativa**          | Interpreta fenômenos por meio de dados não numéricos, explorando significados e contextos. | Entrevistas abertas, observação participante.           |
+| **Abordagem – Qualiquantitativa**    | Integra métodos quantitativos e qualitativos para maior profundidade e amplitude.          | Estudos de caso com estatísticas e relatos.             |
+| **Natureza – Aplicada**              | Produz conhecimento voltado à solução prática de problemas específicos.                    | Desenvolvimento de tecnologia, políticas públicas.      |
+| **Natureza – Básica**                | Gera conhecimento teórico sem aplicação imediata, focando fundamentos.                     | Teorias matemáticas, estudos sobre comportamento.       |
+| **Objetivo – Exploratória**          | Ganha familiaridade com o problema e formula hipóteses.                                    | Levantamento sobre uso de IA em empresas.               |
+| **Objetivo – Descritiva**            | Descreve características ou relações sem manipular variáveis.                              | Perfil socioeconômico de uma população.                 |
+| **Objetivo – Explicativa**           | Investiga causas e efeitos de fenômenos.                                                   | Impacto da publicidade nas vendas.                      |
+| **Procedimento – Experimental**      | Manipula variáveis em ambiente controlado para verificar efeitos.                          | Teste de medicamentos, usabilidade de software.         |
+| **Procedimento – Bibliográfica**     | Usa material já publicado como base teórica.                                               | Revisão de literatura sobre blockchain.                 |
+| **Procedimento – Documental**        | Analisa documentos originais sem tratamento prévio.                                        | Registros contábeis, atas de reuniões.                  |
+| **Procedimento – Campo**             | Coleta dados diretamente no local do fenômeno.                                             | Observação em supermercados, dados climáticos.          |
+| **Procedimento – Pesquisa-Ação**     | Pesquisador e participantes atuam juntos para resolver problemas.                          | Melhoria de processos produtivos.                       |
+| **Procedimento – Estudo de Caso**    | Análise profunda de um ou poucos objetos.                                                  | Gestão de inovação em uma startup.                      |
+| **Procedimento – Entrevista/Survey** | Questionários ou entrevistas para coletar percepções e opiniões.                           | Pesquisa de satisfação de clientes.                     |
 
 
 ---

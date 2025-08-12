@@ -5,8 +5,8 @@
 - [🗺️ 2. Mapa do curso](#️-2-mapa-do-curso)
 - [🌳 3. Link tree do curso](#-3-link-tree-do-curso)
 - [📅 4. Calendário](#-4-calendário)
-  - [📅 4.1. Geral da universidade](#-41-geral-da-universidade)
-  - [⏲️ 4.2. Horário do curso 2025/2](#️-42-horário-do-curso-20252)
+  - [📅 4.1. Calendário geral da universidade](#-41-calendário-geral-da-universidade)
+  - [⏲️ 4.2. Horário do curso de Sistemas de Informação 2025/2](#️-42-horário-do-curso-de-sistemas-de-informação-20252)
 - [⌚ 5. Horários do professor](#-5-horários-do-professor)
 - [📓 6. Normatização acadêmica](#-6-normatização-acadêmica)
 - [🗃️ 7. Outros repositórios de apoio no github](#️-7-outros-repositórios-de-apoio-no-github)
@@ -35,13 +35,13 @@ https://linktr.ee/si.unemat
 ---
 # 📅 4. Calendário 
 
-## 📅 4.1. Geral da universidade
+## 📅 4.1. Calendário geral da universidade
 
 Calendário de aulas (previstas no calendário) p/ 2025/2: Consulte o calendário oficial do curso e da universidade.
 
 https://cms.unemat.br/storage/documentos/bloco-documento-arquivo/fzPAyPvWQrw6zoHywg60yrsQg4LDtgUpDTC4VWit.pdf
 
-## ⏲️ 4.2. Horário do curso 2025/2
+## ⏲️ 4.2. Horário do curso de Sistemas de Informação 2025/2
 
 https://docs.google.com/spreadsheets/d/10oEVg8o5Solzw7iZZZ2R8udI7-N62NL8N8_x22mSG8k/edit?gid=1853764421#gid=1853764421
 

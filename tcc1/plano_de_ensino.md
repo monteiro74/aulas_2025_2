@@ -46,8 +46,9 @@ Elaboração e formatação de um projeto de pesquisa ao nível de graduação.
 
 ### :page_with_curl: 1.4. Metodologia
 
-* 1.4.1. Aulas com o professor de TCC: Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
-* 1.4.2. Aulas com o orientador: A metodologia será a critério do orientador.
+* 1.4.1. Aulas com o professor de TCC: Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos. 
+
+* 1.4.2. **Aulas com o orientador**: A metodologia será a critério do orientador/coorientador ao longo do semestre.
 
 
 ### :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem

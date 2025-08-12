@@ -4,7 +4,7 @@
 
 - [:game\_die: 1. Turma: TCC2](#game_die-1-turma-tcc2)
   - [:watch: 1.1. Carga Horária Total: 30](#watch-11-carga-horária-total-30)
-  - [:hourglass\_flowing\_sand: 1.2. Horário:](#hourglass_flowing_sand-12-horário)
+  - [:hourglass\_flowing\_sand: 1.2. Horário: 30 horas.](#hourglass_flowing_sand-12-horário-30-horas)
   - [:page\_with\_curl: 1.3. Ementa](#page_with_curl-13-ementa)
   - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
   - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
@@ -41,7 +41,8 @@ Elaboração, formatação e apresentação (avaliação por comitê ou banca av
 ### :page_with_curl: 1.4. Metodologia
 
 * 1.4.1. Aulas com o professor de TCC: Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
-* 1.4.2. Aulas com o orientador: A metodologia será a critério do orientador.
+  
+* 1.4.2. **Aulas com o orientador**: A metodologia será a critério do orientador/coorientador ao longo do semestre.
 
 ### :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem
 

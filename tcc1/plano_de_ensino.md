@@ -28,6 +28,7 @@
   - [9.8. "Cronograma" em um projeto de pesquisa](#98-cronograma-em-um-projeto-de-pesquisa)
   - [9.9. "Referências bibliográficas" em um projeto de pesquisa](#99-referências-bibliográficas-em-um-projeto-de-pesquisa)
 - [10. Tipos de pesquisa](#10-tipos-de-pesquisa)
+  - [10.1. Mapa mental](#101-mapa-mental)
 
 
 ---
@@ -295,6 +296,59 @@ No momento os professores que temos no curso são:
 | **Procedimento – Pesquisa-Ação**     | Pesquisador e participantes atuam juntos para resolver problemas.                          | Melhoria de processos produtivos.                       |
 | **Procedimento – Estudo de Caso**    | Análise profunda de um ou poucos objetos.                                                  | Gestão de inovação em uma startup.                      |
 | **Procedimento – Entrevista/Survey** | Questionários ou entrevistas para coletar percepções e opiniões.                           | Pesquisa de satisfação de clientes.                     |
+
+### 10.1. Mapa mental
+
+```mermaid
+
+mindmap
+  root((Pesquisa Científica))
+    Abordagem
+      Quantitativa
+        "Dados numéricos • teste de hipóteses"
+        "Ex.: questionários estruturados; experimentos"
+      Qualitativa
+        "Significados • contextos"
+        "Ex.: entrevistas abertas; observação participante"
+      Quali-Quantitativa
+        "Métodos combinados"
+        "Ex.: estudo de caso misto; pesquisa-ação com survey"
+    Natureza
+      Aplicada
+        "Solução prática de problemas"
+        "Ex.: desenvolvimento de sistema; política pública"
+      Básica
+        "Ampliação de fundamentos teóricos"
+        "Ex.: modelos; teorias; princípios"
+    Objetivos
+      Exploratória
+        "Familiarização com o problema; geração de hipóteses"
+        "Ex.: mapeamento inicial de uso de IA em PMEs"
+      Descritiva
+        "Caracterizar fenômenos ou relações sem intervenção"
+        "Ex.: perfil socioeconômico; séries históricas"
+      Explicativa
+        "Investigar causas e efeitos"
+        "Ex.: impacto de campanhas nas vendas"
+    Procedimentos
+      Experimental
+        "Manipulação de variáveis em ambiente controlado"
+      Bibliográfica
+        "Base em literatura publicada"
+      Documental
+        "Análise de documentos originais"
+      Campo
+        "Coleta de dados in loco"
+      "Pesquisa-ação"
+        "Intervenção colaborativa para solução"
+      "Estudo de caso"
+        "Análise aprofundada de um caso"
+      "Entrevista / Survey"
+        "Questionários/entrevistas a amostras"
+
+
+```
+
 
 
 ---

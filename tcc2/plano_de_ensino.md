@@ -32,13 +32,26 @@
 
 ### :watch: 1.1. Carga Horária Total: 30
 
-### :hourglass_flowing_sand: 1.2. Horário: 
+### :hourglass_flowing_sand: 1.2. Horário: 30 horas.
 
 ### :page_with_curl: 1.3. Ementa
 
+Elaboração, formatação e apresentação (avaliação por comitê ou banca avaliadora) de um artigo científico.
+
 ### :page_with_curl: 1.4. Metodologia
 
+* 1.4.1. Aulas com o professor de TCC: Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
+* 1.4.2. Aulas com o orientador: A metodologia será a critério do orientador.
+
 ### :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem
+
+Avaliação 1: Entrega do termo de aceite (do orientador e/ou coorientador).
+
+Avaliação 2: Esta condicionada a entrega de: (a) autorização para banca com a nota do orientador + (b) 1a versão do TCC e (c) relatório de acompanhamento.
+
+Avaliação 3: Ata de defesa inserida no documento e, este devidamente corrigido.
+
+Conforme: Resolução CONEPE Nº 038/2022, páginas 18 a 19 e Resolução Nº 030/2012.
 
 ### :hourglass_flowing_sand: 1.6. Horário de atendimento
 

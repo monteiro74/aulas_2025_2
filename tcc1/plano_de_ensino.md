@@ -4,7 +4,7 @@
 
 - [:game\_die: 1. Turma: TCC1 FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2025.2)](#game_die-1-turma-tcc1-facet-snp-336---trabalho-de-conclusão-de-curso-i---t01-20252)
   - [:watch: 1.1. Carga Horária Total: 30](#watch-11-carga-horária-total-30)
-  - [:hourglass\_flowing\_sand: 1.2. Horário: 30 horas, noturno, sábado.](#hourglass_flowing_sand-12-horário-30-horas-noturno-sábado)
+  - [:hourglass\_flowing\_sand: 1.2. Horário: 30 horas.](#hourglass_flowing_sand-12-horário-30-horas)
   - [:page\_with\_curl: 1.3. Ementa](#page_with_curl-13-ementa)
   - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
   - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
@@ -38,7 +38,7 @@
 
 ### :watch: 1.1. Carga Horária Total: 30
 
-### :hourglass_flowing_sand: 1.2. Horário: 30 horas, noturno, sábado.
+### :hourglass_flowing_sand: 1.2. Horário: 30 horas.
 
 ### :page_with_curl: 1.3. Ementa
 
@@ -46,12 +46,19 @@ Elaboração e formatação de um projeto de pesquisa ao nível de graduação.
 
 ### :page_with_curl: 1.4. Metodologia
 
-Nota 1: Envio de documentação relativa a aceitação de orientação com orientador e alinhamento de tema.
-Nota 2: Envio de documento do TCC1
-Nota 3: Nota elaborada pela banca.
-Conforme: Resolução CONEPE Nº 038/2022, páginas 18 a 19 e Resolução Nº 030/2012.
+* 1.4.1. Aulas com o professor de TCC: Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
+* 1.4.2. Aulas com o orientador: A metodologia será a critério do orientador.
+
 
 ### :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem
+
+Avaliação 1: Entrega do termo de aceite (do orientador e/ou coorientador).
+
+Avaliação 2: Esta condicionada a entrega de: (a) autorização para banca com a nota do orientador + (b) 1a versão do TCC e (c) relatório de acompanhamento.
+
+Avaliação 3: Ata de defesa inserida no documento e, este devidamente corrigido.
+
+Conforme: Resolução CONEPE Nº 038/2022, páginas 18 a 19 e Resolução Nº 030/2012.
 
 ### :hourglass_flowing_sand: 1.6. Horário de atendimento
 

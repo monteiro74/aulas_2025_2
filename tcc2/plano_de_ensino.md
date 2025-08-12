@@ -18,6 +18,13 @@
 - [📆 7. Calendário geral](#-7-calendário-geral)
 - [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
 - [📺 9. Vídeos](#-9-vídeos)
+  - [9.1. Abstract ou resumo em um artigo científico](#91-abstract-ou-resumo-em-um-artigo-científico)
+  - [9.2. Palavras chave em um artigo científico](#92-palavras-chave-em-um-artigo-científico)
+  - [9.3. Introdução em um artigo científico](#93-introdução-em-um-artigo-científico)
+  - [9.4. Trabalhos relacionados em um artigo científico](#94-trabalhos-relacionados-em-um-artigo-científico)
+  - [9.5. Materais e Métodos (Modelo proposto) em um artigo científico](#95-materais-e-métodos-modelo-proposto-em-um-artigo-científico)
+  - [9.6. Avaliação, Resultados e Discussão em um artigo científico](#96-avaliação-resultados-e-discussão-em-um-artigo-científico)
+  - [9.7.Conclusão](#97conclusão)
 
 
 ---
@@ -186,7 +193,7 @@ No momento os professores que temos no curso são:
 [Como ter ideias de temas para o meu Artigo Científico? [ Delimitação do Tema ]](https://www.youtube.com/watch?v=KZk-RzOCZ54)
 
 
-1. Abstract ou resumo em um artigo científico
+### 9.1. Abstract ou resumo em um artigo científico
 
 [O que é Abstract ? - O que é keyword? - Revista Científica Multidisciplinar Núcleo do Conhecimento](https://www.youtube.com/watch?v=MkJteUO8Gm4)
 
@@ -196,11 +203,11 @@ No momento os professores que temos no curso são:
 
 [Como escrever um bom Abstract para o seu TCC](https://www.youtube.com/watch?v=j8oXs2ovlpg)
 
-2. Palavras chave em um artigo científico
+### 9.2. Palavras chave em um artigo científico
 
 [COMO ESCOLHER AS PALAVRAS-CHAVES DO SEU ARTIGO CIENTÍFICO](https://www.youtube.com/watch?v=_YwL0ovxwUY)
 
-3. Introdução em um artigo científico
+### 9.3. Introdução em um artigo científico
 
 [O SEGREDO Para Uma Introdução de Artigo Científico Nota 10!](https://www.youtube.com/watch?v=Zw0bocjai3Y)
 
@@ -210,19 +217,19 @@ No momento os professores que temos no curso são:
 
 [Artigo Científico - Escrevendo a Introdução](https://www.youtube.com/watch?v=Lqz3PXx89PU)
 
-4. Trabalhos relacionados em um artigo científico
+### 9.4. Trabalhos relacionados em um artigo científico
 
 [Trabalhos Relacionados em um Artigo Científico - Aula 07 / parte 2 - Educação e Tecnologia 2017](https://www.youtube.com/watch?v=UAqdDy5ta5Q)
 
 [[CURSO DE TCC] AULA 14 - Como Fazer os Trabalhos Relacionados](https://www.youtube.com/watch?v=ZfVGF7Pvcn8)
 
-5. Materais e Métodos (Modelo proposto) em um artigo científico
+### 9.5. Materais e Métodos (Modelo proposto) em um artigo científico
 
 [Materiais e Métodos - Como escrever esta seção em artigos científicos e relatórios técnicos?](https://www.youtube.com/watch?v=EUKXGVOAbRo)
 
 [Aula 7 Como escrever a seção MATERIAL E MÉTODOS do artigo](https://www.youtube.com/watch?v=NQ--GgsVNfw)
 
-6. Avaliação, Resultados e Discussão em um artigo científico
+### 9.6. Avaliação, Resultados e Discussão em um artigo científico
 
 [Como escrever a seção de resultados do artigo](https://www.youtube.com/watch?v=rsVavIJ07Jg)
 
@@ -230,7 +237,7 @@ No momento os professores que temos no curso são:
 
 [Como estruturar e escrever a Discussão dos Resultados de um relatório técnico ou artigo científico](https://www.youtube.com/watch?v=2OPF5zEPqWg)
 
-7.Conclusão
+### 9.7.Conclusão
 
 [Como escrever a Conclusão de Artigos Científicos - com Exemplo](https://www.youtube.com/watch?v=X6HKUPs9u9c)
 

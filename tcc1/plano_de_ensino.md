@@ -18,17 +18,19 @@
 - [📆 7. Calendário geral](#-7-calendário-geral)
 - [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
 - [📺 9. Vídeos](#-9-vídeos)
-  - [9.1. "Introdução" em um projeto de pesquisa](#91-introdução-em-um-projeto-de-pesquisa)
-  - [9.2. "Problemática" em um projeto de pesquisa](#92-problemática-em-um-projeto-de-pesquisa)
-  - [9.3. "Objetivos" em um projeto de pesquisa](#93-objetivos-em-um-projeto-de-pesquisa)
-  - [9.4. "Justificativa" em um projeto de pesquisa](#94-justificativa-em-um-projeto-de-pesquisa)
-  - [9.5. "Referências teórico" (ou "Revisão de literatura" ou "Trabalhos relacionados") em um projeto de pesquisa](#95-referências-teórico-ou-revisão-de-literatura-ou-trabalhos-relacionados-em-um-projeto-de-pesquisa)
-  - [9.6. "Metodologia" em um projeto de pesquisa](#96-metodologia-em-um-projeto-de-pesquisa)
-  - [9.7. "Procedimentos metodológicos" em um projeto de pesquisa](#97-procedimentos-metodológicos-em-um-projeto-de-pesquisa)
-  - [9.8. "Cronograma" em um projeto de pesquisa](#98-cronograma-em-um-projeto-de-pesquisa)
-  - [9.9. "Referências bibliográficas" em um projeto de pesquisa](#99-referências-bibliográficas-em-um-projeto-de-pesquisa)
+  - [📹 9.1. "Introdução" em um projeto de pesquisa](#-91-introdução-em-um-projeto-de-pesquisa)
+  - [📹 9.2. "Problemática" em um projeto de pesquisa](#-92-problemática-em-um-projeto-de-pesquisa)
+  - [📹 9.3. "Objetivos" em um projeto de pesquisa](#-93-objetivos-em-um-projeto-de-pesquisa)
+  - [📹 9.4. "Justificativa" em um projeto de pesquisa](#-94-justificativa-em-um-projeto-de-pesquisa)
+  - [📹 9.5. "Referências teórico" (ou "Revisão de literatura" ou "Trabalhos relacionados") em um projeto de pesquisa](#-95-referências-teórico-ou-revisão-de-literatura-ou-trabalhos-relacionados-em-um-projeto-de-pesquisa)
+  - [📹 9.6. "Metodologia" em um projeto de pesquisa](#-96-metodologia-em-um-projeto-de-pesquisa)
+  - [📹 9.7. "Procedimentos metodológicos" em um projeto de pesquisa](#-97-procedimentos-metodológicos-em-um-projeto-de-pesquisa)
+  - [📹 9.8. "Cronograma" em um projeto de pesquisa](#-98-cronograma-em-um-projeto-de-pesquisa)
+  - [📹 9.9. "Referências bibliográficas" em um projeto de pesquisa](#-99-referências-bibliográficas-em-um-projeto-de-pesquisa)
 - [10. Tipos de pesquisa](#10-tipos-de-pesquisa)
   - [10.1. Mapa mental](#101-mapa-mental)
+  - [10.2. Exemplos](#102-exemplos)
+    - [10.2.1. 📌 Resumo textual:](#1021--resumo-textual)
 
 
 ---
@@ -200,7 +202,7 @@ No momento os professores que temos no curso são:
 ---
 ## 📺 9. Vídeos
 
-### 9.1. "Introdução" em um projeto de pesquisa
+### 📹 9.1. "Introdução" em um projeto de pesquisa
 
 [Como escrever a INTRODUÇÃO de um PROJETO DE PESQUISA??](https://www.youtube.com/watch?v=mVNGp3h9-2Y)
 
@@ -208,7 +210,7 @@ No momento os professores que temos no curso são:
 
 [Como escrever uma INTRODUÇÃO – Exemplo no WORD para PROJETO DE PESQUISA, ARTIGO CIENTÍFICO e TCC](https://www.youtube.com/watch?v=wQbZCKcg9BY)
 
-### 9.2. "Problemática" em um projeto de pesquisa
+### 📹 9.2. "Problemática" em um projeto de pesquisa
 
 [Problema de pesquisa - como definir](https://www.youtube.com/watch?v=hCg8qfqXQOM)
 
@@ -216,7 +218,7 @@ No momento os professores que temos no curso são:
 
 [TCC: O que é e Como fazer o seu Problema de Pesquisa](https://www.youtube.com/watch?v=amTtrerAKvc)
 
-### 9.3. "Objetivos" em um projeto de pesquisa
+### 📹 9.3. "Objetivos" em um projeto de pesquisa
 
 [Objetivos de pesquisa: geral e específicos.] https://www.youtube.com/watch?v=disr6-Cof3M
 
@@ -224,7 +226,7 @@ No momento os professores que temos no curso são:
 
 [Objetivo Geral e Objetivos Específicos - Técnica passo a passo! | André Fontenelle](https://www.youtube.com/watch?v=MhUzhXRm-Io)
 
-### 9.4. "Justificativa" em um projeto de pesquisa
+### 📹 9.4. "Justificativa" em um projeto de pesquisa
 
 [COMO REALIZAR A JUSTIFICATIVA DE UMA PESQUISA CIENTÍFICA](https://www.youtube.com/watch?v=FYykgc0OnKw)
 
@@ -234,7 +236,7 @@ No momento os professores que temos no curso são:
 
 [JUSTIFICATIVA DE TCC E PROJETO DE PESQUISA: o que é e como fazer / Com exemplos](https://www.youtube.com/watch?v=cnYBb1IwBgo)
 
-### 9.5. "Referências teórico" (ou "Revisão de literatura" ou "Trabalhos relacionados") em um projeto de pesquisa
+### 📹 9.5. "Referências teórico" (ou "Revisão de literatura" ou "Trabalhos relacionados") em um projeto de pesquisa
 
 [Referencial Teórico: Como organizar e escrever? | Para dissertação, tese ou projeto de pesquisa](https://www.youtube.com/watch?v=joLnfx8nwSc)
 
@@ -244,7 +246,7 @@ No momento os professores que temos no curso são:
 
 [FUNDAMENTAÇÃO TEÓRICA para TCC, Projeto de Pesquisa e Artigos: Exemplo Passo a Passo](https://www.youtube.com/watch?v=tjppG26WOK0)
 
-### 9.6. "Metodologia" em um projeto de pesquisa
+### 📹 9.6. "Metodologia" em um projeto de pesquisa
 
 [METODOLOGIA DO PROJETO DE PESQUISA | O que escrever, como escrever?](https://www.youtube.com/watch?v=xh-5SyaOTnY)
 
@@ -252,19 +254,19 @@ No momento os professores que temos no curso são:
 
 [PROJETO DE PESQUISA - MÉTODO](https://www.youtube.com/watch?v=QlWYzUSUO64)
 
-### 9.7. "Procedimentos metodológicos" em um projeto de pesquisa
+### 📹 9.7. "Procedimentos metodológicos" em um projeto de pesquisa
 
 [COMO ESCREVER A METODOLOGIA DO PROJETO DE PESQUISA | Daniel Mendes](https://www.youtube.com/watch?v=HhuTYwsC3bc)
 
 [Projeto de pesquisa | Procedimentos metodológicos.](https://www.youtube.com/watch?v=XfXGyypexN0)
 
-### 9.8. "Cronograma" em um projeto de pesquisa
+### 📹 9.8. "Cronograma" em um projeto de pesquisa
 
 [Orientações sobre o CRONOGRAMA do projeto de pesquisa](https://www.youtube.com/watch?v=uv5Hpu6gaew)
 
 [Como elaborar um cronograma para o pré-projeto de pesquisa?](https://www.youtube.com/watch?v=E3lp-S8LOOc)
 
-### 9.9. "Referências bibliográficas" em um projeto de pesquisa
+### 📹 9.9. "Referências bibliográficas" em um projeto de pesquisa
 
 [Como buscar referências para o TCC de revisão bibliográfica?](https://www.youtube.com/watch?v=XJqqffY4dS8)
 
@@ -348,6 +350,25 @@ mindmap
 
 
 ```
+
+### 10.2. Exemplos
+
+Exemplo de situação para classificar a pesquisa:
+
+O aluno de um curso de TI irá: "desenvolver um sistema novo para uma empresa na qual ele trabalha, irá integrar dados de fontes diversas, converter dados, terá uma versão responsiva e mobile, irá entrevistar os usuários e mensurar a velocidade de resposta do sistema. Use a tabela para classificar a pesquisa do aluno quanto a abordagem, natureza, objetivo e procedimento".
+
+A classificação da pesquisa será:
+
+| Dimensão / Tipo | Justificativa no contexto do projeto |
+|-----------------|--------------------------------------|
+| **Abordagem – Quali-Quantitativa** | O aluno vai coletar **dados qualitativos** (entrevistas com usuários) para entender necessidades e percepções, e também **dados quantitativos** (medição da velocidade de resposta do sistema) para mensurar desempenho. |
+| **Natureza – Aplicada** | O desenvolvimento do sistema visa resolver um **problema real e específico** da empresa onde ele trabalha, com aplicação prática imediata. |
+| **Objetivo – Explicativa** | Além de criar o sistema, ele **avaliará fatores que influenciam o desempenho** (como tempo de resposta), o que envolve investigar relações de causa e efeito. Também há traços de **descritiva** (caracterizar necessidades dos usuários), mas o foco principal é **explicar** o comportamento e desempenho. |
+| **Procedimentos – Pesquisa-Ação + Experimental + Estudo de Caso** | **Pesquisa-Ação** porque ele participa ativamente da implementação junto aos usuários. **Experimental** porque vai mensurar e testar desempenho com variáveis controladas (ex.: antes e depois de otimizações). **Estudo de Caso** porque o trabalho é focado em uma única empresa. Também haverá **Pesquisa de Campo** (entrevistas presenciais) e **Documental** (integração e análise de dados de diversas fontes). |
+
+
+#### 10.2.1. 📌 Resumo textual:
+O projeto é uma pesquisa quali-quantitativa, de natureza aplicada, com objetivo explicativo, conduzida por meio de pesquisa-ação, experimentos e estudo de caso, complementada por entrevistas e análise documental.
 
 
 

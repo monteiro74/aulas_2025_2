@@ -355,7 +355,7 @@ mindmap
 
 Exemplo de situação para classificar a pesquisa:
 
-O aluno de um curso de TI irá: "desenvolver um sistema novo para uma empresa na qual ele trabalha, irá integrar dados de fontes diversas, converter dados, terá uma versão responsiva e mobile, irá entrevistar os usuários e mensurar a velocidade de resposta do sistema. Use a tabela para classificar a pesquisa do aluno quanto a abordagem, natureza, objetivo e procedimento".
+O aluno de um curso de TI irá: "*desenvolver um sistema novo para uma empresa na qual ele trabalha, irá integrar dados de fontes diversas, converter dados, terá uma versão responsiva e mobile, irá entrevistar os usuários e mensurar a velocidade de resposta do sistema. Use a tabela para classificar a pesquisa do aluno quanto a abordagem, natureza, objetivo e procedimento*".
 
 A classificação da pesquisa será:
 

@@ -7,9 +7,8 @@
 - [📅 4. Calendário](#-4-calendário)
   - [📅 4.1. Calendário geral da universidade](#-41-calendário-geral-da-universidade)
   - [⏲️ 4.2. Horário do curso de Sistemas de Informação 2025/2](#️-42-horário-do-curso-de-sistemas-de-informação-20252)
-- [⌚ 5. Horários do professor](#-5-horários-do-professor)
-- [📓 6. Normatização acadêmica](#-6-normatização-acadêmica)
-- [🗃️ 7. Outros repositórios de apoio no github](#️-7-outros-repositórios-de-apoio-no-github)
+- [📓 5. Normatização acadêmica](#-5-normatização-acadêmica)
+- [🗃️ 6. Outros repositórios de apoio no github](#️-6-outros-repositórios-de-apoio-no-github)
 
 
 
@@ -45,13 +44,10 @@ https://cms.unemat.br/storage/documentos/bloco-documento-arquivo/fzPAyPvWQrw6zoH
 
 https://docs.google.com/spreadsheets/d/10oEVg8o5Solzw7iZZZ2R8udI7-N62NL8N8_x22mSG8k/edit?gid=1853764421#gid=1853764421
 
----
-# ⌚ 5. Horários do professor
 
-![https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/horarios_2025_v2.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/horarios_2025_v2.png)
 
 ---
-# 📓 6. Normatização acadêmica
+# 📓 5. Normatização acadêmica
 
 
 | Resolução | Descrição |
@@ -66,7 +62,7 @@ https://docs.google.com/spreadsheets/d/10oEVg8o5Solzw7iZZZ2R8udI7-N62NL8N8_x22mS
 
 
 ---
-# 🗃️ 7. Outros repositórios de apoio no github
+# 🗃️ 6. Outros repositórios de apoio no github
 
 🛑 https://github.com/monteiro74?tab=repositories
 

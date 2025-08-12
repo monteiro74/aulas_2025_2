@@ -249,19 +249,19 @@ No momento os professores que temos no curso são:
 
 [Orientações sobre o CRONOGRAMA do projeto de pesquisa](https://www.youtube.com/watch?v=uv5Hpu6gaew)
 
-[Como elaborar um cronograma para o pré-projeto de pesquisa?](https://www.youtube.com/watch?v=E3lp-S8LOOc
+[Como elaborar um cronograma para o pré-projeto de pesquisa?](https://www.youtube.com/watch?v=E3lp-S8LOOc)
 
 9. "Referências bibliográficas" em um projeto de pesquisa
 
-[Como buscar referências para o TCC de revisão bibliográfica?](https://www.youtube.com/watch?v=XJqqffY4dS8
+[Como buscar referências para o TCC de revisão bibliográfica?](https://www.youtube.com/watch?v=XJqqffY4dS8)
 
-[Projeto de Pesquisa - Referências Bibliográficas](https://www.youtube.com/watch?v=jgTWsJGpi-8
+[Projeto de Pesquisa - Referências Bibliográficas](https://www.youtube.com/watch?v=jgTWsJGpi-8)
 
-[PROJETO DE PESQUISA - CONCLUSÃO E REFERÊNCIAS](https://www.youtube.com/watch?v=_Nfq-n2m2vA
+[PROJETO DE PESQUISA - CONCLUSÃO E REFERÊNCIAS](https://www.youtube.com/watch?v=_Nfq-n2m2vA)
 
-[CITAÇÃO E REFERÊNCIA - TCC, MESTRADO E DOUTORADO](https://www.youtube.com/watch?v=RpriX_2uGSo
+[CITAÇÃO E REFERÊNCIA - TCC, MESTRADO E DOUTORADO](https://www.youtube.com/watch?v=RpriX_2uGSo)
 
-[COMO FAZER AS REFERÊNCIAS ABNT! FÁCIL E RÁPIDO! 2025!](https://www.youtube.com/watch?v=43m777TUcEg
+[COMO FAZER AS REFERÊNCIAS ABNT! FÁCIL E RÁPIDO! 2025!](https://www.youtube.com/watch?v=43m777TUcEg)
 
 
 ---

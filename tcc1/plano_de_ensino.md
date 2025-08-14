@@ -110,7 +110,14 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 [Referências bibliográficas nas bibliotecas virtuais](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view).
 
+* Atualização da norma ABNT para projeto de TCC: https://bibliotecas.ufu.br/acontece/2025/01/atualizacao-da-norma-de-apresentacao-de-trabalhos-academicos-abnt-nbr-14724
+e
+https://www.instagram.com/p/DEmwHkLtmfs/?img_index=4
+e
+https://www.instagram.com/p/DEpsW-PhgFo/?img_index=6
 
+* ABNT NBR 14724 Quarta edição 16.12.2024
+  
 ---
 ## 💾 5. Arquivos
 
@@ -292,6 +299,8 @@ No momento os professores que temos no curso são:
 ## 10. Estrutura do TCC1:
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/tcc1/estrutura_tcc1.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/tcc1/estrutura_tcc1.png)
+
+Fonte da figura: https://www.pucminas.br/biblioteca/DocumentoBiblioteca/ABNT-Elaborar-formatar-projeto-de-pesquisa.pdf, página 7.
 
 ---
 ## 💡 11. Tipos de pesquisa

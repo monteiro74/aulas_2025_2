@@ -102,6 +102,14 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 [Referências bibliográficas nas bibliotecas virtuais](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view).
 
+* Atualização da norma ABNT para projeto de TCC: https://bibliotecas.ufu.br/acontece/2025/01/atualizacao-da-norma-de-apresentacao-de-trabalhos-academicos-abnt-nbr-14724
+e
+https://www.instagram.com/p/DEmwHkLtmfs/?img_index=4
+e
+https://www.instagram.com/p/DEpsW-PhgFo/?img_index=6
+
+* ABNT NBR 14724 Quarta edição 16.12.2024
+
 
 ---
 ## 💾 5. Arquivos

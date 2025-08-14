@@ -17,16 +17,16 @@
   - [🧑‍🎓 6.1. Relação professor x aluno:](#-61-relação-professor-x-aluno)
 - [📆 7. Calendário geral](#-7-calendário-geral)
 - [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
-- [10. Estrutura do TCC1:](#10-estrutura-do-tcc1)
-- [📺 11. Vídeos](#-11-vídeos)
-  - [11.1. Abstract ou resumo em um artigo científico](#111-abstract-ou-resumo-em-um-artigo-científico)
-  - [11.2. Palavras chave em um artigo científico](#112-palavras-chave-em-um-artigo-científico)
-  - [11.3. Introdução em um artigo científico](#113-introdução-em-um-artigo-científico)
-  - [11.4. Trabalhos relacionados em um artigo científico](#114-trabalhos-relacionados-em-um-artigo-científico)
-  - [11.5. Materais e Métodos (Modelo proposto) em um artigo científico](#115-materais-e-métodos-modelo-proposto-em-um-artigo-científico)
-  - [11.6. Avaliação, Resultados e Discussão em um artigo científico](#116-avaliação-resultados-e-discussão-em-um-artigo-científico)
-  - [11.7.Conclusão](#117conclusão)
-- [12. Ordem de entrega de documentos:](#12-ordem-de-entrega-de-documentos)
+- [📺 9. Vídeos recomendados](#-9-vídeos-recomendados)
+  - [9.1. Abstract ou resumo em um artigo científico](#91-abstract-ou-resumo-em-um-artigo-científico)
+  - [9.2. Palavras chave em um artigo científico](#92-palavras-chave-em-um-artigo-científico)
+  - [9.3. Introdução em um artigo científico](#93-introdução-em-um-artigo-científico)
+  - [9.4. Trabalhos relacionados em um artigo científico](#94-trabalhos-relacionados-em-um-artigo-científico)
+  - [9.5. Materais e Métodos (Modelo proposto) em um artigo científico](#95-materais-e-métodos-modelo-proposto-em-um-artigo-científico)
+  - [9.6. Avaliação, Resultados e Discussão em um artigo científico](#96-avaliação-resultados-e-discussão-em-um-artigo-científico)
+  - [9.7. Conclusão](#97-conclusão)
+- [🚧 10. Estrutura do artigo:](#-10-estrutura-do-artigo)
+- [🧱 11. Ordem de entrega de documentos:](#-11-ordem-de-entrega-de-documentos)
 
 
 ---
@@ -267,7 +267,7 @@ No momento os professores que temos no curso são:
 
 
 ---
-## 10. Estrutura do TCC1:
+## 🚧 10. Estrutura do artigo:
 
 
 
@@ -288,7 +288,8 @@ Doc3_Autorizacao_para_apresentacao_projeto_v3.docx
 3ª entrega, será no fim de novembro:
 No arquivo: Templates-do-Tcc-ii-Nos-Formatos-Doc-Odt-e-Tex-Latex-Para-Download.zip estão os formatos de arquivos (latex ou word) você deverá escolher uma versão entregar o pdf corrigido.
 e
-ATA_TCC_2.docx
+[ATA_TCC_2.docx](https://docs.google.com/document/d/1__KOTF9trUtq6eL2XCgSBTnMrKk32pYn/edit?tab=t.0)
+
 
 ---
 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)

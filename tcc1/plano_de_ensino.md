@@ -31,7 +31,7 @@
 - [💡 11. Tipos de pesquisa](#-11-tipos-de-pesquisa)
   - [🧠 11.1. Mapa mental](#-111-mapa-mental)
   - [🧭 11.2. Exemplos](#-112-exemplos)
-    - [📌 11.2.1.  Resumo textual:](#-1121--resumo-textual)
+  - [📌 11.2.  Resumo textual:](#-112--resumo-textual)
 - [🧱 12. Ordem de entrega de documentos:](#-12-ordem-de-entrega-de-documentos)
 
 
@@ -389,7 +389,7 @@ A classificação da pesquisa será:
 | **Objetivo – Explicativa** | Além de criar o sistema, ele **avaliará fatores que influenciam o desempenho** (como tempo de resposta), o que envolve investigar relações de causa e efeito. Também há traços de **descritiva** (caracterizar necessidades dos usuários), mas o foco principal é **explicar** o comportamento e desempenho. |
 | **Procedimentos – Pesquisa-Ação + Experimental + Estudo de Caso** | **Pesquisa-Ação** porque ele participa ativamente da implementação junto aos usuários. **Experimental** porque vai mensurar e testar desempenho com variáveis controladas (ex.: antes e depois de otimizações). **Estudo de Caso** porque o trabalho é focado em uma única empresa. Também haverá **Pesquisa de Campo** (entrevistas presenciais) e **Documental** (integração e análise de dados de diversas fontes). |
 
-#### 📌 11.2.1.  Resumo textual:
+### 📌 11.2.  Resumo textual:
 O projeto é uma pesquisa quali-quantitativa, de natureza aplicada, com objetivo explicativo, conduzida por meio de pesquisa-ação, experimentos e estudo de caso, complementada por entrevistas e análise documental.
 
 ---
@@ -410,7 +410,7 @@ Doc3_Autorizacao_para_apresentacao_projeto_v3.docx
 3ª entrega, será no fim de novembro:
 Template Projeto TCC1 v3.docx  (corrigido)
 e
-ATA_TCC_1.docx
+[ATA_TCC_1.docx](https://docs.google.com/document/d/18j2q4C7jAOYfiOTf92ZuVOoZ_CBQLiTm/edit?tab=t.0)
 
 ---
 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)

@@ -110,7 +110,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  | 13/08  | 3hs  | Apresentação da disciplina. Conceitos de engenharia de dados |
+|  1  | 13/08  | 3hs  | Apresentação da disciplina. Conceitos de engenharia de dados. Sites comentados em aula: <br> [Threatmap](https://threatmap.checkpoint.com/)<br> [Cybermap](https://cybermap.kaspersky.com/)<br> [Internet-map](https://internet-map.net/)<br> [he-net 3d map](https://he.net/3d-map/) <br> [Submarine cable](https://www.submarinecablemap.com/submarine-cable/monet) <br> [Satellitemap](https://satellitemap.space/#) <br> [Anaconda](https://www.anaconda.com/ai-platform) <br> [Conjunto de dados pessoa jurídica](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj) <br> [Receita Federal dados abertos](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos).|
 |  2  | 20/08  | 3hs  | Processo KDD (knowledge Discovery in Database), padrão, Processo CRISP DM. |
 |  3  | 27/08  | 3hs  | Limpeza de dados, campos vazios, estatísticas descritiva. |
 |  4  | 03/09  | 3hs  | Agrupamento e classificação. |

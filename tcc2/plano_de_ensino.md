@@ -14,7 +14,7 @@
 - [:books: 4. Referências](#books-4-referências)
 - [💾 5. Arquivos](#-5-arquivos)
 - [:alarm\_clock: 6. Professores x áreas de orientação](#alarm_clock-6-professores-x-áreas-de-orientação)
-  - [🧑‍🎓 6.1. Relação professor x aluno:](#-61-relação-professor-x-aluno)
+  - [🧑‍🎓 6.1. Relação Aluno x Professor:](#-61-relação-aluno-x-professor)
 - [📆 7. Calendário geral](#-7-calendário-geral)
 - [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
 - [📺 9. Vídeos recomendados](#-9-vídeos-recomendados)
@@ -147,7 +147,8 @@ No momento os professores que temos no curso são:
 |26| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3. Técnicas de scrapping. |
 
 
-### 🧑‍🎓 6.1. Relação professor x aluno:
+
+### 🧑‍🎓 6.1. Relação Aluno x Professor:
 
 |  | Aluno | Professor |
 |--|------------------------------|--------------------|
@@ -170,7 +171,7 @@ No momento os professores que temos no curso são:
 |17| JOÃO VITOR ARRUDA PERCINOTTO	 | |
 |18| JULIO DA SILVA RODRIGUES	 | |
 |19| LARISSA SMANIOTTO ARAUJO	 | |
-|20| LEONARDI	 | |
+|20| LEONARDI	 | Emiliano S. Monteiro |
 |21| LEONARDO OLIVEIRA DE MORAES	 | |
 |22| LEONARDO PALIN DOS SANTOS	 | |
 |23| LUCAS PEREIRA RIBEIRO CORRÊA	 | |

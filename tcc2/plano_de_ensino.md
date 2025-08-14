@@ -17,14 +17,16 @@
   - [🧑‍🎓 6.1. Relação professor x aluno:](#-61-relação-professor-x-aluno)
 - [📆 7. Calendário geral](#-7-calendário-geral)
 - [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
-- [📺 9. Vídeos](#-9-vídeos)
-  - [9.1. Abstract ou resumo em um artigo científico](#91-abstract-ou-resumo-em-um-artigo-científico)
-  - [9.2. Palavras chave em um artigo científico](#92-palavras-chave-em-um-artigo-científico)
-  - [9.3. Introdução em um artigo científico](#93-introdução-em-um-artigo-científico)
-  - [9.4. Trabalhos relacionados em um artigo científico](#94-trabalhos-relacionados-em-um-artigo-científico)
-  - [9.5. Materais e Métodos (Modelo proposto) em um artigo científico](#95-materais-e-métodos-modelo-proposto-em-um-artigo-científico)
-  - [9.6. Avaliação, Resultados e Discussão em um artigo científico](#96-avaliação-resultados-e-discussão-em-um-artigo-científico)
-  - [9.7.Conclusão](#97conclusão)
+- [10. Estrutura do TCC1:](#10-estrutura-do-tcc1)
+- [📺 11. Vídeos](#-11-vídeos)
+  - [11.1. Abstract ou resumo em um artigo científico](#111-abstract-ou-resumo-em-um-artigo-científico)
+  - [11.2. Palavras chave em um artigo científico](#112-palavras-chave-em-um-artigo-científico)
+  - [11.3. Introdução em um artigo científico](#113-introdução-em-um-artigo-científico)
+  - [11.4. Trabalhos relacionados em um artigo científico](#114-trabalhos-relacionados-em-um-artigo-científico)
+  - [11.5. Materais e Métodos (Modelo proposto) em um artigo científico](#115-materais-e-métodos-modelo-proposto-em-um-artigo-científico)
+  - [11.6. Avaliação, Resultados e Discussão em um artigo científico](#116-avaliação-resultados-e-discussão-em-um-artigo-científico)
+  - [11.7.Conclusão](#117conclusão)
+- [12. Ordem de entrega de documentos:](#12-ordem-de-entrega-de-documentos)
 
 
 ---
@@ -208,15 +210,10 @@ No momento os professores que temos no curso são:
 ---
 ## 📆 8. Calendário de bancas
 
-
-
-
 ---
-## 📺 9. Vídeos
-
+## 📺 9. Vídeos recomendados
 
 [Como ter ideias de temas para o meu Artigo Científico? [ Delimitação do Tema ]](https://www.youtube.com/watch?v=KZk-RzOCZ54)
-
 
 ### 9.1. Abstract ou resumo em um artigo científico
 
@@ -262,12 +259,36 @@ No momento os professores que temos no curso são:
 
 [Como estruturar e escrever a Discussão dos Resultados de um relatório técnico ou artigo científico](https://www.youtube.com/watch?v=2OPF5zEPqWg)
 
-### 9.7.Conclusão
+### 9.7. Conclusão
 
 [Como escrever a Conclusão de Artigos Científicos - com Exemplo](https://www.youtube.com/watch?v=X6HKUPs9u9c)
 
 [Como começar a Conclusão de um Artigo Científico?](https://www.youtube.com/watch?v=0nxMMk6zMmA)
 
+
+---
+## 10. Estrutura do TCC1:
+
+
+
+---
+## 🧱 11. Ordem de entrega de documentos:
+
+1ª entrega, será em início de setembro:
+Doc1a_Termo_Aceite_e_Compromisso_Orientador_v2.docx  (estes termos devem estar assinados pelo orientador)
+Doc1b_Termo_Aceite_e_Compromisso_Coorientador_v2.docx  <<-- Se houver coorientador !
+
+2ª entrega, será no início de novembro:
+Um dos relatórios abaixo (escolha um formato)                                                                                                        
+Doc2_Relatorio_de_Acompanhamento_de_projeto_modelo1_v2.docx                                                                                                     
+Doc2_Relatorio_de_Acompanhamento_de_projeto_modelo2_v2.docx                                                                                                     
+e
+Doc3_Autorizacao_para_apresentacao_projeto_v3.docx                                                                                                              
+
+3ª entrega, será no fim de novembro:
+No arquivo: Templates-do-Tcc-ii-Nos-Formatos-Doc-Odt-e-Tex-Latex-Para-Download.zip estão os formatos de arquivos (latex ou word) você deverá escolher uma versão entregar o pdf corrigido.
+e
+ATA_TCC_2.docx
 
 ---
 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)

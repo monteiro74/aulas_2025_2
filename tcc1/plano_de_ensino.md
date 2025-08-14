@@ -27,11 +27,12 @@
   - [📹 9.7. "Procedimentos metodológicos" em um projeto de pesquisa](#-97-procedimentos-metodológicos-em-um-projeto-de-pesquisa)
   - [📹 9.8. "Cronograma" em um projeto de pesquisa](#-98-cronograma-em-um-projeto-de-pesquisa)
   - [📹 9.9. "Referências bibliográficas" em um projeto de pesquisa](#-99-referências-bibliográficas-em-um-projeto-de-pesquisa)
-- [10. Estrutura do TCC1:](#10-estrutura-do-tcc1)
+- [🚧 10. Estrutura do TCC1:](#-10-estrutura-do-tcc1)
 - [💡 11. Tipos de pesquisa](#-11-tipos-de-pesquisa)
   - [🧠 11.1. Mapa mental](#-111-mapa-mental)
   - [🧭 11.2. Exemplos](#-112-exemplos)
     - [📌 11.2.1.  Resumo textual:](#-1121--resumo-textual)
+- [🧱 12. Ordem de entrega de documentos:](#-12-ordem-de-entrega-de-documentos)
 
 
 ---
@@ -296,7 +297,7 @@ No momento os professores que temos no curso são:
 
 
 ---
-## 10. Estrutura do TCC1:
+## 🚧 10. Estrutura do TCC1:
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/tcc1/estrutura_tcc1.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/tcc1/estrutura_tcc1.png)
 
@@ -371,8 +372,6 @@ mindmap
         "Análise aprofundada de um caso"
       "Entrevista / Survey"
         "Questionários/entrevistas a amostras"
-
-
 ```
 
 ### 🧭 11.2. Exemplos
@@ -390,11 +389,28 @@ A classificação da pesquisa será:
 | **Objetivo – Explicativa** | Além de criar o sistema, ele **avaliará fatores que influenciam o desempenho** (como tempo de resposta), o que envolve investigar relações de causa e efeito. Também há traços de **descritiva** (caracterizar necessidades dos usuários), mas o foco principal é **explicar** o comportamento e desempenho. |
 | **Procedimentos – Pesquisa-Ação + Experimental + Estudo de Caso** | **Pesquisa-Ação** porque ele participa ativamente da implementação junto aos usuários. **Experimental** porque vai mensurar e testar desempenho com variáveis controladas (ex.: antes e depois de otimizações). **Estudo de Caso** porque o trabalho é focado em uma única empresa. Também haverá **Pesquisa de Campo** (entrevistas presenciais) e **Documental** (integração e análise de dados de diversas fontes). |
 
-
 #### 📌 11.2.1.  Resumo textual:
 O projeto é uma pesquisa quali-quantitativa, de natureza aplicada, com objetivo explicativo, conduzida por meio de pesquisa-ação, experimentos e estudo de caso, complementada por entrevistas e análise documental.
 
+---
+## 🧱 12. Ordem de entrega de documentos:
 
+Ordem de entrega de documentos:
+
+1ª entrega, será em início de setembro:
+Doc1a_Termo_Aceite_e_Compromisso_Orientador_v2.docx  (estes termos devem estar assinados pelo orientador)                                                                                     Doc1b_Termo_Aceite_e_Compromisso_Coorientador_v2.docx  <<-- Se houver coorientador !
+
+2ª entrega, será no início de novembro:
+Um dos relatórios abaixo (escolha um formato)                                                                                                        
+Doc2_Relatorio_de_Acompanhamento_de_projeto_modelo1_v2.docx                                                                                                     
+Doc2_Relatorio_de_Acompanhamento_de_projeto_modelo2_v2.docx                                                                                                     
+e
+Doc3_Autorizacao_para_apresentacao_projeto_v3.docx                                                                                                              
+
+3ª entrega, será no fim de novembro:
+Template Projeto TCC1 v3.docx  (corrigido)
+e
+ATA_TCC_1.docx
 
 ---
 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)

@@ -27,10 +27,11 @@
   - [📹 9.7. "Procedimentos metodológicos" em um projeto de pesquisa](#-97-procedimentos-metodológicos-em-um-projeto-de-pesquisa)
   - [📹 9.8. "Cronograma" em um projeto de pesquisa](#-98-cronograma-em-um-projeto-de-pesquisa)
   - [📹 9.9. "Referências bibliográficas" em um projeto de pesquisa](#-99-referências-bibliográficas-em-um-projeto-de-pesquisa)
-- [💡 10. Tipos de pesquisa](#-10-tipos-de-pesquisa)
-  - [🧠 10.1. Mapa mental](#-101-mapa-mental)
-  - [🧭 10.2. Exemplos](#-102-exemplos)
-    - [📌 10.2.1.  Resumo textual:](#-1021--resumo-textual)
+- [10. Estrutura do TCC1:](#10-estrutura-do-tcc1)
+- [💡 11. Tipos de pesquisa](#-11-tipos-de-pesquisa)
+  - [🧠 11.1. Mapa mental](#-111-mapa-mental)
+  - [🧭 11.2. Exemplos](#-112-exemplos)
+    - [📌 11.2.1.  Resumo textual:](#-1121--resumo-textual)
 
 
 ---
@@ -286,8 +287,14 @@ No momento os professores que temos no curso são:
 
 [COMO FAZER AS REFERÊNCIAS ABNT! FÁCIL E RÁPIDO! 2025!](https://www.youtube.com/watch?v=43m777TUcEg)
 
+
 ---
-## 💡 10. Tipos de pesquisa
+## 10. Estrutura do TCC1:
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/tcc1/estrutura_tcc1.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_2/refs/heads/main/tcc1/estrutura_tcc1.png)
+
+---
+## 💡 11. Tipos de pesquisa
 
 | Dimensão / Tipo                      | Descrição                                                                                  | Exemplos                                                |
 | ------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
@@ -307,7 +314,7 @@ No momento os professores que temos no curso são:
 | **Procedimento – Estudo de Caso**    | Análise profunda de um ou poucos objetos.                                                  | Gestão de inovação em uma startup.                      |
 | **Procedimento – Entrevista/Survey** | Questionários ou entrevistas para coletar percepções e opiniões.                           | Pesquisa de satisfação de clientes.                     |
 
-### 🧠 10.1. Mapa mental
+### 🧠 11.1. Mapa mental
 
 ```mermaid
 
@@ -359,7 +366,7 @@ mindmap
 
 ```
 
-### 🧭 10.2. Exemplos
+### 🧭 11.2. Exemplos
 
 Exemplo de situação para classificar a pesquisa:
 
@@ -375,7 +382,7 @@ A classificação da pesquisa será:
 | **Procedimentos – Pesquisa-Ação + Experimental + Estudo de Caso** | **Pesquisa-Ação** porque ele participa ativamente da implementação junto aos usuários. **Experimental** porque vai mensurar e testar desempenho com variáveis controladas (ex.: antes e depois de otimizações). **Estudo de Caso** porque o trabalho é focado em uma única empresa. Também haverá **Pesquisa de Campo** (entrevistas presenciais) e **Documental** (integração e análise de dados de diversas fontes). |
 
 
-#### 📌 10.2.1.  Resumo textual:
+#### 📌 11.2.1.  Resumo textual:
 O projeto é uma pesquisa quali-quantitativa, de natureza aplicada, com objetivo explicativo, conduzida por meio de pesquisa-ação, experimentos e estudo de caso, complementada por entrevistas e análise documental.
 
 

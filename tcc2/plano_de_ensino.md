@@ -157,38 +157,38 @@ No momento os professores que temos no curso são:
 | 1| ALAN PASQUALETTO | Janecler | Sistema p/ imobiliária	|
 | 2| ANDRÉ VICENTE	  | | |
 | 3| BERNARDO POYER GABE AMERICO | |  |	
-| 4| BRUNA EDUARDA DOS SANTOS SILVA	 | |  |
-| 5| CHRISTIAN DA SILVA ALBUQUERQUE	 | |  |
+| 4| BRUNA EDUARDA DOS SANTOS SILVA	 | João Ricardo | UX no APP do BB |
+| 5| CHRISTIAN DA SILVA ALBUQUERQUE	 | Morgan | Desen. Sistema p/ comparar preço de supermercado  |
 | 6| CLEDERSON BRUSCO	 | |  |
-| 7| DANIEL ARLINDO DE OLIVEIRA CARLING	 | |  |
+| 7| DANIEL ARLINDO DE OLIVEIRA CARLING	 | Ramilton | Dashboard p/ monitor tráfego hospital  |
 | 8| DEOCLIDES ORMOND BORGES	 | |  |
 | 9| EWERTON OLEGARIO DOS SANTOS	 | |  |
 |10| FELIPE CHRISTOPHER FAVARO ROCHA | Ramilton | Análise de tráfeo em rede sociais  |
-|11| FELIPE LEAL ALVES	 |  |  |
-|12| GABRIEL FERNANDO BRAND	 | | |
-|13| GABRIEL SMANIOTTO ARAUJO	 | | |
+|11| FELIPE LEAL ALVES	 | Morgan | Plugin navegador com IA |
+|12| GABRIEL FERNANDO BRAND	 | Ramilton | Sist. Web ctrl Honário Contábil |
+|13| GABRIEL SMANIOTTO ARAUJO	 | Maicon  | Análise de imagens com RNC |
 |14| GABRIELLE CANDIDO SCHMITT	 | | |
-|15| GUSTAVO MORESCO D'AMBROS	 | | |
+|15| GUSTAVO MORESCO D'AMBROS	 | Janecler | Gestão de feedback |
 |16| HANS DONNER GIL ESPINHA	 | | |
-|17| JOÃO VITOR ARRUDA PERCINOTTO	 | | |
+|17| JOÃO VITOR ARRUDA PERCINOTTO	 | Benevid | Uso de transição de audio com LLM |
 |18| JULIO DA SILVA RODRIGUES	 | | |
-|19| LARISSA SMANIOTTO ARAUJO	 | | |
-|20| LEONARDI	 | Emiliano S. Monteiro | ETL e Dashboard bancário |
-|21| LEONARDO OLIVEIRA DE MORAES | | |
+|19| LARISSA SMANIOTTO ARAUJO	 | Ivan | Front end Smartdrawer gaveta inteligente |
+|20| LEONARDI	 | Emiliano S. Monteiro | ETL e Dashboard p/ setor bancário |
+|21| LEONARDO OLIVEIRA DE MORAES |  | Dashboard p/ KPI|
 |22| LEONARDO PALIN DOS SANTOS | Janecler | Automação residencial (janela automatiza) |
-|23| LUCAS PEREIRA RIBEIRO CORRÊA	 | | |
-|24| MARCOS JUNIOR DA SILVA	 | | |
-|25| MARIA THAIS SILVA MARQUES | Tales Bogoni | |
-|26| MATHEUS LEANDRO HOLOWKA	| Emiliano S. Monteiro | ETL e Dashboard |
+|23| LUCAS PEREIRA RIBEIRO CORRÊA	 | Ivan  | LLM na otimização cidade inteligêntes |
+|24| MARCOS JUNIOR DA SILVA	 | João Ricardo | Análise de usabilidade da plaforma Lattes |
+|25| MARIA THAIS SILVA MARQUES | Tales Bogoni | App. mobile horários de Misas em Sinop |
+|26| MATHEUS LEANDRO HOLOWKA	| Emiliano S. Monteiro | ETL e Dashboard p/ atendimento |
 |27| MATHEUS REIS BARROS	 | Morgan | Gestão de escola de futebol |
 |28| MAURÍCIO ROBERTO PAGLIARINI FILHO	 | |  |
 |29| MAYCON RAMATIS BRUGNERA VASCONCELLOS	 | |  |
 |30| PAULO CÉSAR MARTINS PORTILHO	 | |  |
-|31| ROBERTO DOS SANTOS FILHO	 | |  |
+|31| ROBERTO DOS SANTOS FILHO	 |  | Solução para detecvuln e gestão em ativos de rede |
 |32| VAGNO VALADARES DA COSTA	 | |  |
 |33| VINÍCIUS VIVAN DE LIMA	 | Benevid | Fine tuning de IA |
-|34| VITOR ROBERTO BISPO DOS SANTOS	 | |  |
-|35| WINY ZANIN |  |  |
+|34| VITOR ROBERTO BISPO DOS SANTOS	 |  Benevid | Gestão de remoaneio  |
+|35| WINY ZANIN | Ivan | Backend Smartdrwaer  |
 
 
 

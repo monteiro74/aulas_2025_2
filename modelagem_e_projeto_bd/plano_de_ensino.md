@@ -110,7 +110,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-| 1   | 14/08 | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas |
+| 1   | 14/08 | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas. [Ranking de bancos de dados](https://db-engines.com/en/ranking). [Slides da aula](https://docs.google.com/presentation/d/1RF0sP4Xpa5g70OR8GFUnJYtZSTvww8J01XdnkqAmdM4/edit?usp=view) |
 | 2   | 21/08 | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. |
 | 3   | 28/08 | 3hs | Conceitos de BD e SGBD, Comparações com SO e arquivos. Estrutura interna. Slides da aula 2. Scripts SQL p/ MySQL e SQL Server.  |
 | 4   | 04/09 | 3hs |Conceito de transação. ACID. Concorrência. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. |

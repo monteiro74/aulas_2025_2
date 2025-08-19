@@ -36,6 +36,11 @@
     - [📊 14.2.8. Big Data](#-1428-big-data)
   - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
   - [📄 15. Exemplos usados em sala de aula](#-15-exemplos-usados-em-sala-de-aula)
+  - [16. Assuntos diversos](#16-assuntos-diversos)
+- [Algoritmo Apriori](#algoritmo-apriori)
+- [Exemplo de processo NLP](#exemplo-de-processo-nlp)
+  - [Resumo sobre NLP:](#resumo-sobre-nlp)
+- [Resumo comparativo de soluções Cloud](#resumo-comparativo-de-soluções-cloud)
 
 
 ---
@@ -425,8 +430,12 @@ Algoritmos classificadores, comparação:
 | **Naive Bayes**  | Usa Teorema de Bayes com suposição de independência entre atributos | Rápido; eficaz para textos; pouco afetado por dados faltantes             | Suposição de independência pode não ser realista                          | Classificação de texto; spam; análise de sentimentos                     |
 | **Random Forest**| Conjunto de árvores de decisão treinadas em subconjuntos dos dados | Alta acurácia; reduz overfitting; lida com dados desbalanceados           | Mais difícil de interpretar; pode ser computacionalmente custoso          | Situações onde acurácia é prioridade; dados ruidosos ou desbalanceados  |
 
+
+### 16. Assuntos diversos
+
+
 ---
-Algoritmo Apriori
+## Algoritmo Apriori
 
 ```mermaid
 flowchart TD
@@ -445,17 +454,14 @@ flowchart TD
     L --> N[Exibir resultados]
     M --> N
 
-
-
 ```
 
 ---
-Exemplo de processo NLP
+## Exemplo de processo NLP
 
 
 
 ```mermaid
-
 flowchart TD
     A[Segmentação de Sentenças] --> B[Tokenização de Palavras]
     B --> C[Lematização de Texto]
@@ -464,12 +470,11 @@ flowchart TD
     E --> F[Reconhecimento de Entidades Nomeadas - REN]
     F --> G[Resolução de Correferência]
     G --> H[Aplicações em PLN - Resumo - Perguntas e Respostas]
-
 ```
 
 
 
-Resumo sobre NLP:
+### Resumo sobre NLP:
 
 Sentence Segmentation
 ➤ Divide o texto em frases distintas, identificando limites com base em pontuação e estrutura linguística.
@@ -491,4 +496,8 @@ Named Entity Recognition (NER)
 
 Coreference Resolution
 ➤ Detecta quando diferentes palavras ou pronomes se referem à mesma entidade (ex: "João saiu. Ele...").
+
+## Resumo comparativo de soluções Cloud
+
+![]()
 

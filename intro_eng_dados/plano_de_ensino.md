@@ -37,10 +37,10 @@
   - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
   - [📄 15. Exemplos usados em sala de aula](#-15-exemplos-usados-em-sala-de-aula)
   - [16. Assuntos diversos](#16-assuntos-diversos)
-- [Algoritmo Apriori](#algoritmo-apriori)
-- [Exemplo de processo NLP](#exemplo-de-processo-nlp)
-  - [Resumo sobre NLP:](#resumo-sobre-nlp)
-- [Resumo comparativo de soluções Cloud](#resumo-comparativo-de-soluções-cloud)
+    - [Algoritmo Apriori](#algoritmo-apriori)
+    - [Exemplo de processo NLP](#exemplo-de-processo-nlp)
+    - [Resumo sobre NLP:](#resumo-sobre-nlp)
+    - [Resumo comparativo de soluções Cloud](#resumo-comparativo-de-soluções-cloud)
 
 
 ---
@@ -435,7 +435,7 @@ Algoritmos classificadores, comparação:
 
 
 ---
-## Algoritmo Apriori
+#### Algoritmo Apriori
 
 ```mermaid
 flowchart TD
@@ -457,7 +457,7 @@ flowchart TD
 ```
 
 ---
-## Exemplo de processo NLP
+#### Exemplo de processo NLP
 
 
 
@@ -474,7 +474,7 @@ flowchart TD
 
 
 
-### Resumo sobre NLP:
+#### Resumo sobre NLP:
 
 Sentence Segmentation
 ➤ Divide o texto em frases distintas, identificando limites com base em pontuação e estrutura linguística.
@@ -497,7 +497,7 @@ Named Entity Recognition (NER)
 Coreference Resolution
 ➤ Detecta quando diferentes palavras ou pronomes se referem à mesma entidade (ex: "João saiu. Ele...").
 
-## Resumo comparativo de soluções Cloud
+#### Resumo comparativo de soluções Cloud
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg](https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg)
 

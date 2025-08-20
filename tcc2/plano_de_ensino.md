@@ -27,6 +27,7 @@
   - [9.7. Conclusão](#97-conclusão)
 - [🚧 10. Estrutura do artigo:](#-10-estrutura-do-artigo)
 - [🧱 11. Ordem de entrega de documentos:](#-11-ordem-de-entrega-de-documentos)
+  - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
 ---
@@ -159,7 +160,7 @@ No momento os professores que temos no curso são:
 | 3| BERNARDO POYER GABE AMERICO | |  |	
 | 4| BRUNA EDUARDA DOS SANTOS SILVA	 | João Ricardo | UX no APP do BB |
 | 5| CHRISTIAN DA SILVA ALBUQUERQUE	 | Morgan | Desen. Sistema p/ comparar preço de supermercado  |
-| 6| CLEDERSON BRUSCO	 | |  |
+| 6| CLEDERSON BRUSCO	 | Benevid | Alimentador para pet  |
 | 7| DANIEL ARLINDO DE OLIVEIRA CARLING	 | Ramilton | Dashboard p/ monitor tráfego hospital  |
 | 8| DEOCLIDES ORMOND BORGES	 | |  |
 | 9| EWERTON OLEGARIO DOS SANTOS	 | |  |
@@ -173,7 +174,7 @@ No momento os professores que temos no curso são:
 |17| JOÃO VITOR ARRUDA PERCINOTTO	 | Benevid | Uso de transição de audio com LLM |
 |18| JULIO DA SILVA RODRIGUES	 | | |
 |19| LARISSA SMANIOTTO ARAUJO	 | Ivan | Front end Smartdrawer gaveta inteligente |
-|20| LEONARDI	 | Emiliano S. Monteiro | ETL e Dashboard p/ setor bancário |
+|20| LEONARDI	VINICIUS MOUZINHO OLIVEIRA DA SILVA | Emiliano S. Monteiro | ETL e Dashboard p/ setor bancário |
 |21| LEONARDO OLIVEIRA DE MORAES |  | Dashboard p/ KPI|
 |22| LEONARDO PALIN DOS SANTOS | Janecler | Automação residencial (janela automatiza) |
 |23| LUCAS PEREIRA RIBEIRO CORRÊA	 | Ivan  | LLM na otimização cidade inteligêntes |
@@ -184,7 +185,7 @@ No momento os professores que temos no curso são:
 |28| MAURÍCIO ROBERTO PAGLIARINI FILHO	 | |  |
 |29| MAYCON RAMATIS BRUGNERA VASCONCELLOS	 | |  |
 |30| PAULO CÉSAR MARTINS PORTILHO	 | |  |
-|31| ROBERTO DOS SANTOS FILHO	 |  | Solução para detecvuln e gestão em ativos de rede |
+|31| ROBERTO DOS SANTOS FILHO	 |  | Solução para detec. vuln. e gestão em ativos de rede |
 |32| VAGNO VALADARES DA COSTA	 | |  |
 |33| VINÍCIUS VIVAN DE LIMA	 | Benevid | Fine tuning de IA |
 |34| VITOR ROBERTO BISPO DOS SANTOS	 |  Benevid | Gestão de remoaneio  |

@@ -190,7 +190,7 @@ No momento os professores que temos no curso são:
 |30| SALATIEL BONFIM GOMES	| |  |
 |31| SANDY HIKARU HONDA	| |   |
 |32| THIAGO LEAL DE SOUSA ARAUJO| |	  |
-|33| THIAGO SMERDECK PEREIRA	| |  |
+|33| THIAGO SMERDECK PEREIRA	| Benevid | Sistema para datacenter, medir temperatura |
 |34| VINÍCIUS FREITAS	| |  |
 |35| VITOR EMANUEL SILVA SAUZEN | |	  |
 |36| VITOR FORTUNATO DE OLIVEIRA	| |  |

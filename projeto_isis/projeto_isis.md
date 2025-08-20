@@ -183,5 +183,5 @@ Use este [formulário](https://forms.gle/WmozF1kawhHPkPzi8) para enviar o plano 
 
 
 ---
-💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
 

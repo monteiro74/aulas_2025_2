@@ -413,5 +413,5 @@ e
 [ATA_TCC_1.docx](https://docs.google.com/document/d/18j2q4C7jAOYfiOTf92ZuVOoZ_CBQLiTm/edit?tab=t.0)
 
 ---
-💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
 

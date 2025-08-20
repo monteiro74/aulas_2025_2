@@ -41,6 +41,7 @@
     - [Exemplo de processo NLP](#exemplo-de-processo-nlp)
     - [Resumo sobre NLP:](#resumo-sobre-nlp)
     - [Resumo comparativo de soluções Cloud](#resumo-comparativo-de-soluções-cloud)
+  - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
 ---
@@ -505,5 +506,5 @@ Coreference Resolution
 
 
 ---
-💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
 

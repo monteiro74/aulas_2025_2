@@ -295,5 +295,5 @@ e
 
 
 ---
-💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
 

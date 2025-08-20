@@ -33,6 +33,7 @@
   - [🧭 11.2. Exemplos](#-112-exemplos)
   - [📌 11.2.  Resumo textual:](#-112--resumo-textual)
 - [🧱 12. Ordem de entrega de documentos:](#-12-ordem-de-entrega-de-documentos)
+  - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
 ---
@@ -160,11 +161,11 @@ No momento os professores que temos no curso são:
 |1 | ANA KAROLINE DA SILVA DE SOUSA  |                    |	        |
 |2 | BRUNO BORCARDT RAMOS            | |  |
 |3 | CAMILA WEBER	                   | Emiliano S. M. | Sistema para Eletrotécnica  |
-|4 | CARLOS EDUARDO CONCEIÇÃO DA SILVA| |    |
+|4 | CARLOS EDUARDO CONCEIÇÃO DA SILVA| Benevid | Chatbot   |
 |5 | DARY GUSTAVO DA SILVA	| |   |
 |6 | ELBER LUCAS ALVES BARBOZA| |	  |
 |7 | EMANUEL ESTEVAM DE OLIVEIRA DUTRA| |  |	
-|8 | EMANUELLE ANJOLIN ZUNTINI	| |   |
+|8 | EMANUELLE ANJOLIN ZUNTINI	| Benevid | Chatbot   |
 |9 | GABRIEL BEREGULA GOMES	| |   |
 |10| GABRIEL DE ALMEIDA MORAES| |	   |
 |11| GLADSON JAIR BENTZ	| |   |

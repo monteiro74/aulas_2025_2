@@ -9,6 +9,7 @@
   - [⏲️ 4.2. Horário do curso de Sistemas de Informação 2025/2](#️-42-horário-do-curso-de-sistemas-de-informação-20252)
 - [📓 5. Normatização acadêmica](#-5-normatização-acadêmica)
 - [🗃️ 6. Outros repositórios de apoio no github](#️-6-outros-repositórios-de-apoio-no-github)
+    - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
 
@@ -70,5 +71,5 @@ https://docs.google.com/spreadsheets/d/10oEVg8o5Solzw7iZZZ2R8udI7-N62NL8N8_x22mS
 
 
 ---
-💻 ### [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
 

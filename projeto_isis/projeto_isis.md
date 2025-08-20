@@ -179,3 +179,9 @@ Use este [formulário](https://forms.gle/WmozF1kawhHPkPzi8) para enviar o plano 
 * 🔔  Esta página poderá sofrer alterações sem aviso prévio.
 
 * ícones usados nesta página: https://gist.github.com/rxaviers/7360908 e https://github.com/ikatyang/emoji-cheat-sheet
+
+
+
+---
+💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+

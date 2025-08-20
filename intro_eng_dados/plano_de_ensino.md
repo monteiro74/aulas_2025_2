@@ -501,3 +501,9 @@ Coreference Resolution
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg](https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg)
 
+
+
+
+---
+💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+

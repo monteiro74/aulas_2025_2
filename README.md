@@ -66,3 +66,9 @@ https://docs.google.com/spreadsheets/d/10oEVg8o5Solzw7iZZZ2R8udI7-N62NL8N8_x22mS
 
 🛑 https://github.com/monteiro74?tab=repositories
 
+
+
+
+---
+💻 ### [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+

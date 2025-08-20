@@ -160,7 +160,7 @@ No momento os professores que temos no curso são:
 |--|---------------------------------|--------------------|---------|
 |1 | ANA KAROLINE DA SILVA DE SOUSA  |                    |	        |
 |2 | BRUNO BORCARDT RAMOS            | |  |
-|3 | CAMILA WEBER	                   | Emiliano S. M. | Sistema para Eletrotécnica  |
+|3 | CAMILA WEBER	                   | Emiliano | Sistema para Eletrotécnica  |
 |4 | CARLOS EDUARDO CONCEIÇÃO DA SILVA| Benevid | Chatbot   |
 |5 | DARY GUSTAVO DA SILVA	| |   |
 |6 | ELBER LUCAS ALVES BARBOZA| |	  |
@@ -175,7 +175,7 @@ No momento os professores que temos no curso são:
 |15| ÍCARO GABRIEL ALVES DOS REIS	| |   |
 |16| IZABELA AMARAL DE SOUZA	| |   |
 |17| JANAINA LIMA VIANA	| |  |
-|18| JOÃO LUIZ RODIGHERO TELÓ | Emiliano S. M. | Sistema ctrl clínica (financeiro) |
+|18| JOÃO LUIZ RODIGHERO TELÓ | Emiliano | Sistema ctrl clínica (financeiro) |
 |19| JOÃO PAULO CAVALCANTE ZANATTA | |	 |
 |20| JOÃO VITOR THEODORO DE SOUZA	 | Benevid | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  |
 |21| JULIO CESAR COLLI	| |   |

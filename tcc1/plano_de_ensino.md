@@ -180,7 +180,7 @@ No momento os professores que temos no curso são:
 |20| JOÃO VITOR THEODORO DE SOUZA	 | Benevid | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  |
 |21| JULIO CESAR COLLI	| |   |
 |22| KAIKY MARÇAL FERREIRA | |	 |
-|23| KENNY AMABILE DA ROCHA	| |  |
+|23| KENNY AMABILE DA ROCHA	| Benevid | Sistema de Monitoramento de Servidores Baseado em IoT: Uma Abordagem com ESP32 para Temperatura, Umidade e Fumaça |
 |24| MARCOS VINICIUS CARVALHO SCALCON | |  |	
 |25| NATAN DE ALMEIDA BENITES	| |   |
 |26| OTAVIO MANIEZZO MILAN	| |   |

@@ -164,8 +164,8 @@ No momento os professores que temos no curso são:
 |6 | ELBER LUCAS ALVES BARBOZA| Ramilton |	  |
 |7 | EMANUEL ESTEVAM DE OLIVEIRA DUTRA| Ivan | Sistema X  |	
 |8 | EMANUELLE ANJOLIN ZUNTINI	| Benevid | Chatbot  |
-|9 | GABRIEL BEREGULA GOMES	| |   |
-|10| GABRIEL DE ALMEIDA MORAES| |	   |
+|9 | GABRIEL BEREGULA GOMES	|  |   |
+|10| GABRIEL DE ALMEIDA MORAES|  |	   |
 |11| GLADSON JAIR BENTZ	| Janecler Foppa | Automação na dectecção de gás |
 |12| GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA	| João Ricardo |  Estática retrô em video games  |
 |13| GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo | Usabilidade de jogos   |

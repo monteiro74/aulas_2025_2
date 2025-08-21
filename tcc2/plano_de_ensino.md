@@ -162,7 +162,7 @@ No momento os professores que temos no curso são:
 | 6| CLEDERSON BRUSCO	 | Benevid | Alimentador para pet  |
 | 7| DANIEL ARLINDO DE OLIVEIRA CARLING	 | Ramilton | Dashboard p/ monitor tráfego hospital  |
 | 8| DEOCLIDES ORMOND BORGES	 | |  |
-| 9| EWERTON OLEGARIO DOS SANTOS	 | |  |
+| 9| EWERTON OLEGARIO DOS SANTOS	 | Janecler |  |
 |10| FELIPE CHRISTOPHER FAVARO ROCHA | Ramilton | Análise de tráfeo em rede sociais  |
 |11| FELIPE LEAL ALVES	 | Morgan | Plugin navegador com IA |
 |12| GABRIEL FERNANDO BRAND	 | Ramilton | Sist. Web ctrl Honário Contábil |

@@ -278,7 +278,7 @@ No momento os professores que temos no curso são:
 ---
 ## 🧱 11. Ordem de entrega de documentos:
 
-1ª entrega, será em início de setembro:
+1ª entrega, será em início de agosto/início de setembro::
 Doc1a_Termo_Aceite_e_Compromisso_Orientador_v2.docx  (estes termos devem estar assinados pelo orientador)
 Doc1b_Termo_Aceite_e_Compromisso_Coorientador_v2.docx  <<-- Se houver coorientador !
 

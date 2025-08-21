@@ -150,8 +150,7 @@ No momento os professores que temos no curso são:
 |13| MAICON APARECIDO SARTIN       | INTRODUÇÃO ÀS REDES DE COMPUTADORES <br> TÓPICOS ESPECIAIS EM COMPUTAÇÃO TECNOLÓGICA | 1. Dispositivos reconfiguráveis (FPGA). <br> 2. Automação ou Aplicações com Sistemas Embarcados e Microcontroladores. <br> 3. Redes de Sensores sem Fio. <br> 4. IA. <br> 5. Aprendizado de Máquina e Profundo. <br> 6. Visão Computacional. |
 |14| MAURO FRANCISCO DOS SANTOS JR | GESTÃO EM TECNOLOGIA DE INFORMAÇÃO <br> INTRODUÇÃO À COMPUTAÇÃO <br> TÓPICOS ESPECIAIS EM COMPUTAÇÃO APLICADA |
 |15| RAMILTON COSTA GOMES JUNIOR   | ENGENHARIA DE SOFTWARE <br> ADMINISTRAÇÃO E INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO <br> COMPUTAÇÃO E SISTEMAS DISTRIBUÍDOS | 1. Banco de dados. <br> 2. Segurança. <br> 3. Computação forense. <br> 4. IA. <br> 5. Visão computacional.<br> |
-|26| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3. Técnicas de scrapping. |
-
+|26| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3.Técnicas de scrapping. |
 
 
 ### 🧑‍🎓 6.1. Relação Aluno x Professor:
@@ -160,7 +159,7 @@ No momento os professores que temos no curso são:
 |--|---------------------------------|--------------------|---------|
 |1 | ANA KAROLINE DA SILVA DE SOUSA  | Juliano     |	Sistema tutor e petsitters |
 |2 | BRUNO BORCARDT RAMOS            | |  |
-|3 | CAMILA WEBER	                   | Emiliano | Sistema para Eletrotécnica  |
+|3 | CAMILA WEBER	                   | Emiliano | Sistema para Eletrotécnica: Clifo |
 |4 | CARLOS EDUARDO CONCEIÇÃO DA SILVA| Benevid | Chatbot  |
 |5 | DARY GUSTAVO DA SILVA	| Benevid | Controle de gerenciamento de IoT com LoRA |
 |6 | ELBER LUCAS ALVES BARBOZA| Ramilton |	  |
@@ -398,7 +397,7 @@ O projeto é uma pesquisa quali-quantitativa, de natureza aplicada, com objetivo
 
 Ordem de entrega de documentos:
 
-1ª entrega, será em início de setembro:
+1ª entrega, será em início de final de agosto/início de setembro:
 Doc1a_Termo_Aceite_e_Compromisso_Orientador_v2.docx  (estes termos devem estar assinados pelo orientador)                                                                                     Doc1b_Termo_Aceite_e_Compromisso_Coorientador_v2.docx  <<-- Se houver coorientador !
 
 2ª entrega, será no início de novembro:

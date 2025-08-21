@@ -133,7 +133,7 @@ No momento os professores que temos no curso são:
 
 
 
-|  | Professor                     | Disciplinas                    | Linhas de pesquisa |
+|Id  | Professor                     | Disciplinas                    | Linhas de pesquisa |
 |--|-------------------------------|--------------------------------|--------------------|
 |1 | ANDRESSA FABRINA KLAUCK       | ÉTICA, INFORMÁTICA E SOCIEDADE | 1. Pesquisas relacionadas a LGPD <br> 2. Marco Cível da internet <br> 3. Uso de tecnologias e sua interação na sociedade. |
 |2 | BENEVID FELIX DA SILVA        | PROGRAMAÇÃO ESTRUTURADA <br> LABORATÓRIO DE PROGRAMAÇÃO <br> TÓPICOS ESPECIAIS EM PROGRAMAÇÃO| Tecnologías emergentes em inteligencia artificial |

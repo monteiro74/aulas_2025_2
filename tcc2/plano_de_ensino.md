@@ -143,9 +143,8 @@ No momento os professores que temos no curso são:
 |11|JOAO RICARDO DOS SANTOS ROSA   | ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES <br> INTRODUÇÃO AO DESENVOLVIMENTO WEB | 1. Acessibilidade. <br> 2. Usabilidade. <br> 3. UX. <br> 4. Engenharia de software. <br> 5. Engenharia de requisitos. <br> 6. Design ou prototipação. <br> 7. Interação humano-computador |
 |12| JULIANO FERNANDES DE AVILA    | DESENVOLVIMENTO WEB <br> GERÊNCIA DE PROJETOS DE SOFTWARE| TICs, Educação e Tecnologia, Inovação na Prática Educacional |
 |13| MAICON APARECIDO SARTIN       | INTRODUÇÃO ÀS REDES DE COMPUTADORES <br> TÓPICOS ESPECIAIS EM COMPUTAÇÃO TECNOLÓGICA | 1. Dispositivos reconfiguráveis (FPGA). <br> 2. Automação ou Aplicações com Sistemas Embarcados e Microcontroladores. <br> 3. Redes de Sensores sem Fio. <br> 4. IA. <br> 5. Aprendizado de Máquina e Profundo. <br> 6. Visão Computacional. |
-|14| MAURO FRANCISCO DOS SANTOS JR | GESTÃO EM TECNOLOGIA DE INFORMAÇÃO <br> INTRODUÇÃO À COMPUTAÇÃO <br> TÓPICOS ESPECIAIS EM COMPUTAÇÃO APLICADA |
-|15| RAMILTON COSTA GOMES JUNIOR   | ENGENHARIA DE SOFTWARE <br> ADMINISTRAÇÃO E INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO <br> COMPUTAÇÃO E SISTEMAS DISTRIBUÍDOS | 1. Banco de dados. <br> 2. Segurança. <br> 3. Computação forense. <br> 4. IA. <br> 5. Visão computacional.<br> |
-|26| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3. Técnicas de scrapping. |
+|14| RAMILTON COSTA GOMES JUNIOR   | ENGENHARIA DE SOFTWARE <br> ADMINISTRAÇÃO E INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO <br> COMPUTAÇÃO E SISTEMAS DISTRIBUÍDOS | 1. Banco de dados. <br> 2. Segurança. <br> 3. Computação forense. <br> 4. IA. <br> 5. Visão computacional.<br> |
+|15| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3. Técnicas de scrapping. |
 
 
 
@@ -153,7 +152,7 @@ No momento os professores que temos no curso são:
 
 
 
-|  | Aluno | Professor | Trabalho/tema |
+|Id  | Aluno | Professor | Trabalho/tema |
 |--|------------------------------|--------------------|-------- |
 | 1| ALAN PASQUALETTO | Janecler | Sistema p/ imobiliária	|
 | 2| ANDRÉ VICENTE	  | | |
@@ -189,7 +188,7 @@ No momento os professores que temos no curso são:
 |32| VAGNO VALADARES DA COSTA	 | |  |
 |33| VINÍCIUS VIVAN DE LIMA	 | Benevid | Fine tuning de IA |
 |34| VITOR ROBERTO BISPO DOS SANTOS	 |  Benevid | Gestão de remoaneio  |
-|35| WINY ZANIN | Ivan | Backend Smartdrwaer  |
+|35| WINY ZANIN | Ivan | Backend Smartdrawer  |
 
 
 

@@ -158,7 +158,7 @@ No momento os professores que temos no curso são:
 
 |  | Aluno                           | Professor          |    Tema |
 |--|---------------------------------|--------------------|---------|
-|1 | ANA KAROLINE DA SILVA DE SOUSA  |                    |	        |
+|1 | ANA KAROLINE DA SILVA DE SOUSA  | Juliano     |	Sistema tutor e petsitters |
 |2 | BRUNO BORCARDT RAMOS            | |  |
 |3 | CAMILA WEBER	                   | Emiliano | Sistema para Eletrotécnica  |
 |4 | CARLOS EDUARDO CONCEIÇÃO DA SILVA| Benevid | Chatbot   |

@@ -174,7 +174,7 @@ No momento os professores que temos no curso são:
 |14| HELLIELTON SANTOS DOS REIS	| |   |
 |15| ÍCARO GABRIEL ALVES DOS REIS	| |   |
 |16| IZABELA AMARAL DE SOUZA	| |   |
-|17| JANAINA LIMA VIANA	| |  |
+|17| JANAINA LIMA VIANA	| Ivan | Sistema web de acesso a mapas de relatórios agrícolas  |
 |18| JOÃO LUIZ RODIGHERO TELÓ | Emiliano | Sistema ctrl clínica (financeiro) |
 |19| JOÃO PAULO CAVALCANTE ZANATTA | |	 |
 |20| JOÃO VITOR THEODORO DE SOUZA	 | Benevid | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  |

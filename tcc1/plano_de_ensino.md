@@ -168,7 +168,7 @@ No momento os professores que temos no curso são:
 |8 | EMANUELLE ANJOLIN ZUNTINI	| Benevid | Chatbot   |
 |9 | GABRIEL BEREGULA GOMES	| |   |
 |10| GABRIEL DE ALMEIDA MORAES| |	   |
-|11| GLADSON JAIR BENTZ	| |   |
+|11| GLADSON JAIR BENTZ	| Janecler Foppa | Automação na dectecção de gás |
 |12| GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA	| |   |
 |13| GUILLERMO GILIOLI DE PAULA COELHO	| |   |
 |14| HELLIELTON SANTOS DOS REIS	| |   |

@@ -161,43 +161,43 @@ No momento os professores que temos no curso são:
 |1 | ANA KAROLINE DA SILVA DE SOUSA  | Juliano     |	Sistema tutor e petsitters |
 |2 | BRUNO BORCARDT RAMOS            | |  |
 |3 | CAMILA WEBER	                   | Emiliano | Sistema para Eletrotécnica  |
-|4 | CARLOS EDUARDO CONCEIÇÃO DA SILVA| Benevid | Chatbot   |
-|5 | DARY GUSTAVO DA SILVA	| |   |
-|6 | ELBER LUCAS ALVES BARBOZA| |	  |
-|7 | EMANUEL ESTEVAM DE OLIVEIRA DUTRA| |  |	
-|8 | EMANUELLE ANJOLIN ZUNTINI	| Benevid | Chatbot   |
+|4 | CARLOS EDUARDO CONCEIÇÃO DA SILVA| Benevid | Chatbot  |
+|5 | DARY GUSTAVO DA SILVA	| Benevid | Controle de gerenciamento de IoT com LoRA |
+|6 | ELBER LUCAS ALVES BARBOZA| Ramilton |	  |
+|7 | EMANUEL ESTEVAM DE OLIVEIRA DUTRA| Ivan | Sistema X  |	
+|8 | EMANUELLE ANJOLIN ZUNTINI	| Benevid | Chatbot  |
 |9 | GABRIEL BEREGULA GOMES	| |   |
 |10| GABRIEL DE ALMEIDA MORAES| |	   |
 |11| GLADSON JAIR BENTZ	| Janecler Foppa | Automação na dectecção de gás |
-|12| GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA	| |   |
-|13| GUILLERMO GILIOLI DE PAULA COELHO	| |   |
-|14| HELLIELTON SANTOS DOS REIS	| |   |
-|15| ÍCARO GABRIEL ALVES DOS REIS	| |   |
-|16| IZABELA AMARAL DE SOUZA	| |   |
+|12| GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA	| João Ricardo |  Estática retrô em video games  |
+|13| GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo | Usabilidade de jogos   |
+|14| HELLIELTON SANTOS DOS REIS	| Juliano | Uso da IA na contabilidade para otimizar processos.  |
+|15| ÍCARO GABRIEL ALVES DOS REIS	| João Ricardo | Acessibilidade no jogos   |
+|16| IZABELA AMARAL DE SOUZA	| Maicon | Treinamento de modelo neural |
 |17| JANAINA LIMA VIANA	| Ivan | Sistema web de acesso a mapas de relatórios agrícolas  |
 |18| JOÃO LUIZ RODIGHERO TELÓ | Emiliano | Sistema ctrl clínica (financeiro) |
 |19| JOÃO PAULO CAVALCANTE ZANATTA | |	 |
 |20| JOÃO VITOR THEODORO DE SOUZA	 | Benevid | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  |
 |21| JULIO CESAR COLLI	| |   |
-|22| KAIKY MARÇAL FERREIRA | |	 |
+|22| KAIKY MARÇAL FERREIRA | João Ricardo |	 |
 |23| KENNY AMABILE DA ROCHA	| Benevid | Sistema de Monitoramento de Servidores Baseado em IoT: Uma Abordagem com ESP32 para Temperatura, Umidade e Fumaça |
 |24| MARCOS VINICIUS CARVALHO SCALCON | |  |	
-|25| NATAN DE ALMEIDA BENITES	| |   |
-|26| OTAVIO MANIEZZO MILAN	| |   |
-|27| PEDRO SALVADOR DE ARAUJO	| |   |
-|28| RAFAELA BOHRER	| |   |
+|25| NATAN DE ALMEIDA BENITES	| Ramilton | Ransomware implementação e estratégias de defesa |
+|26| OTAVIO MANIEZZO MILAN	| João Ricardo |   |
+|27| PEDRO SALVADOR DE ARAUJO	| Juliano | Gestão de contrato de locação |
+|28| RAFAELA BOHRER	| Cristiano |   |
 |29| RYLLER BRITO PEREIRA| |  |	
-|30| SALATIEL BONFIM GOMES	| |  |
-|31| SANDY HIKARU HONDA	| |   |
+|30| SALATIEL BONFIM GOMES	| Emiliano |  |
+|31| SANDY HIKARU HONDA	|  | Sistema de gerenciamento de contratos   |
 |32| THIAGO LEAL DE SOUSA ARAUJO| |	  |
 |33| THIAGO SMERDECK PEREIRA	| Benevid | Sistema para datacenter, medir temperatura |
 |34| VINÍCIUS FREITAS	| |  |
-|35| VITOR EMANUEL SILVA SAUZEN | |	  |
+|35| VITOR EMANUEL SILVA SAUZEN |  Ivan |	Sistema Y  |
 |36| VITOR FORTUNATO DE OLIVEIRA	| |  |
-|37| VITOR RODRIGO FRAILLE PEREIRA	| |  |
-|38| WESLEY RODRIGO BARBOSA MAFRA	| |  |
-|39| WILLEN SILVA DE SOUZA	| |  |
-|40| WILLIAN DE CARVALHO NOGUEIRA| |  |
+|37| VITOR RODRIGO FRAILLE PEREIRA	| Benevid | Sistema embarcado para medição e ctrl de vazão de água |
+|38| WESLEY RODRIGO BARBOSA MAFRA	| Ramilton |   |
+|39| WILLEN SILVA DE SOUZA	| Morgan | Estudo sobre os benefícios do chatbot integrado com IA |
+|40| WILLIAN DE CARVALHO NOGUEIRA| Janecler Foppa + Ivan | Site de estudo para medicina. |
 
 
 

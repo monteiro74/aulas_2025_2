@@ -4,6 +4,7 @@
 - [🎯 1. Disciplinas para 2025/2.](#-1-disciplinas-para-20252)
 - [🗺️ 2. Mapa do curso](#️-2-mapa-do-curso)
 - [🌳 3. Link tree do curso](#-3-link-tree-do-curso)
+  - [3.1 Templates de documentos](#31-templates-de-documentos)
 - [📅 4. Calendário](#-4-calendário)
   - [📅 4.1. Calendário geral da universidade](#-41-calendário-geral-da-universidade)
   - [⏲️ 4.2. Horário do curso de Sistemas de Informação 2025/2](#️-42-horário-do-curso-de-sistemas-de-informação-20252)
@@ -31,6 +32,10 @@ https://github.com/monteiro74/aulas_2025_1/blob/main/Mapa%20do%20Curso%20-%20Sis
 # 🌳 3. Link tree do curso
 
 https://linktr.ee/si.unemat
+
+## 3.1 Templates de documentos
+
+https://sinop.unemat.br/faculdades/facet/graduacao/sistemas-de-informacao-bacharelado-graduacao-presencial-noturno-sinop/trabalho-de-conclusao-de-curso
 
 ---
 # 📅 4. Calendário 

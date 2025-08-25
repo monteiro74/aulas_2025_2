@@ -131,7 +131,7 @@ Links para os documentos de TCC2:
 ou
 2. No Sigaa (na disciplina de TCC).
 ou
-3. No Google drive (acesso com sua conta institucional): https://drive.google.com/drive/folders/1OTypwyeKPv_nHYuiSmATVEe8lETYt90C
+3. No Google drive (acesso com sua conta institucional): https://drive.google.com/drive/folders/1NfqMijrwuFmZLY2yDSfNDqL6Z1vvJUvQ
 ou
 4. No repositório da disciplina: https://github.com/monteiro74/aulas_2025_2/tree/main/tcc2
 

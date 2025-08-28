@@ -172,46 +172,46 @@ No momento os professores que temos no curso são:
 
 |Id| Matricula |Aluno                           | Professor          |    Tema |
 |--|-----------|--------------------------------|--------------------|---------|
-|1 |  |ANA KAROLINE DA SILVA DE SOUSA  | Juliano     |	Sistema tutor e petsitters |
-|2 |  |BRUNO BORCARDT RAMOS            | |  |
-|3 |  |CAMILA WEBER	                   | Emiliano | Sistema para Eletrotécnica: Clifo |
-|4 |  |CARLOS EDUARDO CONCEIÇÃO DA SILVA| Benevid | Chatbot  |
-|5 |  |DARY GUSTAVO DA SILVA	| Benevid | Controle de gerenciamento de IoT com LoRA |
-|6 |  |ELBER LUCAS ALVES BARBOZA| Ramilton |	  |
-|7 |  |EMANUEL ESTEVAM DE OLIVEIRA DUTRA| Ivan | Sistema X  |	
-|8 |  |EMANUELLE ANJOLIN ZUNTINI	| Benevid | Chatbot  |
-|9 |  |GABRIEL BEREGULA GOMES	|  |   |
-|10|  |GABRIEL DE ALMEIDA MORAES|  |	   |
-|11|  |GLADSON JAIR BENTZ	| Janecler Foppa | Automação na dectecção de gás |
-|12|  |GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA	| João Ricardo |  Estática retrô em video games  |
-|13|  |GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo | Usabilidade de jogos   |
-|14|  |HELLIELTON SANTOS DOS REIS	| Juliano | Uso da IA na contabilidade para otimizar processos.  |
-|15|  |ÍCARO GABRIEL ALVES DOS REIS	| João Ricardo | Acessibilidade no jogos   |
-|16|  |IZABELA AMARAL DE SOUZA	| Maicon | Treinamento de modelo neural |
-|17|  |JANAINA LIMA VIANA	| Ivan | Sistema web de acesso a mapas de relatórios agrícolas  |
-|18|  |JOÃO LUIZ RODIGHERO TELÓ | Emiliano | Sistema ctrl clínica (financeiro) |
-|19|  |JOÃO PAULO CAVALCANTE ZANATTA | |	 |
-|20|  |JOÃO VITOR THEODORO DE SOUZA	 | Benevid | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  |
-|21|  |JULIO CESAR COLLI	| |   |
-|22|  |KAIKY MARÇAL FERREIRA | João Ricardo |	 |
-|23|  |KENNY AMABILE DA ROCHA	| Benevid | Sistema de Monitoramento de Servidores Baseado em IoT: Uma Abordagem com ESP32 para Temperatura, Umidade e Fumaça |
-|24|  |MARCOS VINICIUS CARVALHO SCALCON | |  |	
-|25|  |NATAN DE ALMEIDA BENITES	| Ramilton | Ransomware implementação e estratégias de defesa |
-|26|  |OTAVIO MANIEZZO MILAN	| João Ricardo |   |
-|27|  |PEDRO SALVADOR DE ARAUJO	| Juliano | Gestão de contrato de locação |
-|28|  |RAFAELA BOHRER	| Cristiano |   |
-|29|  |RYLLER BRITO PEREIRA| |  |	
-|30|  |SALATIEL BONFIM GOMES	| Emiliano |  |
-|31|  |SANDY HIKARU HONDA	|  | Sistema de gerenciamento de contratos   |
-|32|  |THIAGO LEAL DE SOUSA ARAUJO| |	  |
-|33|  |THIAGO SMERDECK PEREIRA	| Benevid | Sistema para datacenter, medir temperatura |
-|34|  |VINÍCIUS FREITAS	| |  |
-|35|  |VITOR EMANUEL SILVA SAUZEN |  Ivan |	Sistema Y  |
-|36|  |VITOR FORTUNATO DE OLIVEIRA	| |  |
-|37|  |VITOR RODRIGO FRAILLE PEREIRA	| Benevid | Sistema embarcado para medição e ctrl de vazão de água |
-|38|  |WESLEY RODRIGO BARBOSA MAFRA	| Ramilton |   |
-|39|  |WILLEN SILVA DE SOUZA	| Morgan | Estudo sobre os benefícios do chatbot integrado com IA |
-|40|  |WILLIAN DE CARVALHO NOGUEIRA| Janecler Foppa + Ivan | Site de estudo para medicina. |
+|1 |2019274948  |ANA KAROLINE DA SILVA DE SOUSA  | Juliano     |	Sistema tutor e petsitters |
+|2 |20230004723  |BRUNO BORCARDT RAMOS            | |  |
+|3 |20230006577  |CAMILA WEBER	                   | Emiliano | Sistema para Eletrotécnica: Clifo |
+|4 | 2021069467 |CARLOS EDUARDO CONCEIÇÃO DA SILVA| Benevid | Chatbot  |
+|5 | 20230006675 |DARY GUSTAVO DA SILVA	| Benevid | Controle de gerenciamento de IoT com LoRA |
+|6 | 20230021027 |ELBER LUCAS ALVES BARBOZA| Ramilton |	  |
+|7 | 20230012850 |EMANUEL ESTEVAM DE OLIVEIRA DUTRA| Ivan | Sistema X  |	
+|8 | 2021057751  |EMANUELLE ANJOLIN ZUNTINI	| Benevid | Chatbot  |
+|9 | 2017159001 |GABRIEL BEREGULA GOMES	|  |   |
+|10| 20220001773 |GABRIEL DE ALMEIDA MORAES|  |	   |
+|11| 2017262840 |GLADSON JAIR BENTZ	| Janecler Foppa | Automação na dectecção de gás |
+|12| 20230021439 |GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA	| João Ricardo |  Estática retrô em video games  |
+|13| 20230004948 |GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo | Usabilidade de jogos   |
+|14| 2021069402 |HELLIELTON SANTOS DOS REIS	| Juliano | Uso da IA na contabilidade para otimizar processos.  |
+|15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	| João Ricardo | Acessibilidade no jogos   |
+|16| 20230046394 |IZABELA AMARAL DE SOUZA	| Maicon | Treinamento de modelo neural |
+|17| 20220037810  |JANAINA LIMA VIANA	| Ivan | Sistema web de acesso a mapas de relatórios agrícolas  |
+|18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ | Emiliano | Sistema ctrl clínica (financeiro) |
+|19| 2017158978 |JOÃO PAULO CAVALCANTE ZANATTA | |	 |
+|20| 2021076603 |JOÃO VITOR THEODORO DE SOUZA	 | Benevid | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  |
+|21| 20220021293 |JULIO CESAR COLLI	| |   |
+|22| 20230023649 |KAIKY MARÇAL FERREIRA | João Ricardo |	 |
+|23| 20230005088 |KENNY AMABILE DA ROCHA	| Benevid | Sistema de Monitoramento de Servidores Baseado em IoT: Uma Abordagem com ESP32 para Temperatura, Umidade e Fumaça |
+|24| 20230009953 |MARCOS VINICIUS CARVALHO SCALCON | |  |	
+|25| 20230011011 |NATAN DE ALMEIDA BENITES	| Ramilton | Ransomware implementação e estratégias de defesa |
+|26| 20230009247 |OTAVIO MANIEZZO MILAN	| João Ricardo |   |
+|27| 20230048639 |PEDRO SALVADOR DE ARAUJO	| Juliano | Gestão de contrato de locação |
+|28| 2021027108 |RAFAELA BOHRER	| Cristiano |   |
+|29| 20230041164 |RYLLER BRITO PEREIRA| |  |	
+|30| 20220056913 |SALATIEL BONFIM GOMES	| Emiliano |  |
+|31| 20230011076 |SANDY HIKARU HONDA	|  | Sistema de gerenciamento de contratos   |
+|32| 2021076686 |THIAGO LEAL DE SOUSA ARAUJO| |	  |
+|33| 2019171452 |THIAGO SMERDECK PEREIRA	| Benevid | Sistema para datacenter, medir temperatura |
+|34| 20220016426 |VINÍCIUS FREITAS	| |  |
+|35| 20230013295 |VITOR EMANUEL SILVA SAUZEN |  Ivan |	Sistema Y  |
+|36| 2018165103 |VITOR FORTUNATO DE OLIVEIRA	| |  |
+|37| 20230006049 |VITOR RODRIGO FRAILLE PEREIRA	| Benevid | Sistema embarcado para medição e ctrl de vazão de água |
+|38| 20230006067 |WESLEY RODRIGO BARBOSA MAFRA	| Ramilton |   |
+|39| 20230020039 |WILLEN SILVA DE SOUZA	| Morgan | Estudo sobre os benefícios do chatbot integrado com IA |
+|40| 2018165108 |WILLIAN DE CARVALHO NOGUEIRA| Janecler Foppa + Ivan | Site de estudo para medicina. |
 
 
 

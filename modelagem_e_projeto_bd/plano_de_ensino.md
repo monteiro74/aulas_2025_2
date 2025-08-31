@@ -113,7 +113,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |-----|--------|--------------|----------|
 | 1   | 14/08 | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas. [Ranking de bancos de dados](https://db-engines.com/en/ranking). [Slides da aula](https://docs.google.com/presentation/d/e/2PACX-1vSRYcBjWwaSQ7CtSO_JAYhzch5RD6ga9G37BJe7X2IA5WX_03s5LQ8MOfzO-O4LvEgoCimjHEp06skH/pub?start=false&loop=false&delayms=3000) |
 | 2   | 21/08 | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. [Slides da aula 2](https://docs.google.com/presentation/d/e/2PACX-1vQS7F9wsXhfxDK9lCwSeTAricxAnKKJh_Mbcyq-SnbOGEQTOAZ0W0q03xEGrMfWDuI_DP9dqAKZpeWv/pub?start=false&loop=false&delayms=3000). [Instalação do SQL Server](https://docs.google.com/presentation/d/e/2PACX-1vSdSRJF2YEI9D0U48sGimqfWDxzFlJJHfcFesiBrJyCKZ68K4RL5T70kBA_7TdwIqo6j1AVjOI3Z0xr/pub?start=false&loop=false&delayms=3000) |
-| 3   | 28/08 | 3hs | Conceitos de BD e SGBD, Comparações com SO e arquivos. Estrutura interna. Slides da aula 2. Scripts SQL p/ MySQL e SQL Server.  |
+| 3   | 28/08 | 3hs | Instalação de máquina virtual (virtual box), detalhes do SQL Server. [Slides da aula 3](https://docs.google.com/presentation/d/1v5ig7rKTp-_18jOWO6rPnmZscRggB3L4uvmzCc0VzpE/edit?usp=view). |
 | 4   | 04/09 | 3hs |Conceito de transação. ACID. Concorrência. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. |
 | 5   | 11/09 | 3hs | **Avaliação 1**  |
 | 6   | 18/09 | 3hs | Detalhes do SQL Server. Conhecendo o SSMS. Monitorando o SQL Server e propriedades do servidor. Slides da aula 3.  |

@@ -170,41 +170,41 @@ No momento os professores que temos no curso são:
 
 |Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
 |--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|
-| 1| 20230054556 |ALAN PASQUALETTO | Janecler Foppa | Análise da Funcionalidade do Sistema UAU com Base no Modelo de Gestão COBIT 2019	| ✔️ | | |
-| 2| 2006123575  |ANDRÉ VICENTE	  | | |  | | |
-| 3| 2016256664  |BERNARDO POYER GABE AMERICO | |  |  | | |	
-| 4| 2019171472  |BRUNA EDUARDA DOS SANTOS SILVA	 | João Ricardo Dos Santos Rosa | Assessibilidade, usabilidade e experiência do usuário aplicados no autoatendimento do banco do brasil para pessoas da terceira idade | ✔️ | | |
-| 5| 2018270346  |CHRISTIAN DA SILVA ALBUQUERQUE	 | Elias Antônio Morgan | Sistema inteligente para comparação de preços de supermercados com alimentação automatizada de banco de dados | ✔️ | | |
-| 6| 2017263267  |CLEDERSON BRUSCO	 | Benevid Feliz da Silva| Alimentador de pets | ✔️  | | |
-| 7| 2021017881  |DANIEL ARLINDO DE OLIVEIRA CARLING	 | Ramilton Costa Gomes Junior | Monitoramento de Infraestrutura de Rede Hospitalar com Zabbix  | ✔️ | | |
-| 8| 2016256628  |DEOCLIDES ORMOND BORGES	 | Francisco Sanches Banhos Filho |  Implantação de um servidor no cartório do 1° Ofício de Sorriso utilizando virtualização | ✔️ | | |
-| 9| 20220038058 |EWERTON OLEGARIO DOS SANTOS	 | Janecler | Migração de sistemas legados p/ frameworks modernos c/ Oracle Apex  |  | | |
+| 1| 20230054556 |ALAN PASQUALETTO                | Janecler Foppa | Análise da Funcionalidade do Sistema UAU com Base no Modelo de Gestão COBIT 2019	| ✔️ | | |
+| 2| 2006123575  |ANDRÉ VICENTE	                  | | |  | | |
+| 3| 2016256664  |BERNARDO POYER GABE AMERICO     | |  |  | | |	
+| 4| 2019171472  |BRUNA EDUARDA DOS SANTOS SILVA	| João Ricardo Dos Santos Rosa | Assessibilidade, usabilidade e experiência do usuário aplicados no autoatendimento do banco do brasil para pessoas da terceira idade | ✔️ | | |
+| 5| 2018270346  |CHRISTIAN DA SILVA ALBUQUERQUE  | Elias Antônio Morgan | Sistema inteligente para comparação de preços de supermercados com alimentação automatizada de banco de dados | ✔️ | | |
+| 6| 2017263267  |CLEDERSON BRUSCO	              | Benevid Feliz da Silva| Alimentador de pets | ✔️  | | |
+| 7| 2021017881  |DANIEL ARLINDO DE O. CARLING	  | Ramilton Costa Gomes Junior | Monitoramento de Infraestrutura de Rede Hospitalar com Zabbix  | ✔️ | | |
+| 8| 2016256628  |DEOCLIDES ORMOND BORGES	        | Francisco Sanches Banhos Filho |  Implantação de um servidor no cartório do 1° Ofício de Sorriso utilizando virtualização | ✔️ | | |
+| 9| 20220038058 |EWERTON OLEGARIO DOS SANTOS	    | Janecler | Migração de sistemas legados p/ frameworks modernos c/ Oracle Apex  |  | | |
 |10| 2019171596  |FELIPE CHRISTOPHER FAVARO ROCHA | Ramilton Costa Gomes Junior | Análise do uso de redes sociais durante as aulas no ensino superior: Um estudo baseado no tráfego de rede  | ✔️ | | |
-|11| 20220010048 |FELIPE LEAL ALVES	 | Elias Antônio Morgan | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA | ✔️ | | |
-|12| 2019274866  |GABRIEL FERNANDO BRAND	 | Ramilton Costa Gomes Junior | Sistema web de controle de honorários contábeis: automação e gestão financeira | ✔️ | | |
-|13| 2018165104  |GABRIEL SMANIOTTO ARAUJO	 |  | |  | | |
-|14| 2018270250  |GABRIELLE CANDIDO SCHMITT	 | Francisco Sanches Banhos Filho |Ánalise da cobertura vacinal no mato grosso e desenvolvimento de dashboards interativos | ✔️ | | |
-|15| 2021077487  |GUSTAVO MORESCO D'AMBROS	 | Janecler Foppa | Gestão de Feedback como Ferramenta Estratégica | ✔️ | | |
-|16| 2017263349  |HANS DONNER GIL ESPINHA	 | | |  | | |
-|17| 2020177439  |JOÃO VITOR ARRUDA PERCINOTTO	 | Benevid Feliz da Silva | Uso de transição de audio com LLM |  | | |
-|18| 20220001915 |JULIO DA SILVA RODRIGUES	 | | |  | | |
-|19| 2021072622  |LARISSA SMANIOTTO ARAUJO	 | Ivan | Front end Smartdrawer gaveta inteligente |  | | |
-|20| 20210110021 |LEONARDI	VINICIUS MOUZINHO OLIVEIRA DA SILVA | Emiliano S. Monteiro | ETL e Dashboard p/ setor bancário |  | | |
-|21| 2020177772  |LEONARDO OLIVEIRA DE MORAES |  | Dashboard p/ KPI|  | | |
-|22| 2019274037  |LEONARDO PALIN DOS SANTOS | Janecler | Automação residencial (janela automatiza) |  | | |
-|23| 2021023109  |LUCAS PEREIRA RIBEIRO CORRÊA	 | Ivan  | LLM na otimização cidade inteligêntes |  | | |
-|24| 2018165940  |MARCOS JUNIOR DA SILVA	 | João Ricardo Dos Santos Rosa | Análise de usabilidade da plaforma Lattes |  | | |
-|25| 2018165059  |MARIA THAIS SILVA MARQUES | Tales Bogoni | App. mobile horários de Misas em Sinop |  | | |
-|26| 20220016346 |MATHEUS LEANDRO HOLOWKA	| Emiliano S. Monteiro | ETL e Dashboard p/ atendimento |  | | |
-|27| 20220002556 |MATHEUS REIS BARROS	 | Elias Antônio Morgan | Gestão de escola de futebol |  | | |
-|28| 2018165439  |MAURÍCIO ROBERTO PAGLIARINI FILHO	 | |  |  | | |
-|29| 2021034499  |MAYCON RAMATIS BRUGNERA VASCONCELLOS	 | |  |  | | |
-|30| 2017158979  |PAULO CÉSAR MARTINS PORTILHO	 | |  |  | | |
-|31| 2019171804  |ROBERTO DOS SANTOS FILHO	 |  | Solução para detec. vuln. e gestão em ativos de rede |  | | |
-|32| 2013123533  |VAGNO VALADARES DA COSTA	 | |  |  | | |
-|33| 2019171149  |VINÍCIUS VIVAN DE LIMA	 | Benevid Feliz da Silva | Fine tuning de IA |  | | |
-|34| 2019274896  |VITOR ROBERTO BISPO DOS SANTOS	 |  Benevid | Gestão de remoaneio  |  | | |
-|35| 2021018341  |WINY ZANIN | Ivan | Backend Smartdrawer  |  | | |
+|11| 20220010048 |FELIPE LEAL ALVES	              | Elias Antônio Morgan | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA | ✔️ | | |
+|12| 2019274866  |GABRIEL FERNANDO BRAND	        | Ramilton Costa Gomes Junior | Sistema web de controle de honorários contábeis: automação e gestão financeira | ✔️ | | |
+|13| 2018165104  |GABRIEL SMANIOTTO ARAUJO	      |  | |  | | |
+|14| 2018270250  |GABRIELLE CANDIDO SCHMITT	      | Francisco Sanches Banhos Filho |Ánalise da cobertura vacinal no mato grosso e desenvolvimento de dashboards interativos | ✔️ | | |
+|15| 2021077487  |GUSTAVO MORESCO D'AMBROS	      | Janecler Foppa | Gestão de Feedback como Ferramenta Estratégica | ✔️ | | |
+|16| 2017263349  |HANS DONNER GIL ESPINHA	        | | |  | | |
+|17| 2020177439  |JOÃO VITOR ARRUDA PERCINOTTO	  | Benevid Feliz da Silva | Uso de transição de audio com LLM | ✔️ | | |
+|18| 20220001915 |JULIO DA SILVA RODRIGUES	      | Ramilton Costa Gomes Junior | A importância dos sistemas nas tarefas das empresas | ✔️ | | |
+|19| 2021072622  |LARISSA SMANIOTTO ARAUJO	      | Ivan | Front end Smartdrawer gaveta inteligente |  | | |
+|20| 20210110021 |LEONARDI	V. M. O. DA SILVA     | Emiliano S. Monteiro | ETL e Dashboard p/ setor bancário |  | | |
+|21| 2020177772  |LEONARDO OLIVEIRA DE MORAES     |  | Dashboard p/ KPI|  | | |
+|22| 2019274037  |LEONARDO PALIN DOS SANTOS       | Janecler | Automação residencial (janela automatiza) |  | | |
+|23| 2021023109  |LUCAS PEREIRA RIBEIRO CORRÊA	  | Ivan  | LLM na otimização cidade inteligêntes |  | | |
+|24| 2018165940  |MARCOS JUNIOR DA SILVA	        | João Ricardo Dos Santos Rosa | Análise de usabilidade da plaforma Lattes |  | | |
+|25| 2018165059  |MARIA THAIS SILVA MARQUES       | Tales Bogoni | App. mobile horários de Misas em Sinop |  | | |
+|26| 20220016346 |MATHEUS LEANDRO HOLOWKA	        | Emiliano S. Monteiro | ETL e Dashboard p/ atendimento |  | | |
+|27| 20220002556 |MATHEUS REIS BARROS	            | Elias Antônio Morgan | Gestão de escola de futebol |  | | |
+|28| 2018165439  |MAURÍCIO ROBERTO P. FILHO	      | |  |  | | |
+|29| 2021034499  |MAYCON R. BRUGNERA VASCONCELLOS	| |  |  | | |
+|30| 2017158979  |PAULO CÉSAR MARTINS PORTILHO	  | |  |  | | |
+|31| 2019171804  |ROBERTO DOS SANTOS FILHO	      |  | Solução para detec. vuln. e gestão em ativos de rede |  | | |
+|32| 2013123533  |VAGNO VALADARES DA COSTA	      | |  |  | | |
+|33| 2019171149  |VINÍCIUS VIVAN DE LIMA	        | Benevid Feliz da Silva | Fine tuning de IA |  | | |
+|34| 2019274896  |VITOR ROBERTO BISPO DOS SANTOS	|  Benevid | Gestão de remoaneio  |  | | |
+|35| 2021018341  |WINY ZANIN                      | Ivan | Backend Smartdrawer  |  | | |
 
 
 ---

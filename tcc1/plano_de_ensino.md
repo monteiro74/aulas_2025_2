@@ -180,11 +180,11 @@ No momento os professores que temos no curso são:
 |6 | 20230021027 |ELBER LUCAS ALVES BARBOZA       | Ramilton Costa Gomes Junior |	Campo Tático com IA  | ✔️ | | |
 |7 | 20230012850 |EMANUEL ESTEVAM DE O. DUTRA     | Ivan Luiz Pedroso Pires | Frontend Para Plataforma Digital Colaborativa para Gestão Sustentável de Resíduos da Construção Civil |	✔️| | |
 |8 | 2021057751  |EMANUELLE ANJOLIN ZUNTINI	      | Benevid Felix da Silva | Aplicação de Modelos de Linguagem (LLM) para Automação do Atendimento Comercial em Concessionárias. | ✔️ | | |
-|9 | 2017159001  |GABRIEL BEREGULA GOMES	        |  |   | | | |
-|10| 20220001773 |GABRIEL DE ALMEIDA MORAES       |  |	   | | | |
-|11| 2017262840  |GLADSON JAIR BENTZ	            | Janecler Foppa | Automação na dectecção de gás | | | |
+|9 | 2017159001  |GABRIEL BEREGULA GOMES	        |  |  | | | |
+|10| 20220001773 |GABRIEL DE ALMEIDA MORAES       | Maicon Aparecido Sartin | Investigação de modelo de visão computacional para reconhecimento de comida | ✔️ | | |
+|11| 2017262840  |GLADSON JAIR BENTZ	            | Janecler Foppa | Detecção de Gases Baseado em Princípio Biomimético | ✔️ | | |
 |12| 20230021439 |GUILHERME HENRIQUE A. X. DE OLIVEIRA	| João Ricardo |  Estática retrô em video games  | | | |
-|13| 20230004948 |GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo | Usabilidade de jogos   | | | |
+|13| 20230004948 |GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo | Estratégias para aprimorar a experiência do usuário em jogos METROIDVANIA 3D | ✔️ | | |
 |14| 2021069402  |HELLIELTON SANTOS DOS REIS	    | Juliano Fernandes de Avila | Uso da IA na contabilidade para otimizar processos.  | | | |
 |15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	  | João Ricardo | Acessibilidade no jogos   | | | |
 |16| 20230046394 |IZABELA AMARAL DE SOUZA	        | Maicon | Treinamento de modelo neural | | | |

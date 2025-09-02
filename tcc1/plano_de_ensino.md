@@ -188,16 +188,16 @@ No momento os professores que temos no curso são:
 |14| 2021069402  |HELLIELTON SANTOS DOS REIS	    | Juliano Fernandes de Avila | Inteligência artificial na contabilidade para otimização de processos| ✔️ | | |
 |15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	  | João Ricardo Dos Santos Rosa | Acessibilidade visual em jogos digitais: avaliação de um recurso para jogadores com Daltonismo a partir de um protótipo experimental. | ✔️ | | |
 |16| 20230046394 |IZABELA AMARAL DE SOUZA	        |  |  | | | |
-|17| 20220037810 |JANAINA LIMA VIANA	            | Ivan Luiz Pedroso Pires | Sistema web de acesso a mapas de relatórios agrícolas  | | | |
-|18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ        | Emiliano Soares Monteiro| Sistema ctrl clínica (financeiro) |✔️ | | |
+|17| 20220037810 |JANAINA LIMA VIANA	            | Ivan Luiz Pedroso Pires | Sistema web para gestão de mapas e relatórios agrícolas  | ✔️ | | |
+|18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ        | Emiliano Soares Monteiro| Sistema de gestão de débito para clínicas médicas, odontológicas, estáticas e outras |✔️ | | |
 |19| 2017158978  |JOÃO PAULO CAVALCANTE ZANATTA   | |	 | |
-|20| 2021076603  |JOÃO VITOR THEODORO DE SOUZA	  | Benevid Felix da Silva | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  | | | |
-|21| 20220021293 |JULIO CESAR COLLI	              | |   | | | |
-|22| 20230023649 |KAIKY MARÇAL FERREIRA           | João Ricardo Dos Santos Rosa |	 | | | |
-|23| 20230005088 |KENNY AMABILE DA ROCHA	        | Benevid Felix da Silva | Sistema de Monitoramento de Servidores Baseado em IoT: Uma Abordagem com ESP32 para Temperatura, Umidade e Fumaça | | | |
+|20| 2021076603  |JOÃO VITOR THEODORO DE SOUZA	  | Benevid Felix da Silva | Fluxo online de denúncias e feedbacks para problemas urbanos em Sinop. |✔️ | | |
+|21| 20220021293 |JULIO CESAR COLLI	              | Juliano Fernandes de Avila | O processo de inclusão digital em escolas de Mato Grosso | ✔️ | | |
+|22| 20230023649 |KAIKY MARÇAL FERREIRA           | João Ricardo Dos Santos Rosa | Desafios no design de IA de perseguição em Metroidvanias: Como mitigar comportamentos emergentes indesejados que quebram a imersão e a dificuldade | ✔️ | | |
+|23| 20230005088 |KENNY AMABILE DA ROCHA	        | Benevid Felix da Silva | Sistema de monitoramento de servidores baseado em IoT: Uma abordagem com ESP32 para temperatura, umidade e fumaça. | ✔️ | | |
 |24| 20230009953 |MARCOS VINICIUS C. SCALCON      | |  |	 | | |
-|25| 20230011011 |NATAN DE ALMEIDA BENITES	      | Ramilton Costa Gomes Junior | Ransomware implementação e estratégias de defesa | | | |
-|26| 20230009247 |OTAVIO MANIEZZO MILAN	          | João Ricardo Dos Santos Rosa |   | | | |
+|25| 20230011011 |NATAN DE ALMEIDA BENITES	      | Ramilton Costa Gomes Junior | Ransomware: Conceitos, implementação e estratégias de defesa | | | |
+|26| 20230009247 |OTAVIO MANIEZZO MILAN	          | João Ricardo Dos Santos Rosa | ✔️  | | | |
 |27| 20230048639 |PEDRO SALVADOR DE ARAUJO	      | Juliano Fernandes de Avila | Gestão de contrato de locação | | | |
 |28| 2021027108  |RAFAELA BOHRER	                | Cristiano |   | | | |
 |29| 20230041164 |RYLLER BRITO PEREIRA            | |  |	 | | |

@@ -15,7 +15,7 @@
 - [💾 5. Arquivos](#-5-arquivos)
   - [5.1. Templates de documentos:](#51-templates-de-documentos)
 - [:alarm\_clock: 6. Professores x áreas de orientação](#alarm_clock-6-professores-x-áreas-de-orientação)
-  - [🧑‍🎓 6.1. Relação Aluno x Professor:](#-61-relação-aluno-x-professor)
+  - [🧑‍🎓 6.1. Relação Aluno x Professor x Tema:](#-61-relação-aluno-x-professor-x-tema)
 - [📆 7. Calendário geral](#-7-calendário-geral)
 - [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
 - [📺 9. Vídeos recomendados](#-9-vídeos-recomendados)
@@ -165,7 +165,7 @@ No momento os professores que temos no curso são:
 |15| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3. Técnicas de scrapping. |
 
 
-### 🧑‍🎓 6.1. Relação Aluno x Professor:
+### 🧑‍🎓 6.1. Relação Aluno x Professor x Tema:
 
 
 |Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |

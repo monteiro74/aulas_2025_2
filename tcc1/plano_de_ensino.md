@@ -168,7 +168,7 @@ No momento os professores que temos no curso são:
 |15| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3.Técnicas de scrapping. |
 
 
-### 🧑‍🎓 6.1. Relação Aluno x Professor:
+### 🧑‍🎓 6.1. Relação Aluno x Professor x Tema:
 
 |Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
 |--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|

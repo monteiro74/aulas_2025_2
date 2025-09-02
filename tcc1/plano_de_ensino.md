@@ -170,7 +170,7 @@ No momento os professores que temos no curso são:
 
 ### 🧑‍🎓 6.1. Relação Aluno x Professor:
 
-|Id| Matricula   |Aluno                           | Professor          |    Tema | 1ª entrega [^1] |
+|Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
 |--|-------------|--------------------------------|--------------------|---------|-----------------|
 |1 |2019274948   |ANA KAROLINE DA SILVA DE SOUSA  | Juliano            | Sistema tutor e petsitters | |
 |2 |20230004723  |BRUNO BORCARDT RAMOS            |                    |         |            |
@@ -189,7 +189,7 @@ No momento os professores que temos no curso são:
 |15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	  | João Ricardo | Acessibilidade no jogos   | |
 |16| 20230046394 |IZABELA AMARAL DE SOUZA	        | Maicon | Treinamento de modelo neural | |
 |17| 20220037810 |JANAINA LIMA VIANA	            | Ivan | Sistema web de acesso a mapas de relatórios agrícolas  | |
-|18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ        | Emiliano | Sistema ctrl clínica (financeiro) | |
+|18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ        | Emiliano | Sistema ctrl clínica (financeiro) |✔️ |
 |19| 2017158978  |JOÃO PAULO CAVALCANTE ZANATTA   | |	 | |
 |20| 2021076603  |JOÃO VITOR THEODORO DE SOUZA	  | Benevid | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  | |
 |21| 20220021293 |JULIO CESAR COLLI	              | |   | |

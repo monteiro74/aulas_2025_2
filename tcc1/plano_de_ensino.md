@@ -185,9 +185,9 @@ No momento os professores que temos no curso são:
 |11| 2017262840  |GLADSON JAIR BENTZ	            | Janecler Foppa | Detecção de Gases Baseado em Princípio Biomimético | ✔️ | | |
 |12| 20230021439 |GUILHERME HENRIQUE A. X. DE OLIVEIRA	| João Ricardo Dos Santos Rosa | Exploração de Estéticas Retrô na Unity: Manipulação Artística de Técnicas Gráficas do Estilo PSX e Nintendo 64 | ✔️ | | |
 |13| 20230004948 |GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo Dos Santos Rosa | Estratégias para aprimorar a experiência do usuário em jogos METROIDVANIA 3D | ✔️ | | |
-|14| 2021069402  |HELLIELTON SANTOS DOS REIS	    | Juliano Fernandes de Avila | Uso da IA na contabilidade para otimizar processos.  | | | |
-|15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	  | João Ricardo Dos Santos Rosa | Acessibilidade no jogos   | | | |
-|16| 20230046394 |IZABELA AMARAL DE SOUZA	        | Maicon | Treinamento de modelo neural | | | |
+|14| 2021069402  |HELLIELTON SANTOS DOS REIS	    | Juliano Fernandes de Avila | Inteligência artificial na contabilidade para otimização de processos| ✔️ | | |
+|15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	  | João Ricardo Dos Santos Rosa | Acessibilidade visual em jogos digitais: avaliação de um recurso para jogadores com Daltonismo a partir de um protótipo experimental. | ✔️ | | |
+|16| 20230046394 |IZABELA AMARAL DE SOUZA	        |  |  | | | |
 |17| 20220037810 |JANAINA LIMA VIANA	            | Ivan Luiz Pedroso Pires | Sistema web de acesso a mapas de relatórios agrícolas  | | | |
 |18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ        | Emiliano Soares Monteiro| Sistema ctrl clínica (financeiro) |✔️ | | |
 |19| 2017158978  |JOÃO PAULO CAVALCANTE ZANATTA   | |	 | |

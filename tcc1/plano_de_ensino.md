@@ -15,7 +15,7 @@
 - [💾 5. Arquivos](#-5-arquivos)
   - [5.1. Templates de documentos:](#51-templates-de-documentos)
 - [:alarm\_clock: 6. Professores x áreas de orientação](#alarm_clock-6-professores-x-áreas-de-orientação)
-  - [🧑‍🎓 6.1. Relação Aluno x Professor:](#-61-relação-aluno-x-professor)
+  - [🧑‍🎓 6.1. Relação Aluno x Professor x Tema:](#-61-relação-aluno-x-professor-x-tema)
 - [📆 7. Calendário geral](#-7-calendário-geral)
 - [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
 - [📺 9. Vídeos recomendados](#-9-vídeos-recomendados)
@@ -35,6 +35,7 @@
   - [📌 11.2.  Resumo textual:](#-112--resumo-textual)
 - [🧱 12. Ordem e janelas de entrega de documentos:](#-12-ordem-e-janelas-de-entrega-de-documentos)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
+
 
 
 ---

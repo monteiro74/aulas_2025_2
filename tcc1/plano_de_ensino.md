@@ -172,9 +172,9 @@ No momento os professores que temos no curso são:
 
 |Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
 |--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|
-|1 |2019274948   |ANA KAROLINE DA SILVA DE SOUSA  | Juliano            | Sistema tutor e petsitters | | | |
+|1 |2019274948   |ANA KAROLINE DA SILVA DE SOUSA  | Juliano Fernandes de Avila | Sistema tutor e petsitters | ✔️ | | |
 |2 |20230004723  |BRUNO BORCARDT RAMOS            |                    |         |            | | |
-|3 |20230006577  |CAMILA WEBER	                  | Emiliano           | Sistema para Eletrotécnica: Clifo | ✔️ | | |
+|3 |20230006577  |CAMILA WEBER	                  | Emiliano Soares Monteiro          | Sistema para Eletrotécnica: Clifo | ✔️ | | |
 |4 | 2021069467  |CARLOS EDUARDO C. DA SILVA      | Benevid | Chatbot  | | | |
 |5 | 20230006675 |DARY GUSTAVO DA SILVA	          | Benevid | Controle de gerenciamento de IoT com LoRA | | | |
 |6 | 20230021027 |ELBER LUCAS ALVES BARBOZA       | Ramilton |	  | | | |
@@ -185,11 +185,11 @@ No momento os professores que temos no curso são:
 |11| 2017262840  |GLADSON JAIR BENTZ	            | Janecler Foppa | Automação na dectecção de gás | | | |
 |12| 20230021439 |GUILHERME HENRIQUE A. X. DE OLIVEIRA	| João Ricardo |  Estática retrô em video games  | | | |
 |13| 20230004948 |GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo | Usabilidade de jogos   | | | |
-|14| 2021069402  |HELLIELTON SANTOS DOS REIS	    | Juliano | Uso da IA na contabilidade para otimizar processos.  | | | |
+|14| 2021069402  |HELLIELTON SANTOS DOS REIS	    | Juliano Fernandes de Avila | Uso da IA na contabilidade para otimizar processos.  | | | |
 |15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	  | João Ricardo | Acessibilidade no jogos   | | | |
 |16| 20230046394 |IZABELA AMARAL DE SOUZA	        | Maicon | Treinamento de modelo neural | | | |
 |17| 20220037810 |JANAINA LIMA VIANA	            | Ivan | Sistema web de acesso a mapas de relatórios agrícolas  | | | |
-|18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ        | Emiliano | Sistema ctrl clínica (financeiro) |✔️ | | |
+|18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ        | Emiliano Soares Monteiro| Sistema ctrl clínica (financeiro) |✔️ | | |
 |19| 2017158978  |JOÃO PAULO CAVALCANTE ZANATTA   | |	 | |
 |20| 2021076603  |JOÃO VITOR THEODORO DE SOUZA	  | Benevid | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  | | | |
 |21| 20220021293 |JULIO CESAR COLLI	              | |   | | | |
@@ -198,7 +198,7 @@ No momento os professores que temos no curso são:
 |24| 20230009953 |MARCOS VINICIUS C. SCALCON      | |  |	 | | |
 |25| 20230011011 |NATAN DE ALMEIDA BENITES	      | Ramilton | Ransomware implementação e estratégias de defesa | | | |
 |26| 20230009247 |OTAVIO MANIEZZO MILAN	          | João Ricardo |   | | | |
-|27| 20230048639 |PEDRO SALVADOR DE ARAUJO	      | Juliano | Gestão de contrato de locação | | | |
+|27| 20230048639 |PEDRO SALVADOR DE ARAUJO	      | Juliano Fernandes de Avila | Gestão de contrato de locação | | | |
 |28| 2021027108  |RAFAELA BOHRER	                | Cristiano |   | | | |
 |29| 20230041164 |RYLLER BRITO PEREIRA            | |  |	 | | |
 |30| 20220056913 |SALATIEL BONFIM GOMES	          | Emiliano |  | | | |

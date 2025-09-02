@@ -173,7 +173,7 @@ No momento os professores que temos no curso são:
 |Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
 |--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|
 |1 |2019274948   |ANA KAROLINE DA SILVA DE SOUSA  | Juliano Fernandes de Avila | Sistema tutor e petsitters | ✔️ | | |
-|2 |20230004723  |BRUNO BORCARDT RAMOS            |                    |         |            | | |
+|2 |20230004723  |BRUNO BORCARDT RAMOS            | Ramilton Gomes Costa Junior| Tecnocracia Excludente e Inclusão Digital | ✔️ | | |
 |3 |20230006577  |CAMILA WEBER	                  | Emiliano Soares Monteiro          | Sistema para Eletrotécnica: Clifo | ✔️ | | |
 |4 | 2021069467  |CARLOS EDUARDO C. DA SILVA      | Benevid | Chatbot  | | | |
 |5 | 20230006675 |DARY GUSTAVO DA SILVA	          | Benevid | Controle de gerenciamento de IoT com LoRA | | | |

@@ -196,8 +196,8 @@ No momento os professores que temos no curso são:
 |24| 2018165940  |MARCOS JUNIOR DA SILVA	        | João Ricardo Dos Santos Rosa | Estudo de usabilidade da plataforma Lattes: Identificação de barreiras e propostas de redesign |✔️ | | |
 |25| 2018165059  |MARIA THAIS SILVA MARQUES       | Tales Nereu Bogoni | Desenvolvimento de uma aplicação mobile para consulta de horários de missas na cidade de Sinop - MT | ✔️ | | |
 |26| 20220016346 |MATHEUS LEANDRO HOLOWKA	        | Emiliano Soares Monteiro | DIMA - Dashboard integrado de métricas de atendimento, da área de computação aplicada | ✔️ | | |
-|27| 20220002556 |MATHEUS REIS BARROS	            | Elias Antônio Morgan | Gestão de escola de futebol |  | | |
-|28| 2018165439  |MAURÍCIO ROBERTO P. FILHO	      | |  |  | | |
+|27| 20220002556 |MATHEUS REIS BARROS	            | Elias Antônio Morgan | Sistema Para Escolinhas de Futebol | ✔️ | | |
+|28| 2018165439  |MAURÍCIO ROBERTO P. FILHO	      | Ramilton Costa Gomes Junior | Regressão linear como ferramenta para modelos de predição em machine learning  | ✔️ | | |
 |29| 2021034499  |MAYCON R. BRUGNERA VASCONCELLOS	| |  |  | | |
 |30| 2017158979  |PAULO CÉSAR MARTINS PORTILHO	  | |  |  | | |
 |31| 2019171804  |ROBERTO DOS SANTOS FILHO	      |  | Solução para detec. vuln. e gestão em ativos de rede |  | | |

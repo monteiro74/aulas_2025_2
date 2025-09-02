@@ -198,7 +198,7 @@ No momento os professores que temos no curso são:
 |26| 20220016346 |MATHEUS LEANDRO HOLOWKA	        | Emiliano Soares Monteiro | DIMA - Dashboard integrado de métricas de atendimento, da área de computação aplicada | ✔️ | | |
 |27| 20220002556 |MATHEUS REIS BARROS	            | Elias Antônio Morgan | Sistema Para Escolinhas de Futebol | ✔️ | | |
 |28| 2018165439  |MAURÍCIO ROBERTO P. FILHO	      | Ramilton Costa Gomes Junior | Regressão linear como ferramenta para modelos de predição em machine learning  | ✔️ | | |
-|29| 2021034499  |MAYCON R. BRUGNERA VASCONCELLOS	| |  |  | | |
+|29| 2021034499  |MAYCON R. BRUGNERA VASCONCELLOS	| Ramilton Costa Gomes Junior | App Inclusivo: Descrição de imagens para pessoas com deficiência visual | ✔️ | | |
 |30| 2017158979  |PAULO CÉSAR MARTINS PORTILHO	  | |  |  | | |
 |31| 2019171804  |ROBERTO DOS SANTOS FILHO	      |  | Solução para detec. vuln. e gestão em ativos de rede |  | | |
 |32| 2013123533  |VAGNO VALADARES DA COSTA	      | |  |  | | |

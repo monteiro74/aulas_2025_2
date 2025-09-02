@@ -184,7 +184,7 @@ No momento os professores que temos no curso são:
 |12| 2019274866  |GABRIEL FERNANDO BRAND	 | Ramilton Costa Gomes Junior | Sistema web de controle de honorários contábeis: automação e gestão financeira | ✔️ | | |
 |13| 2018165104  |GABRIEL SMANIOTTO ARAUJO	 |  | |  | | |
 |14| 2018270250  |GABRIELLE CANDIDO SCHMITT	 | Francisco Sanches Banhos Filho |Ánalise da cobertura vacinal no mato grosso e desenvolvimento de dashboards interativos | ✔️ | | |
-|15| 2021077487  |GUSTAVO MORESCO D'AMBROS	 | Janecler | Gestão de feedback |  | | |
+|15| 2021077487  |GUSTAVO MORESCO D'AMBROS	 | Janecler Foppa | Gestão de Feedback como Ferramenta Estratégica | ✔️ | | |
 |16| 2017263349  |HANS DONNER GIL ESPINHA	 | | |  | | |
 |17| 2020177439  |JOÃO VITOR ARRUDA PERCINOTTO	 | Benevid Feliz da Silva | Uso de transição de audio com LLM |  | | |
 |18| 20220001915 |JULIO DA SILVA RODRIGUES	 | | |  | | |

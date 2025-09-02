@@ -189,13 +189,13 @@ No momento os professores que temos no curso são:
 |17| 2020177439  |JOÃO VITOR ARRUDA PERCINOTTO	  | Benevid Feliz da Silva | Uso de transição de audio com LLM | ✔️ | | |
 |18| 20220001915 |JULIO DA SILVA RODRIGUES	      | Ramilton Costa Gomes Junior | A importância dos sistemas nas tarefas das empresas | ✔️ | | |
 |19| 2021072622  |LARISSA SMANIOTTO ARAUJO	      | Ivan Luiz Pedroso Pires | Smart Drawer: Frontend web responsivo para sistema ciberfísico de reservas e acesso automatizado | ✔️ | | |
-|20| 20210110021 |LEONARDI	V. M. O. DA SILVA     | Emiliano S. Monteiro | IPPA-Bank - Integração Power BI e Power Automate para performance de agências bancárias. | ✔️ | | |
+|20| 20210110021 |LEONARDI	V. M. O. DA SILVA     | Emiliano Soares Monteiro | IPPA-Bank - Integração Power BI e Power Automate para performance de agências bancárias. | ✔️ | | |
 |21| 2020177772  |LEONARDO OLIVEIRA DE MORAES     | Maicon Aparecido Sartin | Sistema web para otimização de processos de classificação de grãos visando a análise de dados com dashboard e KPI’s| ✔️ | | |
 |22| 2019274037  |LEONARDO PALIN DOS SANTOS       | Janecler Foppa | Inovação e sustentabilidade: A Biomimética na automação residencial | ✔️ | | |
 |23| 2021023109  |LUCAS PEREIRA RIBEIRO CORRÊA	  | Ivan Luiz Pedroso Pires | Um estudo sobre LLMs na gestão e otimização de infraestruturas urbanas em cidades inteligentes | ✔️ | | |
 |24| 2018165940  |MARCOS JUNIOR DA SILVA	        | João Ricardo Dos Santos Rosa | Estudo de usabilidade da plataforma Lattes: Identificação de barreiras e propostas de redesign |✔️ | | |
 |25| 2018165059  |MARIA THAIS SILVA MARQUES       | Tales Nereu Bogoni | Desenvolvimento de uma aplicação mobile para consulta de horários de missas na cidade de Sinop - MT | ✔️ | | |
-|26| 20220016346 |MATHEUS LEANDRO HOLOWKA	        | Emiliano S. Monteiro | ETL e Dashboard p/ atendimento |  | | |
+|26| 20220016346 |MATHEUS LEANDRO HOLOWKA	        | Emiliano Soares Monteiro | DIMA - Dashboard integrado de métricas de atendimento, da área de computação aplicada | ✔️ | | |
 |27| 20220002556 |MATHEUS REIS BARROS	            | Elias Antônio Morgan | Gestão de escola de futebol |  | | |
 |28| 2018165439  |MAURÍCIO ROBERTO P. FILHO	      | |  |  | | |
 |29| 2021034499  |MAYCON R. BRUGNERA VASCONCELLOS	| |  |  | | |

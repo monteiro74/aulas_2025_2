@@ -188,9 +188,9 @@ No momento os professores que temos no curso são:
 |16| 2017263349  |HANS DONNER GIL ESPINHA	        | | |  | | |
 |17| 2020177439  |JOÃO VITOR ARRUDA PERCINOTTO	  | Benevid Feliz da Silva | Uso de transição de audio com LLM | ✔️ | | |
 |18| 20220001915 |JULIO DA SILVA RODRIGUES	      | Ramilton Costa Gomes Junior | A importância dos sistemas nas tarefas das empresas | ✔️ | | |
-|19| 2021072622  |LARISSA SMANIOTTO ARAUJO	      | Ivan | Front end Smartdrawer gaveta inteligente |  | | |
-|20| 20210110021 |LEONARDI	V. M. O. DA SILVA     | Emiliano S. Monteiro | ETL e Dashboard p/ setor bancário |  | | |
-|21| 2020177772  |LEONARDO OLIVEIRA DE MORAES     |  | Dashboard p/ KPI|  | | |
+|19| 2021072622  |LARISSA SMANIOTTO ARAUJO	      | Ivan Luiz Pedroso Pires | Smart Drawer: Frontend web responsivo para sistema ciberfísico de reservas e acesso automatizado | ✔️ | | |
+|20| 20210110021 |LEONARDI	V. M. O. DA SILVA     | Emiliano S. Monteiro | IPPA-Bank - Integração Power BI e Power Automate para performance de agências bancárias. | ✔️ | | |
+|21| 2020177772  |LEONARDO OLIVEIRA DE MORAES     | Maicon Aparecido Sartin | Sistema web para otimização de processos de classificação de grãos visando a análise de dados com dashboard e KPI’s| ✔️ | | |
 |22| 2019274037  |LEONARDO PALIN DOS SANTOS       | Janecler | Automação residencial (janela automatiza) |  | | |
 |23| 2021023109  |LUCAS PEREIRA RIBEIRO CORRÊA	  | Ivan  | LLM na otimização cidade inteligêntes |  | | |
 |24| 2018165940  |MARCOS JUNIOR DA SILVA	        | João Ricardo Dos Santos Rosa | Análise de usabilidade da plaforma Lattes |  | | |

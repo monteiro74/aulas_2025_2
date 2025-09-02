@@ -183,21 +183,21 @@ No momento os professores que temos no curso são:
 |9 | 2017159001  |GABRIEL BEREGULA GOMES	        |  |  | | | |
 |10| 20220001773 |GABRIEL DE ALMEIDA MORAES       | Maicon Aparecido Sartin | Investigação de modelo de visão computacional para reconhecimento de comida | ✔️ | | |
 |11| 2017262840  |GLADSON JAIR BENTZ	            | Janecler Foppa | Detecção de Gases Baseado em Princípio Biomimético | ✔️ | | |
-|12| 20230021439 |GUILHERME HENRIQUE A. X. DE OLIVEIRA	| João Ricardo |  Estática retrô em video games  | | | |
-|13| 20230004948 |GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo | Estratégias para aprimorar a experiência do usuário em jogos METROIDVANIA 3D | ✔️ | | |
+|12| 20230021439 |GUILHERME HENRIQUE A. X. DE OLIVEIRA	| João Ricardo Dos Santos Rosa | Exploração de Estéticas Retrô na Unity: Manipulação Artística de Técnicas Gráficas do Estilo PSX e Nintendo 64 | ✔️ | | |
+|13| 20230004948 |GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo Dos Santos Rosa | Estratégias para aprimorar a experiência do usuário em jogos METROIDVANIA 3D | ✔️ | | |
 |14| 2021069402  |HELLIELTON SANTOS DOS REIS	    | Juliano Fernandes de Avila | Uso da IA na contabilidade para otimizar processos.  | | | |
-|15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	  | João Ricardo | Acessibilidade no jogos   | | | |
+|15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	  | João Ricardo Dos Santos Rosa | Acessibilidade no jogos   | | | |
 |16| 20230046394 |IZABELA AMARAL DE SOUZA	        | Maicon | Treinamento de modelo neural | | | |
 |17| 20220037810 |JANAINA LIMA VIANA	            | Ivan Luiz Pedroso Pires | Sistema web de acesso a mapas de relatórios agrícolas  | | | |
 |18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ        | Emiliano Soares Monteiro| Sistema ctrl clínica (financeiro) |✔️ | | |
 |19| 2017158978  |JOÃO PAULO CAVALCANTE ZANATTA   | |	 | |
 |20| 2021076603  |JOÃO VITOR THEODORO DE SOUZA	  | Benevid Felix da Silva | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  | | | |
 |21| 20220021293 |JULIO CESAR COLLI	              | |   | | | |
-|22| 20230023649 |KAIKY MARÇAL FERREIRA           | João Ricardo |	 | | | |
+|22| 20230023649 |KAIKY MARÇAL FERREIRA           | João Ricardo Dos Santos Rosa |	 | | | |
 |23| 20230005088 |KENNY AMABILE DA ROCHA	        | Benevid Felix da Silva | Sistema de Monitoramento de Servidores Baseado em IoT: Uma Abordagem com ESP32 para Temperatura, Umidade e Fumaça | | | |
 |24| 20230009953 |MARCOS VINICIUS C. SCALCON      | |  |	 | | |
 |25| 20230011011 |NATAN DE ALMEIDA BENITES	      | Ramilton Costa Gomes Junior | Ransomware implementação e estratégias de defesa | | | |
-|26| 20230009247 |OTAVIO MANIEZZO MILAN	          | João Ricardo |   | | | |
+|26| 20230009247 |OTAVIO MANIEZZO MILAN	          | João Ricardo Dos Santos Rosa |   | | | |
 |27| 20230048639 |PEDRO SALVADOR DE ARAUJO	      | Juliano Fernandes de Avila | Gestão de contrato de locação | | | |
 |28| 2021027108  |RAFAELA BOHRER	                | Cristiano |   | | | |
 |29| 20230041164 |RYLLER BRITO PEREIRA            | |  |	 | | |

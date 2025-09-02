@@ -200,11 +200,11 @@ No momento os professores que temos no curso são:
 |28| 2018165439  |MAURÍCIO ROBERTO P. FILHO	      | Ramilton Costa Gomes Junior | Regressão linear como ferramenta para modelos de predição em machine learning  | ✔️ | | |
 |29| 2021034499  |MAYCON R. BRUGNERA VASCONCELLOS	| Ramilton Costa Gomes Junior | App Inclusivo: Descrição de imagens para pessoas com deficiência visual | ✔️ | | |
 |30| 2017158979  |PAULO CÉSAR MARTINS PORTILHO	  | |  |  | | |
-|31| 2019171804  |ROBERTO DOS SANTOS FILHO	      |  | Solução para detec. vuln. e gestão em ativos de rede |  | | |
-|32| 2013123533  |VAGNO VALADARES DA COSTA	      | |  |  | | |
-|33| 2019171149  |VINÍCIUS VIVAN DE LIMA	        | Benevid Feliz da Silva | Fine tuning de IA |  | | |
-|34| 2019274896  |VITOR ROBERTO BISPO DOS SANTOS	|  Benevid | Gestão de remoaneio  |  | | |
-|35| 2021018341  |WINY ZANIN                      | Ivan | Backend Smartdrawer  |  | | |
+|31| 2019171804  |ROBERTO DOS SANTOS FILHO	      | Elias Antônio Morgan | Solução para gestão de vulnerabilidades e mitigação de ameaças cibernéticas | ✔️ | | |
+|32| 2013123533  |VAGNO VALADARES DA COSTA	      | Juliano Fernandes de Avila | Realidade Aumentada como Ferramenta Pedagógica | ✔️ | | |
+|33| 2019171149  |VINÍCIUS VIVAN DE LIMA	        | Benevid Feliz da Silva | Especialização de modelos de IA: Fine-tuning aplicado a documentos corporativos. | ✔️ | | |
+|34| 2019274896  |VITOR ROBERTO BISPO DOS SANTOS	|  Benevid Feliz da Silva  | Gestão de romoaneio  | ✔️ | | |
+|35| 2021018341  |WINY ZANIN                      | Ivan | Smart Drawer: Backend para sistema ciberfísico de reservas e acesso automatizado  | ✔️ | | |
 
 
 ---

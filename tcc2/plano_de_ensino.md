@@ -204,7 +204,7 @@ No momento os professores que temos no curso são:
 |32| 2013123533  |VAGNO VALADARES DA COSTA	      | Juliano Fernandes de Avila | Realidade Aumentada como Ferramenta Pedagógica | ✔️ | | |
 |33| 2019171149  |VINÍCIUS VIVAN DE LIMA	        | Benevid Feliz da Silva | Especialização de modelos de IA: Fine-tuning aplicado a documentos corporativos. | ✔️ | | |
 |34| 2019274896  |VITOR ROBERTO BISPO DOS SANTOS	|  Benevid Feliz da Silva  | Gestão de romoaneio  | ✔️ | | |
-|35| 2021018341  |WINY ZANIN                      | Ivan | Smart Drawer: Backend para sistema ciberfísico de reservas e acesso automatizado  | ✔️ | | |
+|35| 2021018341  |WINY ZANIN                      | Ivan Luiz Pedroso Pires| Smart Drawer: Backend para sistema ciberfísico de reservas e acesso automatizado  | ✔️ | | |
 
 
 ---

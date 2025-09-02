@@ -174,12 +174,12 @@ No momento os professores que temos no curso são:
 |--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|
 |1 |2019274948   |ANA KAROLINE DA SILVA DE SOUSA  | Juliano Fernandes de Avila | Sistema tutor e petsitters | ✔️ | | |
 |2 |20230004723  |BRUNO BORCARDT RAMOS            | Ramilton Gomes Costa Junior| Tecnocracia Excludente e Inclusão Digital | ✔️ | | |
-|3 |20230006577  |CAMILA WEBER	                  | Emiliano Soares Monteiro          | Sistema para Eletrotécnica: Clifo | ✔️ | | |
-|4 | 2021069467  |CARLOS EDUARDO C. DA SILVA      | Benevid | Chatbot  | | | |
-|5 | 20230006675 |DARY GUSTAVO DA SILVA	          | Benevid | Controle de gerenciamento de IoT com LoRA | | | |
+|3 |20230006577  |CAMILA WEBER	                  | Emiliano Soares Monteiro | Sistema para Eletrotécnica: Clifo | ✔️ | | |
+|4 | 2021069467  |CARLOS EDUARDO C. DA SILVA      | Benevid Felix da Silva | Assistente Virtual Especializado em Drywall e Steel Frame | ✔️ | | |
+|5 | 20230006675 |DARY GUSTAVO DA SILVA	          | Benevid Felix da Silva | Controle de gerenciamento de IoT com LoRA | | | |
 |6 | 20230021027 |ELBER LUCAS ALVES BARBOZA       | Ramilton |	  | | | |
 |7 | 20230012850 |EMANUEL ESTEVAM DE O. DUTRA     | Ivan | Sistema X  |	 | | |
-|8 | 2021057751  |EMANUELLE ANJOLIN ZUNTINI	      | Benevid | Chatbot  | | | |
+|8 | 2021057751  |EMANUELLE ANJOLIN ZUNTINI	      | Benevid Felix da Silva | Chatbot  | | | |
 |9 | 2017159001  |GABRIEL BEREGULA GOMES	        |  |   | | | |
 |10| 20220001773 |GABRIEL DE ALMEIDA MORAES       |  |	   | | | |
 |11| 2017262840  |GLADSON JAIR BENTZ	            | Janecler Foppa | Automação na dectecção de gás | | | |
@@ -191,10 +191,10 @@ No momento os professores que temos no curso são:
 |17| 20220037810 |JANAINA LIMA VIANA	            | Ivan | Sistema web de acesso a mapas de relatórios agrícolas  | | | |
 |18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ        | Emiliano Soares Monteiro| Sistema ctrl clínica (financeiro) |✔️ | | |
 |19| 2017158978  |JOÃO PAULO CAVALCANTE ZANATTA   | |	 | |
-|20| 2021076603  |JOÃO VITOR THEODORO DE SOUZA	  | Benevid | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  | | | |
+|20| 2021076603  |JOÃO VITOR THEODORO DE SOUZA	  | Benevid Felix da Silva | Cidadão Conectado: Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT  | | | |
 |21| 20220021293 |JULIO CESAR COLLI	              | |   | | | |
 |22| 20230023649 |KAIKY MARÇAL FERREIRA           | João Ricardo |	 | | | |
-|23| 20230005088 |KENNY AMABILE DA ROCHA	        | Benevid | Sistema de Monitoramento de Servidores Baseado em IoT: Uma Abordagem com ESP32 para Temperatura, Umidade e Fumaça | | | |
+|23| 20230005088 |KENNY AMABILE DA ROCHA	        | Benevid Felix da Silva | Sistema de Monitoramento de Servidores Baseado em IoT: Uma Abordagem com ESP32 para Temperatura, Umidade e Fumaça | | | |
 |24| 20230009953 |MARCOS VINICIUS C. SCALCON      | |  |	 | | |
 |25| 20230011011 |NATAN DE ALMEIDA BENITES	      | Ramilton | Ransomware implementação e estratégias de defesa | | | |
 |26| 20230009247 |OTAVIO MANIEZZO MILAN	          | João Ricardo |   | | | |
@@ -204,11 +204,11 @@ No momento os professores que temos no curso são:
 |30| 20220056913 |SALATIEL BONFIM GOMES	          | Emiliano |  | | | |
 |31| 20230011076 |SANDY HIKARU HONDA	            |  | Sistema de gerenciamento de contratos   | | | |
 |32| 2021076686  |THIAGO LEAL DE SOUSA ARAUJO     | |	  | | | |
-|33| 2019171452  |THIAGO SMERDECK PEREIRA	        | Benevid | Sistema para datacenter, medir temperatura | | | |
+|33| 2019171452  |THIAGO SMERDECK PEREIRA	        | Benevid Felix da Silva | Sistema para datacenter, medir temperatura | | | |
 |34| 20220016426 |VINÍCIUS FREITAS	              |  |  | | | |
 |35| 20230013295 |VITOR EMANUEL SILVA SAUZEN      |  Ivan |	Sistema Y  | | | |
 |36| 2018165103  |VITOR FORTUNATO DE OLIVEIRA	    | |  | | | |
-|37| 20230006049 |VITOR RODRIGO FRAILLE PEREIRA	  | Benevid | Sistema embarcado para medição e ctrl de vazão de água | | | |
+|37| 20230006049 |VITOR RODRIGO FRAILLE PEREIRA	  | Benevid Felix da Silva | Sistema embarcado para medição e ctrl de vazão de água | | | |
 |38| 20230006067 |WESLEY RODRIGO BARBOSA MAFRA	  | Ramilton |   | | | |
 |39| 20230020039 |WILLEN SILVA DE SOUZA	          | Morgan | Estudo sobre os benefícios do chatbot integrado com IA | | | |
 |40| 2018165108  |WILLIAN DE CARVALHO NOGUEIRA    | Janecler Foppa + Ivan | Site de estudo para medicina. | | | |

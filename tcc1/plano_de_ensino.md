@@ -184,7 +184,7 @@ No momento os professores que temos no curso são:
 |10| 20220001773 |GABRIEL DE ALMEIDA MORAES       | Maicon Aparecido Sartin | Investigação de modelo de visão computacional para reconhecimento de comida | ✔️ | | |
 |11| 2017262840  |GLADSON JAIR BENTZ	            | Janecler Foppa | Detecção de Gases Baseado em Princípio Biomimético | ✔️ | | |
 |12| 20230021439 |GUILHERME HENRIQUE A. X. DE OLIVEIRA	| João Ricardo Dos Santos Rosa | Exploração de Estéticas Retrô na Unity: Manipulação Artística de Técnicas Gráficas do Estilo PSX e Nintendo 64 | ✔️ | | |
-|13| 20230004948 |GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo Dos Santos Rosa | Estratégias para aprimorar a experiência do usuário em jogos METROIDVANIA 3D | ✔️ | | |
+|13| 20230004948 |GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo Dos Santos Rosa | Estratégias para aprimorar a experiência do usuário em jogos Metroidvania 3D | ✔️ | | |
 |14| 2021069402  |HELLIELTON SANTOS DOS REIS	    | Juliano Fernandes de Avila | Inteligência artificial na contabilidade para otimização de processos| ✔️ | | |
 |15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	  | João Ricardo Dos Santos Rosa | Acessibilidade visual em jogos digitais: avaliação de um recurso para jogadores com Daltonismo a partir de um protótipo experimental. | ✔️ | | |
 |16| 20230046394 |IZABELA AMARAL DE SOUZA	        |  |  | | | |
@@ -197,15 +197,15 @@ No momento os professores que temos no curso são:
 |23| 20230005088 |KENNY AMABILE DA ROCHA	        | Benevid Felix da Silva | Sistema de monitoramento de servidores baseado em IoT: Uma abordagem com ESP32 para temperatura, umidade e fumaça. | ✔️ | | |
 |24| 20230009953 |MARCOS VINICIUS C. SCALCON      | |  |	 | | |
 |25| 20230011011 |NATAN DE ALMEIDA BENITES	      | Ramilton Costa Gomes Junior | Ransomware: Conceitos, implementação e estratégias de defesa | | | |
-|26| 20230009247 |OTAVIO MANIEZZO MILAN	          | João Ricardo Dos Santos Rosa | ✔️  | | | |
-|27| 20230048639 |PEDRO SALVADOR DE ARAUJO	      | Juliano Fernandes de Avila | Gestão de contrato de locação | | | |
-|28| 2021027108  |RAFAELA BOHRER	                | Cristiano |   | | | |
-|29| 20230041164 |RYLLER BRITO PEREIRA            | |  |	 | | |
-|30| 20220056913 |SALATIEL BONFIM GOMES	          | Emiliano |  | | | |
-|31| 20230011076 |SANDY HIKARU HONDA	            |  | Sistema de gerenciamento de contratos   | | | |
+|26| 20230009247 |OTAVIO MANIEZZO MILAN	          | João Ricardo Dos Santos Rosa | Otimização do carregamento de áreas interconectadas em jogos Metroidvania 3D: Abordagem para previnir quedas de desempenho |✔️ | | |
+|27| 20230048639 |PEDRO SALVADOR DE ARAUJO	      | Juliano Fernandes de Avila | Gestão de contrato de locação | ✔️ | | |
+|28| 2021027108  |RAFAELA BOHRER	                | Elisangela Dias Brugnera | Literacia Digital: Um compilado de jogos digitais para educação | ✔️ | | |
+|29| 20230041164 |RYLLER BRITO PEREIRA            | Elisangela Dias Brugnera| Avaliação da experiência do usuário (UX) e do design de interação (IX) no aplicativo móvel do sigaa da unemat sob a perspectiva da interação humano computador | ✔️	 | | |
+|30| 20220056913 |SALATIEL BONFIM GOMES	          |  |  | | | |
+|31| 20230011076 |SANDY HIKARU HONDA	            | Ramilton Costa Gomes Junior | Sistema de gerenciamento de processos imobiliários | ✔️| | |
 |32| 2021076686  |THIAGO LEAL DE SOUSA ARAUJO     | |	  | | | |
-|33| 2019171452  |THIAGO SMERDECK PEREIRA	        | Benevid Felix da Silva | Sistema para datacenter, medir temperatura | | | |
-|34| 20220016426 |VINÍCIUS FREITAS	              |  |  | | | |
+|33| 2019171452  |THIAGO SMERDECK PEREIRA	        | Benevid Felix da Silva | Sistema de baixo custo para monitoramento térmico de centros de processamento de dados |✔️ | | |
+|34| 20220016426 |VINÍCIUS FREITAS	              | Gamificação em ambientes educacionais com Godot |✔️ | | | |
 |35| 20230013295 |VITOR EMANUEL SILVA SAUZEN      | Ivan Luiz Pedroso Pires |	Sistema Y  | | | |
 |36| 2018165103  |VITOR FORTUNATO DE OLIVEIRA	    | |  | | | |
 |37| 20230006049 |VITOR RODRIGO FRAILLE PEREIRA	  | Benevid Felix da Silva | Sistema embarcado para medição e ctrl de vazão de água | | | |

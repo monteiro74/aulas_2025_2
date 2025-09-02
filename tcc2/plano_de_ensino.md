@@ -165,50 +165,46 @@ No momento os professores que temos no curso são:
 |15| TALES NEREU BOGONI            | INTRODUÇÃO À PROGRAMAÇÃO <br> FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO <br> PROGRAMAÇÃO ORIENTADA À OBJETOS | 1. Empreendedorismo. <br> 2. Desenvolvimento de sistemas. <br> 3. Técnicas de scrapping. |
 
 
-
 ### 🧑‍🎓 6.1. Relação Aluno x Professor:
-
 
 
 |Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
 |--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|
-| 1| 20230054556 |ALAN PASQUALETTO | Janecler | Sistema p/ imobiliária	|  | | |
-| 2| 2006123575 |ANDRÉ VICENTE	  | | |  | | |
-| 3| 2016256664 |BERNARDO POYER GABE AMERICO | |  |  | | |	
-| 4| 2019171472 |BRUNA EDUARDA DOS SANTOS SILVA	 | João Ricardo | UX no APP do BB |  | | |
-| 5| 2018270346 |CHRISTIAN DA SILVA ALBUQUERQUE	 | Morgan | Desen. Sistema p/ comparar preço de supermercado  |  | | |
-| 6| 2017263267 |CLEDERSON BRUSCO	 | Benevid | Alimentador para pet  |  | | |
-| 7| 2021017881 |DANIEL ARLINDO DE OLIVEIRA CARLING	 | Ramilton | Dashboard p/ monitor tráfego hospital  |  | | |
-| 8| 2016256628 |DEOCLIDES ORMOND BORGES	 | |  |  | | |
+| 1| 20230054556 |ALAN PASQUALETTO | Janecler Foppa | Análise da Funcionalidade do Sistema UAU com Base no Modelo de Gestão COBIT 2019	| ✔️ | | |
+| 2| 2006123575  |ANDRÉ VICENTE	  | | |  | | |
+| 3| 2016256664  |BERNARDO POYER GABE AMERICO | |  |  | | |	
+| 4| 2019171472  |BRUNA EDUARDA DOS SANTOS SILVA	 | João Ricardo | UX no APP do BB |  | | |
+| 5| 2018270346  |CHRISTIAN DA SILVA ALBUQUERQUE	 | Morgan | Desen. Sistema p/ comparar preço de supermercado  |  | | |
+| 6| 2017263267  |CLEDERSON BRUSCO	 | Benevid | Alimentador para pet  |  | | |
+| 7| 2021017881  |DANIEL ARLINDO DE OLIVEIRA CARLING	 | Ramilton | Dashboard p/ monitor tráfego hospital  |  | | |
+| 8| 2016256628  |DEOCLIDES ORMOND BORGES	 | |  |  | | |
 | 9| 20220038058 |EWERTON OLEGARIO DOS SANTOS	 | Janecler | Migração de sistemas legados p/ frameworks modernos c/ Oracle Apex  |  | | |
-|10| 2019171596 |FELIPE CHRISTOPHER FAVARO ROCHA | Ramilton | Análise de tráfeo em rede sociais  |  | | |
+|10| 2019171596  |FELIPE CHRISTOPHER FAVARO ROCHA | Ramilton | Análise de tráfeo em rede sociais  |  | | |
 |11| 20220010048 |FELIPE LEAL ALVES	 | Morgan | Plugin navegador com IA |  | | |
-|12| 2019274866 |GABRIEL FERNANDO BRAND	 | Ramilton | Sist. Web ctrl Honário Contábil |  | | |
-|13| 2018165104 |GABRIEL SMANIOTTO ARAUJO	 | Maicon  | Análise de imagens com RNC |  | | |
-|14| 2018270250 |GABRIELLE CANDIDO SCHMITT	 | | |  | | |
-|15| 2021077487 |GUSTAVO MORESCO D'AMBROS	 | Janecler | Gestão de feedback |  | | |
-|16| 2017263349 |HANS DONNER GIL ESPINHA	 | | |  | | |
-|17| 2020177439 |JOÃO VITOR ARRUDA PERCINOTTO	 | Benevid | Uso de transição de audio com LLM |  | | |
+|12| 2019274866  |GABRIEL FERNANDO BRAND	 | Ramilton | Sist. Web ctrl Honário Contábil |  | | |
+|13| 2018165104  |GABRIEL SMANIOTTO ARAUJO	 | Maicon  | Análise de imagens com RNC |  | | |
+|14| 2018270250  |GABRIELLE CANDIDO SCHMITT	 | | |  | | |
+|15| 2021077487  |GUSTAVO MORESCO D'AMBROS	 | Janecler | Gestão de feedback |  | | |
+|16| 2017263349  |HANS DONNER GIL ESPINHA	 | | |  | | |
+|17| 2020177439  |JOÃO VITOR ARRUDA PERCINOTTO	 | Benevid | Uso de transição de audio com LLM |  | | |
 |18| 20220001915 |JULIO DA SILVA RODRIGUES	 | | |  | | |
-|19| 2021072622 |LARISSA SMANIOTTO ARAUJO	 | Ivan | Front end Smartdrawer gaveta inteligente |  | | |
+|19| 2021072622  |LARISSA SMANIOTTO ARAUJO	 | Ivan | Front end Smartdrawer gaveta inteligente |  | | |
 |20| 20210110021 |LEONARDI	VINICIUS MOUZINHO OLIVEIRA DA SILVA | Emiliano S. Monteiro | ETL e Dashboard p/ setor bancário |  | | |
-|21| 2020177772 |LEONARDO OLIVEIRA DE MORAES |  | Dashboard p/ KPI|  | | |
-|22| 2019274037 |LEONARDO PALIN DOS SANTOS | Janecler | Automação residencial (janela automatiza) |  | | |
-|23| 2021023109 |LUCAS PEREIRA RIBEIRO CORRÊA	 | Ivan  | LLM na otimização cidade inteligêntes |  | | |
-|24| 2018165940 |MARCOS JUNIOR DA SILVA	 | João Ricardo | Análise de usabilidade da plaforma Lattes |  | | |
-|25| 2018165059 |MARIA THAIS SILVA MARQUES | Tales Bogoni | App. mobile horários de Misas em Sinop |  | | |
+|21| 2020177772  |LEONARDO OLIVEIRA DE MORAES |  | Dashboard p/ KPI|  | | |
+|22| 2019274037  |LEONARDO PALIN DOS SANTOS | Janecler | Automação residencial (janela automatiza) |  | | |
+|23| 2021023109  |LUCAS PEREIRA RIBEIRO CORRÊA	 | Ivan  | LLM na otimização cidade inteligêntes |  | | |
+|24| 2018165940  |MARCOS JUNIOR DA SILVA	 | João Ricardo | Análise de usabilidade da plaforma Lattes |  | | |
+|25| 2018165059  |MARIA THAIS SILVA MARQUES | Tales Bogoni | App. mobile horários de Misas em Sinop |  | | |
 |26| 20220016346 |MATHEUS LEANDRO HOLOWKA	| Emiliano S. Monteiro | ETL e Dashboard p/ atendimento |  | | |
 |27| 20220002556 |MATHEUS REIS BARROS	 | Morgan | Gestão de escola de futebol |  | | |
-|28| 2018165439 |MAURÍCIO ROBERTO PAGLIARINI FILHO	 | |  |  | | |
-|29| 2021034499 |MAYCON RAMATIS BRUGNERA VASCONCELLOS	 | |  |  | | |
-|30| 2017158979 |PAULO CÉSAR MARTINS PORTILHO	 | |  |  | | |
-|31| 2019171804 |ROBERTO DOS SANTOS FILHO	 |  | Solução para detec. vuln. e gestão em ativos de rede |  | | |
-|32| 2013123533 |VAGNO VALADARES DA COSTA	 | |  |  | | |
-|33| 2019171149 |VINÍCIUS VIVAN DE LIMA	 | Benevid | Fine tuning de IA |  | | |
-|34| 2019274896 |VITOR ROBERTO BISPO DOS SANTOS	 |  Benevid | Gestão de remoaneio  |  | | |
-|35| 2021018341 |WINY ZANIN | Ivan | Backend Smartdrawer  |  | | |
-
-
+|28| 2018165439  |MAURÍCIO ROBERTO PAGLIARINI FILHO	 | |  |  | | |
+|29| 2021034499  |MAYCON RAMATIS BRUGNERA VASCONCELLOS	 | |  |  | | |
+|30| 2017158979  |PAULO CÉSAR MARTINS PORTILHO	 | |  |  | | |
+|31| 2019171804  |ROBERTO DOS SANTOS FILHO	 |  | Solução para detec. vuln. e gestão em ativos de rede |  | | |
+|32| 2013123533  |VAGNO VALADARES DA COSTA	 | |  |  | | |
+|33| 2019171149  |VINÍCIUS VIVAN DE LIMA	 | Benevid | Fine tuning de IA |  | | |
+|34| 2019274896  |VITOR ROBERTO BISPO DOS SANTOS	 |  Benevid | Gestão de remoaneio  |  | | |
+|35| 2021018341  |WINY ZANIN | Ivan | Backend Smartdrawer  |  | | |
 
 
 ---

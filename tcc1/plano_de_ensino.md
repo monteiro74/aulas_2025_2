@@ -213,10 +213,10 @@ No momento os professores que temos no curso são:
 |39| 20230020039 |WILLEN SILVA DE SOUZA	          | Elias Antônio Morgan | Estudo sobre os benefícios da implantação de chatbots integrados com inteligência artificial no âmbito empresarial | ✔️ | | |
 |40| 2018165108  |WILLIAN DE CARVALHO NOGUEIRA    | Janecler Foppa + Ivan | Site de estudo para medicina. | | | |
 
-[^1]: 1ª entrega: Final de Agosto/Início de Setembro.
+[^1]: 1ª entrega: Final de Agosto/Início de Setembro.<br>
 
-Total de alunos matriculados: 40.
-Total de entregas na 1a etapa: 34.
+Total de alunos matriculados: 40.<br>
+Total de entregas na 1a etapa: 34.<br>
 
 ---
 ## 📆 7. Calendário geral

@@ -120,17 +120,17 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  2  | 20/08  | 3hs  | Processo KDD (knowledge Discovery in Database), padrão, Processo CRISP DM. MinIO e S3. [Dados abertos](https://docs.google.com/presentation/d/e/2PACX-1vRb4jzXYM8tkzwk8Yr4j1l6LRa8GCLvlqM1C2iyfMuypdT4FXfwh-fFNs9BwXdGrSJP_QvP13lAkSy-/pub?start=false&loop=false&delayms=3000), [Slides de aula](https://docs.google.com/presentation/d/e/2PACX-1vSGBanUdgGRBPTSpohCRxtDXQyPo1kw5T9-bdJdO2Zz3EtYhmvDmpVGFr6M6QeL-8QhCZ5CadI4g5wt/pub?start=false&loop=false&delayms=3000). |
 |  3  | 27/08  | 3hs  | Tarefa:  1. Após ter baixado o banco de dados da RF, descompactar. 2. Crie um banco de dados vazio no MySQL. 3. Importar o banco para um servidor MySQL. 4. Se houverem tabelas divididas em vários arquivos, importe somente o primeiro. Atenção: 1. Os arquivos estão em formato CSV. 2. Use o dicionário de dados em PDF se desejar. Limpeza de dados, campos vazios, estatísticas descritiva. |
 |  4  | 03/09  | 3hs  | Limpeza de dados, campos vazios, estatísticas descritiva. [Slides da aula 4](https://docs.google.com/presentation/d/1Sg7Mszs2SN8Ev3qjoFHZYHCcMRjl0dA9E_6DxoMiIjs/edit?usp=view), [Slides sobre Orange](https://docs.google.com/presentation/d/1rtXXGdALd2VFfpizNaWfwuE_mX1mNCOujqFJvRIaQtI/edit?usp=view). |
-|  5  | 10/09  | 3hs  | Avaliação 1. |
+|  5  | 10/09  | 3hs  | **Avaliação 1.** |
 |  6  | 17/09  | 3hs  | Agrupamento e classificação no Orange Data Ming. Dados abertos. Apache Hadoop.  |
 |  7  | 24/09  | 3hs  | Normalização (1,2, e 3 forma normal), modelo floco de neve, desnormalização, formatos de troca de dados. |
 |  8  | 01/10  | 3hs  | Formatos abertos, os 5 V do big data, Pentaho PDI. |
 |  9  | 08/10  | 3hs  | Listas de exercícios. |
-|  10 | 15/10  | 3hs  | Avaliação 2. |
+|  10 | 15/10  | 3hs  | **Avaliação 2.** |
 |  11 | 22/10  | 3hs  | Regressão linear e Pentaho. |
 |  12 | 29/10  | 3hs  | Vozviewer, Arquivos RIS openRefine. Qualidade de dados. Bibliometria. |
 |  13 | 05/11  | 3hs  | Virtualização de dados, Enriquecimento e análise de redes sociais, Caso de ETL. |
 |  14 | 12/11  | 3hs  | Streming de dados, Kafka, Spark, Atlas, Amundsen, Dark Data, Streamlit, LakeFS, Governança. |
-|  15 | 19/11  | 3hs  | Avaliação 3. |
+|  15 | 19/11  | 3hs  | **Avaliação 3.** |
 
 
 ## :date: 5. Datas de avaliações

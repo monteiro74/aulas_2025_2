@@ -741,7 +741,7 @@ erDiagram
 ## 🏦 17. Descrição do conteúdo de um banco no SQL Server
 
 
-
+Explicação e exemplos dos objetos no banco de dados:
 
 
 | Item                        | Sub ítem                                          | Função principal              | Detalhes e exemplos                                                                 |

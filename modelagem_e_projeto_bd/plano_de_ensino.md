@@ -34,6 +34,7 @@
   - [:pager: 16.2. Banco OLAP --\> DW](#pager-162-banco-olap----dw)
     - [:loop: 16.2.1. Diagram ER OLAP DW](#loop-1621-diagram-er-olap-dw)
     - [:mag: 16.2.2. Fatos resumidas](#mag-1622-fatos-resumidas)
+- [17. Descrição do conteúdo de um banco no SQL Server](#17-descrição-do-conteúdo-de-um-banco-no-sql-server)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -734,6 +735,82 @@ erDiagram
     }
 
 ```
+
+
+---
+## 17. Descrição do conteúdo de um banco no SQL Server
+
+
+
+
+
+| Item                        | Sub ítem                                          | Função principal              | Detalhes e exemplos                                                                 |
+|-----------------------------|---------------------------------------------------|-------------------------------|-------------------------------------------------------------------------------------|
+| **Diagramas de Banco de Dados** |                                                   | Modelagem visual              | Criar e visualizar tabelas e relacionamentos em diagramas ER para documentação e manutenção. |
+| **Tabelas**                     |                                                   | Estruturas de dados           | Armazenam registros em linhas e colunas; podem ter chaves, restrições e índices.    |
+| Tabelas                     | Tabelas do sistema                                | Metadados internos            | Guardam informações do próprio SQL Server, como `sys.tables`, `sys.objects`.        |
+| Tabelas                     | FileTables                                        | Armazenamento de arquivos     | Permitem gerenciar documentos do Windows diretamente no banco como tabelas.         |
+| Tabelas                     | Tabelas Externas                                  | Acesso a dados externos       | Representam dados fora do SQL Server (PolyBase, Big Data, Azure Blob).              |
+| Tabelas                     | Tabelas de Grafo                                  | Modelagem de grafos           | Estruturas especiais para relacionar nós e arestas em grafos (ex.: redes sociais).  |
+| Tabelas                     | Tabelas do Razão Descartadas                      | Consultas temporais           | Usadas com recursos de Temporal Tables para armazenar histórico de alterações.      |
+| **Exibições (Views)**           |                                                   | Consultas virtuais            | Exibem dados derivados de tabelas, simplificando acesso e melhorando segurança.     |
+| Exibições (Views)           | Exibições do sistema                              | Metadados internos            | Views internas como `sys.views` que descrevem objetos de banco.                     |
+| Exibições (Views)           | Exibições do Razão Descartadas                    | Histórico temporal            | Usadas para representar estado de dados ao longo do tempo em tabelas temporais.     |
+| Recursos Externos           |                                                   | Integração de fontes externas | Gerencia conexões para acessar dados fora do SQL Server.                            |
+| Recursos Externos           | Fontes de Dados Externos                          | Conectividade                 | Definem servidores, clusters ou serviços que fornecem dados externos.               |
+| Recursos Externos           | Formatos de Arquivos Externos                     | Definições de formato         | Especificam como ler arquivos externos (CSV, Parquet, ORC) pelo PolyBase.           |
+| **Sinônimos**                   |                                                   | Apelidos para objetos         | Criam nomes alternativos para tabelas, views, procedures ou funções.                |
+| **Programação**                 |                                                   | Lógica de negócio             | Agrupa objetos programáveis como procedures, funções e triggers.                    |
+| Programação                 | Procedimentos Armazenados                         | Automação de tarefas          | Rotinas SQL compiladas no banco (`sp_AtualizarEstoque`).                            |
+| Programação                 | Funções                                           | Cálculos reutilizáveis        | Retornam valores escalares ou tabelas (`fn_CalcularIdade`).                         |
+| Programação                 | Gatilhos de Bancos de Dados                       | Execução automática           | Disparam ações em eventos DML/DDL como INSERT, UPDATE, DELETE.                      |
+| Programação                 | Assemblies                                        | Integração com .NET           | Permitem rodar código CLR (C#, VB.NET) dentro do SQL Server.                        |
+| Programação                 | Tipos                                             | Estruturas personalizadas     | Tipos de dados definidos pelo usuário (UDTs) e tipos de tabela.                     |
+| Programação                 | Regras                                            | Restrições antigas            | Definem regras de validação, hoje substituídas por CHECK constraints.               |
+| Programação                 | Padrões                                           | Valores padrão                | Definem valores default para colunas em tabelas.                                    |
+| Programação                 | Guias de Plano                                    | Otimização                    | Permitem forçar ou influenciar planos de execução de queries.                       |
+| Programação                 | Sequências                                        | Geração de valores            | Geram números sequenciais independentes de tabelas (como identity flexível).        |
+| **Repositório de Consultas**    |                                                   | Monitoramento de queries      | Coleta histórico de execução para análise de performance.                           |
+| Repositório de Consultas    | Consultas regressadas                             | Diagnóstico                   | Identifica queries que ficaram mais lentas em comparação a execuções anteriores.    |
+| Repositório de Consultas    | Consumo Geral de Recursos                         | Análise de performance        | Exibe consultas que consomem mais CPU, memória e IO.                                |
+| Repositório de Consultas    | Principais Consultas de Consumo de Recursos       | Ranking de consumo            | Lista as queries mais pesadas do banco.                                             |
+| Repositório de Consultas    | Consultas com Planos Forçados                     | Controle de execução          | Mostra queries executadas com planos de execução forçados manualmente.              |
+| Repositório de Consultas    | Consultas com Variação Alta                       | Estabilidade                  | Aponta consultas com grande variação de desempenho entre execuções.                 |
+| Repositório de Consultas    | Estatísticas de Espera da Consulta                | Gargalos                      | Apresenta waits (bloqueios, IO, paralelismo) durante execuções.                     |
+| Repositório de Consultas    | Consultas Rastreadas                              | Auditoria                     | Exibe consultas específicas que foram monitoradas ou marcadas para rastreamento.    |
+| **Service Broker**              |                                                   | Mensageria assíncrona         | Gerencia troca de mensagens entre aplicações e bancos.                              |
+| Service Broker              | Tipos de Mensagem                                 | Estrutura de dados            | Definem formato das mensagens que podem ser enviadas.                               |
+| Service Broker              | Contratos                                         | Regras de comunicação         | Especificam que tipos de mensagens são aceitos em uma conversa.                     |
+| Service Broker              | Filas                                             | Armazenamento temporário      | Guardam mensagens até que sejam processadas.                                        |
+| Service Broker              | Serviços                                          | Pontos de comunicação         | Definem a lógica que processa mensagens de filas.                                   |
+| Service Broker              | Rotas                                             | Direcionamento                | Indicam para onde enviar mensagens em redes distribuídas.                           |
+| Service Broker              | Associações de Serviço Remoto                     | Conexões externas             | Estabelecem vínculo com serviços de outros servidores.                              |
+| Service Broker              | Prioridades do Agente                             | Qualidade de serviço          | Definem prioridades de processamento de mensagens.                                  |
+| **Armazenamento**               |                                                   | Estruturas físicas            | Gerencia índices, partições, catálogos e outros objetos de armazenamento.           |
+| Armazenamento               | Catálogos de Texto Completo                       | Busca textual                 | Indexam textos para pesquisas com `CONTAINS` e `FREETEXT`.                          |
+| Armazenamento               | Esquemas de partição                              | Divisão lógica                | Organizam dados em múltiplas partições para desempenho e manutenção.                |
+| Armazenamento               | Funções de partição                               | Regras de distribuição        | Determinam como dados são distribuídos entre partições.                             |
+| Armazenamento               | Listas de palavras irrelevantes de texto completo | Otimização de pesquisa        | Palavras descartadas em buscas textuais (ex.: artigos como “a”, “o”, “de”).         |
+| Armazenamento               | Listas de propriedades de pesquisa                | Configuração                  | Definem propriedades adicionais para consultas de texto completo.                   |
+| **Segurança**                   |                                                   | Controle de acesso            | Gerencia autenticação, permissões e criptografia.                                   |
+| Segurança                   | Usuários                                          | Identidades                   | Representam contas de acesso a um banco específico.                                 |
+| Segurança                   | Funções                                           | Agrupamento de permissões     | Roles que reúnem permissões para simplificar administração.                         |
+| Segurança                   | Esquemas                                          | Organização lógica            | Agrupam objetos (tabelas, views, etc.) sob um namespace de segurança.               |
+| Segurança                   | Chaves Assimétricas                               | Criptografia                  | Usadas em assinaturas digitais e criptografia com chave pública/privada.            |
+| Segurança                   | Certificados                                      | Autenticação                  | Fornecem autenticação e podem proteger dados ou conexões.                           |
+| Segurança                   | Chaves Simétricas                                 | Criptografia                  | Usam a mesma chave para criptografar e descriptografar dados.                       |
+| Segurança                   | Chaves Always Encrypted                           | Proteção em trânsito          | Mantêm dados criptografados em colunas sensíveis, acessíveis apenas pelo cliente.   |
+| Segurança                   | Especificações de Auditoria de Bancos de Dados    | Auditoria                     | Registram acessos e alterações para fins de conformidade.                           |
+| Segurança                   | Políticas de Segurança                            | Regras avançadas              | Incluem Row-Level Security e Dynamic Data Masking para controle de acesso granular. |
+
+
+
+
+
+
+
+
+
 
 
 ---

@@ -171,7 +171,7 @@ No momento os professores que temos no curso são:
 |Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
 |--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|
 | 1| 20230054556 |ALAN PASQUALETTO                | Janecler Foppa | Análise da Funcionalidade do Sistema UAU com Base no Modelo de Gestão COBIT 2019	| ✔️ | | |
-| 2| 2006123575  |ANDRÉ VICENTE	                  | Ivan Luiz Pedroso Pires| ferramentas digitais e inteligência artificial no terceiro ano: suporte ao desenvolvimento da alfabetização | ✔️ | | |
+| 2| 2006123575  |ANDRÉ VICENTE	                  | Ivan Luiz Pedroso Pires| Ferramentas digitais e inteligência artificial no terceiro ano: suporte ao desenvolvimento da alfabetização | ✔️ | | |
 | 3| 2016256664  |BERNARDO POYER GABE AMERICO     | |  |  | | |	
 | 4| 2019171472  |BRUNA EDUARDA DOS SANTOS SILVA	| João Ricardo Dos Santos Rosa | Assessibilidade, usabilidade e experiência do usuário aplicados no autoatendimento do banco do brasil para pessoas da terceira idade | ✔️ | | |
 | 5| 2018270346  |CHRISTIAN DA SILVA ALBUQUERQUE  | Elias Antônio Morgan | Sistema inteligente para comparação de preços de supermercados com alimentação automatizada de banco de dados | ✔️ | | |

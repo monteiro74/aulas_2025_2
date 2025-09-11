@@ -135,7 +135,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 ## :date: 5. Datas de avaliações
 
-* Avaliação 1: 10/09/2025
+* Avaliação 1: 17/09/2025
 * Avaliação 2: 15/10/2025
 * Avaliação 3: 19/11/2025
 

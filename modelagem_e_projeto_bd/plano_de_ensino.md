@@ -117,8 +117,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 2   | 21/08 | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. [Slides da aula 2](https://docs.google.com/presentation/d/e/2PACX-1vQS7F9wsXhfxDK9lCwSeTAricxAnKKJh_Mbcyq-SnbOGEQTOAZ0W0q03xEGrMfWDuI_DP9dqAKZpeWv/pub?start=false&loop=false&delayms=3000). [Instalação do SQL Server](https://docs.google.com/presentation/d/e/2PACX-1vSdSRJF2YEI9D0U48sGimqfWDxzFlJJHfcFesiBrJyCKZ68K4RL5T70kBA_7TdwIqo6j1AVjOI3Z0xr/pub?start=false&loop=false&delayms=3000) |
 | 3   | 28/08 | 3hs | Instalação de máquina virtual (virtual box), detalhes do SQL Server. [Slides da aula 3](https://docs.google.com/presentation/d/1v5ig7rKTp-_18jOWO6rPnmZscRggB3L4uvmzCc0VzpE/edit?usp=view). |
 | 4   | 04/09 | 3hs |Conceito de transação. ACID. Concorrência. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. |
-| 5   | 11/09 | 3hs | **Avaliação 1**  |
-| 6   | 18/09 | 3hs | Detalhes do SQL Server. Conhecendo o SSMS. Monitorando o SQL Server e propriedades do servidor. Slides da aula 3.  |
+| 5   | 11/09 | 3hs | Semana de extensão.  |
+| 6   | 18/09 | 3hs | **Avaliação 1** Detalhes do SQL Server. Conhecendo o SSMS. Monitorando o SQL Server e propriedades do servidor. Slides da aula 3.  |
 | 7   | 25/09 | 3hs | Modelo ER, criação de tabelas e diagramas no SSMS, Join no SQL Server. Criação de tabelas e diagramas no SQL |
 | 8   | 02/10 | 3hs | Joins no SQL Server. SQL Server, criação de tabelas, Modelo de dados relacional, SQL Joins no SQL Server. |
 | 9   | 09/10 | 3hs | Normalização. |

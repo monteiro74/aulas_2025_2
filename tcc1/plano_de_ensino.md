@@ -345,10 +345,32 @@ Fonte da figura: https://www.pucminas.br/biblioteca/DocumentoBiblioteca/ABNT-Ela
 
 ### 🧠 11.1. Mapa mental
 
-```mermaid
 
+
+
+```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "primaryColor": "#1E88E5",
+    "primaryTextColor": "#ffffff",
+    "primaryBorderColor": "#0D47A1",
+    
+    "secondaryColor": "#81C784",
+    "secondaryTextColor": "#000000",
+    "secondaryBorderColor": "#1B5E20",
+    
+    "tertiaryColor": "#FFD54F",
+    "tertiaryTextColor": "#000000",
+    "tertiaryBorderColor": "#E65100",
+    
+    "lineColor": "#546E7A",
+    "fontFamily": "Arial"
+  }
+}}%%
 mindmap
   root((Pesquisa Científica))
+
     Abordagem
       Quantitativa
         "Dados numéricos • teste de hipóteses"
@@ -359,6 +381,7 @@ mindmap
       Quali-Quantitativa
         "Métodos combinados"
         "Ex.: estudo de caso misto; pesquisa-ação com survey"
+
     Natureza
       Aplicada
         "Solução prática de problemas"
@@ -366,6 +389,7 @@ mindmap
       Básica
         "Ampliação de fundamentos teóricos"
         "Ex.: modelos; teorias; princípios"
+
     Objetivos
       Exploratória
         "Familiarização com o problema; geração de hipóteses"
@@ -376,6 +400,7 @@ mindmap
       Explicativa
         "Investigar causas e efeitos"
         "Ex.: impacto de campanhas nas vendas"
+
     Procedimentos
       Experimental
         "Manipulação de variáveis em ambiente controlado"
@@ -391,6 +416,9 @@ mindmap
         "Análise aprofundada de um caso"
       "Entrevista / Survey"
         "Questionários/entrevistas a amostras"
+
+
+
 ```
 
 ### 🧭 11.2. Exemplos

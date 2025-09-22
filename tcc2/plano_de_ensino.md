@@ -287,6 +287,16 @@ No momento os professores que temos no curso são:
 ## 🚧 10. Estrutura do artigo:
 
 
+O que deve conter seu artigo ?
+
+1. Abstract ou resumo em um artigo científico
+2. Palavras chave em um artigo científico
+3. Introdução em um artigo científico
+4. Trabalhos relacionados em um artigo científico
+5. Materais e Métodos (Modelo proposto) em um artigo científico
+6. Avaliação, Resultados e Discussão em um artigo científico
+7. Conclusão
+
 
 ---
 ## 🧱 11. Ordem de entrega de documentos:

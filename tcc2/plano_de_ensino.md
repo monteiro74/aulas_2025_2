@@ -297,6 +297,7 @@ O que deve conter seu artigo ?
 6. Avaliação, Resultados e Discussão em um artigo científico
 7. Conclusão
 
+Dica: http://scielo.iec.gov.br/scielo.php?script=sci_arttext&pid=S1679-49742012000200018
 
 ---
 ## 🧱 11. Ordem de entrega de documentos:

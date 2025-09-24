@@ -28,6 +28,7 @@
   - [9.7. Conclusão](#97-conclusão)
 - [🚧 10. Estrutura do artigo:](#-10-estrutura-do-artigo)
 - [🧱 11. Ordem de entrega de documentos:](#-11-ordem-de-entrega-de-documentos)
+- [12. Estatísticas de TCC](#12-estatísticas-de-tcc)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -318,6 +319,11 @@ No arquivo: Templates-do-Tcc-ii-Nos-Formatos-Doc-Odt-e-Tex-Latex-Para-Download.z
 e
 [ATA_TCC_2.docx](https://docs.google.com/document/d/1__KOTF9trUtq6eL2XCgSBTnMrKk32pYn/edit?tab=t.0)
 
+
+---
+## 12. Estatísticas de TCC
+
+https://docs.google.com/presentation/d/1NLFbsbOinrP0NqKC8VaQsYR-GuMs4ry-J5gads-L624/edit?usp=view
 
 ---
 ### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)

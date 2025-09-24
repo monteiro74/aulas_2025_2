@@ -462,5 +462,10 @@ e
 [ATA_TCC_1.docx](https://docs.google.com/document/d/18j2q4C7jAOYfiOTf92ZuVOoZ_CBQLiTm/edit?tab=t.0)
 
 ---
+## 13. Estatísticas de TCC
+
+https://docs.google.com/presentation/d/1NLFbsbOinrP0NqKC8VaQsYR-GuMs4ry-J5gads-L624/edit?usp=view
+
+---
 ### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
 

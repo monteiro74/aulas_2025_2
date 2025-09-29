@@ -119,7 +119,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 4   | 04/09 | 3hs |Instalação de VM. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. [Slides da aula 4](https://docs.google.com/presentation/d/e/2PACX-1vRXdeXYCc-eCUPaNqAVpBJtYfxTDAHqVj9odY_-t1vNerSnlPQJ3SK79uTSt8117erAzD5U8Gr1GVSE/pub?start=false&loop=false&delayms=3000).  |
 | 5   | 11/09 | 3hs | Semana de extensão.  |
 | 6   | 18/09 | 3hs | **Avaliação 1** Detalhes do SQL Server. Conhecendo o SSMS. Monitorando o SQL Server e propriedades do servidor. Slides da aula 3.  |
-| 7   | 25/09 | 3hs | Modelo ER, criação de tabelas e diagramas no SSMS, Join no SQL Server. Criação de tabelas e diagramas no SQL |
+| 7   | 25/09 | 3hs | Modelo ER, normalização. Slides de aula: [Aula7a](https://docs.google.com/presentation/d/10lRm8Kon3Bh5gfm6r4APW85mCpykz6TU1a3aZakL5PQ/edit?usp=view), [Aula7b](https://docs.google.com/presentation/d/1IwDIXhhlK5Q9B656jhx235p3q6b3w62EVCv50I6PCIY/edit?usp=view), [Aula7c](https://docs.google.com/presentation/d/17EOiqhcG-wvdQVgNXgN4hQdo_lfKfToCttmq_a38U7k/edit?usp=view). |
 | 8   | 02/10 | 3hs | Joins no SQL Server. SQL Server, criação de tabelas, Modelo de dados relacional, SQL Joins no SQL Server. |
 | 9   | 09/10 | 3hs | Normalização. |
 | 10  | 16/10 | 3hs | **Avaliação 2**. |

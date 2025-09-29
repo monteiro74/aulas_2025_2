@@ -122,7 +122,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  4  | 03/09  | 3hs  | Limpeza de dados, campos vazios, estatísticas descritiva. [Slides da aula 4](https://docs.google.com/presentation/d/e/2PACX-1vQD35oljv1L9E45UTQz9qNprG_2AHq3JLgGs3npYfN9ZaRJM-YsKqcnoXVaB1e30NNJZ_GUSpq2AE1T/pub?start=false&loop=false&delayms=3000), [Slides sobre Orange](https://docs.google.com/presentation/d/e/2PACX-1vRaUwzuf1SjWsRgLRE_WSbuqPlXuJlnfK-1FZ6JDx7VKVjxc5YlE-E8bsNq_tnZFtg5tlrZ1sdDQXHj/pub?start=false&loop=false&delayms=3000). |
 |  5  | 10/09  | 3hs  | Semana de extensão |
 |  6  | 17/09  | 3hs  | **Avaliação 1** Agrupamento e classificação no Orange Data Ming. Dados abertos. Apache Hadoop.  |
-|  7  | 24/09  | 3hs  | Normalização (1,2, e 3 forma normal), modelo floco de neve, desnormalização, formatos de troca de dados. |
+|  7  | 24/09  | 3hs  | Agrupamento ou clustering e classificação, DW e dados abertos. Slides de aula: [Agrupamento ou clustering e Classificação](https://docs.google.com/presentation/d/1_p1miaeUzt8_iM1ve2I8vjw1ZlcacAoNJdmVsuhyZSk/edit?usp=view), [Clusterização e classificação no Orange](https://docs.google.com/presentation/d/1sFAXgEINfylLKRuEF-SXvGnyh3LslSzx_3IKtfbrv_0/edit?usp=view), [Dados abertos](https://docs.google.com/presentation/d/1RBy702NKYwX7Ttr3Fi57xXPdQfFir_knCTsWTSFlCCg/edit?usp=view), [Modelagem DW](https://docs.google.com/presentation/d/1Kv3BJPMUHjHkC4s-nLC9pH7czH_hSEpQaTcvuKVSLHg/edit?usp=view). |
 |  8  | 01/10  | 3hs  | Formatos abertos, os 5 V do big data, Pentaho PDI. |
 |  9  | 08/10  | 3hs  | Listas de exercícios. |
 |  10 | 15/10  | 3hs  | **Avaliação 2.** |

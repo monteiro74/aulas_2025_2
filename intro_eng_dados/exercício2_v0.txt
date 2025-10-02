@@ -1,0 +1,31 @@
+Exercícios:
+
+-- Parte 1 --- importação de dados, diagrama er
+
+1. Colocar o serviço do MySQL para rodar (use qualquer dos seguintes programas: MariaDB, MySQL, XAMPP, WAMP ou Laragon)
+
+2. Importar os dataset para dentro do MySQL, disponíveis em:
+https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/dataset/dados_abertas/
+
+Dica: use o dicionário de dados caso necessite criar as tabelas.
+
+3. Mostre o diagrama ER para este dataset (use qualquer uma das seguintes ferramentas: DBeaver, MySQL Workbench ou phpMyAdmin)
+
+4. Instale o conector ODBC para MySQL
+
+5. Configure o conector ODBC, criando uma conexão ODBC com o banco dados que você acabou de importar
+
+6. No Power BI, crie um gráfico usando dados do MySQL
+
+-- Parte 2 --- Instalação do Pentaho ---
+
+7. Instale o Java JRE e Java JDK, configure as variáveis de ambiente que o Pentaho necessita
+
+JAVA_HOME usará por exemplo: C:\Program Files\Java\jdk-23
+JRE_HOME usará por exemplo: C:\Program Files\Java\jre1.8.0_441
+PENTAHO_JAVA usará por exemplo: C:\Program Files\Java\jre1.8.0_441\bin\java.exe
+PENTAHO_JAVA_HOME usará por exemplo: C:\Program Files\Java\jdk-23
+
+8. Descompacte o Pentaho CE PDI em uma pasta
+
+9. Para executar o Pentaho, execute o arquivo Spoon.bat

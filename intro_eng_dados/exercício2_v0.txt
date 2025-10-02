@@ -5,7 +5,7 @@ Exercícios:
 1. Colocar o serviço do MySQL para rodar (use qualquer dos seguintes programas: MariaDB, MySQL, XAMPP, WAMP ou Laragon)
 
 2. Importar os dataset para dentro do MySQL, disponíveis em:
-https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/dataset/dados_abertas/
+https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/dataset/dados_abertos/
 
 Dica: use o dicionário de dados caso necessite criar as tabelas.
 

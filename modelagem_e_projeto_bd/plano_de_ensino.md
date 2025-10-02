@@ -36,6 +36,7 @@
     - [:loop: 16.2.1. Diagram ER OLAP DW](#loop-1621-diagram-er-olap-dw)
     - [:mag: 16.2.2. Fatos resumidas](#mag-1622-fatos-resumidas)
 - [🏦 17. Descrição do conteúdo de um banco no SQL Server](#-17-descrição-do-conteúdo-de-um-banco-no-sql-server)
+- [18. Relação entre esquema e banco](#18-relação-entre-esquema-e-banco)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -806,7 +807,32 @@ Explicação e exemplos dos objetos no banco de dados:
 
 
 
+## 18. Relação entre esquema e banco
 
+```mermaid
+
+classDiagram
+    class BancoDeDados {
+        +String nome
+        +List<Esquema> esquemas
+    }
+
+    class Esquema {
+        +String nome
+        +List<Objeto> objetos
+    }
+
+    class Objeto {
+        +String nome
+        +String tipo
+    }
+
+    BancoDeDados "1" --> "*" Esquema : contém
+    Esquema "1" --> "*" Objeto : possui
+
+
+
+```
 
 
 

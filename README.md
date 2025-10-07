@@ -10,6 +10,7 @@
   - [⏲️ 4.2. Horário do curso de Sistemas de Informação 2025/2](#️-42-horário-do-curso-de-sistemas-de-informação-20252)
 - [📓 5. Normatização acadêmica](#-5-normatização-acadêmica)
 - [🗃️ 6. Outros repositórios de apoio no github](#️-6-outros-repositórios-de-apoio-no-github)
+- [📊 7. Estatísticas de TCC](#-7-estatísticas-de-tcc)
     - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -73,7 +74,10 @@ https://docs.google.com/spreadsheets/d/10oEVg8o5Solzw7iZZZ2R8udI7-N62NL8N8_x22mS
 🛑 https://github.com/monteiro74?tab=repositories
 
 
+---
+# 📊 7. Estatísticas de TCC
 
+https://docs.google.com/presentation/d/1NLFbsbOinrP0NqKC8VaQsYR-GuMs4ry-J5gads-L624/edit?usp=view
 
 ---
 ### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)

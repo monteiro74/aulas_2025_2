@@ -124,7 +124,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  6  | 17/09  | 3hs  | **Avaliação 1** Agrupamento e classificação no Orange Data Ming. Dados abertos. Apache Hadoop.  |
 |  7  | 24/09  | 3hs  | Agrupamento ou clustering e classificação, DW e dados abertos. Slides de aula: [Agrupamento ou clustering e Classificação](https://docs.google.com/presentation/d/1_p1miaeUzt8_iM1ve2I8vjw1ZlcacAoNJdmVsuhyZSk/edit?usp=view), [Clusterização e classificação no Orange](https://docs.google.com/presentation/d/1sFAXgEINfylLKRuEF-SXvGnyh3LslSzx_3IKtfbrv_0/edit?usp=view), [Dados abertos](https://docs.google.com/presentation/d/1RBy702NKYwX7Ttr3Fi57xXPdQfFir_knCTsWTSFlCCg/edit?usp=view), [Modelagem DW](https://docs.google.com/presentation/d/1Kv3BJPMUHjHkC4s-nLC9pH7czH_hSEpQaTcvuKVSLHg/edit?usp=view). |
 |  8  | 01/10  | 3hs  | Formatos abertos, os 5 V do big data, Pentaho PDI. Slides de aula: [Parte 1](https://docs.google.com/presentation/d/1fODaQz0ieGWfXZcFT0j4Bx9omuB0y9OfhEvmp-JZi2o/edit?usp=view), [Parte 2](https://docs.google.com/presentation/d/1PV1JgXDa-s9dAIZAObMBvq4O5VTefVqcENUhLPaNpNg/edit?usp=view)|
-|  9  | 08/10  | 3hs  | Listas de exercícios. |
+|  9  | 08/10  | 3hs  | Associação, NLP, Apriori, slides de aula: [Parte 1](https://docs.google.com/presentation/d/1JTITJEfOAeTI9_BNs_DaQV-JNv4lyndeK6CaEgcxPeA/edit?usp=view), [Parte 2](https://docs.google.com/presentation/d/1C0J2MrNX8Vao62cedWj1rBqerKGT6QyLyHs_wEXCcO4/edit?usp=view). |
 |  10 | 15/10  | 3hs  | **Avaliação 2.** |
 |  11 | 22/10  | 3hs  | Regressão linear e Pentaho. |
 |  12 | 29/10  | 3hs  | Vozviewer, Arquivos RIS openRefine. Qualidade de dados. Bibliometria. |

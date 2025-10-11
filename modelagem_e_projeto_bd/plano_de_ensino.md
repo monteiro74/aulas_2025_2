@@ -37,6 +37,7 @@
     - [:mag: 16.2.2. Fatos resumidas](#mag-1622-fatos-resumidas)
 - [🏦 17. Descrição do conteúdo de um banco no SQL Server](#-17-descrição-do-conteúdo-de-um-banco-no-sql-server)
 - [18. Relação entre esquema e banco](#18-relação-entre-esquema-e-banco)
+- [19. Exercício mineradora](#19-exercício-mineradora)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -835,7 +836,13 @@ classDiagram
 ```
 
 
+---
+## 19. Exercício mineradora
 
+https://github.com/monteiro74/aulas_2025_2/blob/main/modelagem_e_projeto_bd/exercicio_mineradora/exercicio_mineradora1.JPG
+https://github.com/monteiro74/aulas_2025_2/blob/main/modelagem_e_projeto_bd/exercicio_mineradora/exercicio_mineradora2.JPG
+https://github.com/monteiro74/aulas_2025_2/blob/main/modelagem_e_projeto_bd/exercicio_mineradora/exercicio_mineradora3.JPG
+https://github.com/monteiro74/aulas_2025_2/blob/main/modelagem_e_projeto_bd/exercicio_mineradora/exercicio_mineradora4.JPG
 
 
 

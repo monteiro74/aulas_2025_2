@@ -34,6 +34,7 @@
   - [🧭 11.2. Exemplos](#-112-exemplos)
   - [📌 11.2.  Resumo textual:](#-112--resumo-textual)
 - [🧱 12. Ordem e janelas de entrega de documentos:](#-12-ordem-e-janelas-de-entrega-de-documentos)
+- [13. Estatísticas de TCC](#13-estatísticas-de-tcc)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -228,7 +229,7 @@ Total de entregas na 1a etapa: 34.<br>
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png)
 
-![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro2.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro2.png?raw=true)
+![]()
 
 
 ---

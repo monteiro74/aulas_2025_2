@@ -229,7 +229,7 @@ Total de entregas na 1a etapa: 34.<br>
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png)
 
-![]()
+![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/calendario_novembro_dezembro.png](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/calendario_novembro_dezembro.png)
 
 
 ---

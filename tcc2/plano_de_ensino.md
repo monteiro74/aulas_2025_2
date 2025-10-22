@@ -228,6 +228,8 @@ No momento os professores que temos no curso são:
 ---
 ## 📆 8. Calendário de bancas
 
+https://docs.google.com/spreadsheets/d/10WSTtnyBfY_iTxNSjjsYdQmgTMDXbcTkMBrO2Lt4m-8/edit?usp=view
+
 ---
 ## 📺 9. Vídeos recomendados
 

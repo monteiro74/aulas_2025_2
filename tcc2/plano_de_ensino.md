@@ -315,6 +315,9 @@ Doc2_Relatorio_de_Acompanhamento_de_projeto_modelo1_v2.docx
 Doc2_Relatorio_de_Acompanhamento_de_projeto_modelo2_v2.docx                                                                                                     
 e
 Doc3_Autorizacao_para_apresentacao_projeto_v3.docx                                                                                                              
++
+o documento que você vai mandar para banca ler !
+
 
 3ª entrega, será no fim de novembro:
 No arquivo: Templates-do-Tcc-ii-Nos-Formatos-Doc-Odt-e-Tex-Latex-Para-Download.zip estão os formatos de arquivos (latex ou word) você deverá escolher uma versão entregar o pdf corrigido.

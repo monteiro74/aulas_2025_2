@@ -455,8 +455,10 @@ Doc1b_Termo_Aceite_e_Compromisso_Coorientador_v2.docx  <<-- Se houver coorientad
 Um dos relatórios abaixo (escolha um formato)                                                                                                        
 Doc2_Relatorio_de_Acompanhamento_de_projeto_modelo1_v2.docx                                                                                                     
 Doc2_Relatorio_de_Acompanhamento_de_projeto_modelo2_v2.docx                                                                                                     
-e
++
 Doc3_Autorizacao_para_apresentacao_projeto_v3.docx                                                                                                              
++
+o documento que você vai mandar para banca ler !
 
 3ª entrega, será no fim de novembro:
 Template Projeto TCC1 v3.docx  (corrigido)

@@ -1,0 +1,101 @@
+id_venda;data_venda;nome_vendedor;nome_cliente;municipio;bairro;loja;quantidade_vendida;preco_unitario;preco_total;categoria_produto;venda_parcelada;categoria_cliente;data_entrega_prevista;estado
+1;2025-03-13;Fabiana Ribeiro;Bruna Lima;Rio de Janeiro;Coxipó;Loja D;2;10.64;21.28;Papelaria;sim;bronze;2025-03-17;Rio de Janeiro
+2;2025-06-05;Ricardo Torres;Paulo Oliveira;Aparecida de Goiânia;Coxipó;Loja C;6;43.57;261.42;Papelaria;não;bronze;2025-06-06;Goiás
+3;2025-03-30;Fernanda Costa;Ana Andrade;Santarém;Boa Esperança;Loja B;2;142.16;284.32;Utilidades Domésticas;não;prata;2025-04-04;Pará
+4;2025-05-19;Eduardo Martins;Luana Ferreira;Corumbá;Coxipó;Loja B;1;138.48;138.48;Esporte;não;bronze;2025-05-21;Mato Grosso do Sul
+5;2025-01-22;Helena Dias;André Rocha;Anápolis;Residencial Norte;Loja C;1;952.79;952.79;Eletrodomésticos;sim;bronze;2025-01-26;Goiás
+6;2025-06-13;Ítalo Fernandes;Bruna Nogueira;São José dos Campos;Centro;Loja C;2;25.87;51.74;Papelaria;não;prata;2025-06-16;São Paulo
+7;2025-03-23;Daniela Freitas;Marina Moura;Goiânia;Areão;Loja D;1;2300.21;2300.21;Móveis;sim;ouro;2025-03-30;Goiás
+8;2025-03-10;Fabiana Ribeiro;Fábio Gomes;Brasília;Jardim Atlântico;Loja D;6;34.64;207.84;Papelaria;não;ouro;2025-03-13;Distrito Federal
+9;2025-01-25;Eduardo Martins;Cristina Martins;Juiz de Fora;Boa Esperança;Loja B;1;497.97;497.97;Eletrodomésticos;não;ouro;2025-01-26;Minas Gerais
+10;2025-05-23;Marcos Lima;Marina Pereira;Ji-Paraná;Jardim América;Loja B;2;1082.30;2164.60;Eletrodomésticos;sim;bronze;2025-05-24;Rondônia
+11;2025-05-11;Juliana Alves;Beatriz Ferreira;Londrina;Jardim Europa;Loja B;2;1367.62;2735.24;Móveis;sim;prata;2025-05-13;Paraná
+12;2025-06-04;Ítalo Fernandes;Felipe Nogueira;Porto Velho;Centro;Loja B;1;373.06;373.06;Escritório;não;ouro;2025-06-10;Rondônia
+13;2025-01-19;Bruno Carvalho;Lucas Melo;Ribeirão Preto;CPA II;Loja D;2;96.05;192.10;Utilidades Domésticas;não;ouro;2025-01-28;São Paulo
+14;2025-03-22;Fernanda Costa;Paulo Nogueira;Parintins;Boa Esperança;Loja C;1;1697.45;1697.45;Informática;sim;prata;2025-03-29;Amazonas
+15;2025-01-03;Helena Dias;Marina Lima;São Luís;CPA II;Loja B;1;1097.85;1097.85;Eletrônicos;sim;bronze;2025-01-05;Maranhão
+16;2025-06-29;Gustavo Pereira;Fábio Rocha;Feira de Santana;Vila Aurora;Loja A;5;21.24;106.20;Papelaria;não;bronze;2025-07-04;Bahia
+17;2025-04-28;Daniela Freitas;Roberto Castro;Santa Maria;Residencial Sul;Loja B;1;254.73;254.73;Esporte;não;bronze;2025-05-05;Rio Grande do Sul
+18;2025-03-08;Ana Bezerra;Felipe Duarte;Cuiabá;Centro;Loja A;4;41.69;166.76;Papelaria;não;bronze;2025-03-11;Mato Grosso
+19;2025-04-29;Helena Dias;Marina Nogueira;Ilhéus;Jardim América;Loja A;2;1264.74;2529.48;Eletrônicos;sim;prata;2025-05-09;Bahia
+20;2025-06-16;Bruno Carvalho;Tatiane Gomes;São Paulo;Residencial Norte;Loja D;1;1227.46;1227.46;Eletrônicos;sim;ouro;2025-06-22;São Paulo
+21;2025-04-04;Patrícia Nunes;Rogério Rocha;Joinville;Vila Alta;Loja B;1;1392.15;1392.15;Informática;sim;bronze;2025-04-10;Santa Catarina
+22;2025-05-17;Marcos Lima;Simone Castro;Contagem;Jardim Europa;Loja B;2;1045.50;2091.00;Informática;sim;prata;2025-05-24;Minas Gerais
+23;2025-02-16;Daniela Freitas;Camila Silva;Porto Alegre;Boa Vista;Loja B;1;1288.00;1288.00;Eletrônicos;sim;ouro;2025-02-19;Rio Grande do Sul
+24;2025-05-17;Rafael Souza;Paulo Gomes;Curitiba;Areão;Loja C;1;1727.27;1727.27;Móveis;sim;prata;2025-05-21;Paraná
+25;2025-01-28;Helena Dias;Tatiane Silva;Rio de Janeiro;CPA I;Loja B;1;1322.67;1322.67;Eletrodomésticos;sim;bronze;2025-02-02;Rio de Janeiro
+26;2025-03-09;Patrícia Nunes;André Lima;Manaus;Jardim Atlântico;Loja A;2;55.45;110.90;Utilidades Domésticas;não;bronze;2025-03-18;Amazonas
+27;2025-01-30;Carlos Nogueira;Beatriz Nogueira;Belo Horizonte;Jardim América;Loja A;2;1162.36;2324.72;Informática;sim;ouro;2025-02-06;Minas Gerais
+28;2025-05-11;Juliana Alves;Fábio Pereira;Sinop;Centro;Loja A;1;1758.86;1758.86;Eletrodomésticos;sim;prata;2025-05-15;Mato Grosso
+29;2025-06-28;Gustavo Pereira;Paulo Ribeiro;Palmas;Residencial Sul;Loja C;1;960.77;960.77;Informática;sim;prata;2025-07-06;Tocantins
+30;2025-02-12;Rafael Souza;Cristina Duarte;Cuiabá;Boa Esperança;Loja C;2;44.82;89.64;Papelaria;não;bronze;2025-02-21;Mato Grosso
+31;2025-04-28;Patrícia Nunes;Luana Ramos;Goiânia;Industrial;Loja A;2;141.07;282.14;Utilidades Domésticas;não;bronze;2025-05-06;Goiás
+32;2025-05-11;Rafael Souza;Roberto Costa;Fortaleza;Centro;Loja C;2;1205.98;2411.96;Informática;sim;ouro;2025-05-14;Ceará
+33;2025-02-13;Fabiana Ribeiro;Cristina Rocha;Itacoatiara;Residencial Norte;Loja B;1;1553.64;1553.64;Informática;sim;bronze;2025-02-17;Amazonas
+34;2025-02-05;Ana Bezerra;Luana Nogueira;Caxias do Sul;Boa Esperança;Loja D;2;140.77;281.54;Utilidades Domésticas;não;bronze;2025-02-13;Rio Grande do Sul
+35;2025-01-25;Bruno Carvalho;Fábio Castro;São Paulo;Coxipó;Loja A;1;1214.42;1214.42;Eletrônicos;sim;prata;2025-02-04;São Paulo
+36;2025-02-24;Gustavo Pereira;Marina Almeida;Sorocaba;Centro;Loja D;2;1291.51;2583.02;Informática;sim;ouro;2025-02-26;São Paulo
+37;2025-01-21;Eduardo Martins;Felipe Lima;Rio de Janeiro;Coxipó;Loja C;1;1276.54;1276.54;Eletrodomésticos;sim;bronze;2025-01-29;Rio de Janeiro
+38;2025-02-05;Helena Dias;Roberto Ramos;Porto Alegre;Residencial Norte;Loja A;1;1461.41;1461.41;Informática;sim;ouro;2025-02-11;Rio Grande do Sul
+39;2025-06-13;Rafael Souza;Tatiane Nogueira;Niterói;Residencial Sul;Loja D;1;1282.21;1282.21;Eletrônicos;sim;ouro;2025-06-16;Rio de Janeiro
+40;2025-01-22;Juliana Alves;Paulo Nascimento;São José dos Campos;Jardim Atlântico;Loja C;1;1344.92;1344.92;Eletrônicos;sim;prata;2025-01-30;São Paulo
+41;2025-06-19;Marcos Lima;Cristina Melo;Belém;Jardim América;Loja A;2;126.82;253.64;Utilidades Domésticas;não;bronze;2025-06-27;Pará
+42;2025-06-15;Ana Bezerra;Rogério Silva;Serra;Vila Alta;Loja C;1;1655.62;1655.62;Informática;sim;ouro;2025-06-22;Espírito Santo
+43;2025-04-09;Rafael Souza;Paula Andrade;Curitiba;Jardim Europa;Loja B;1;1577.93;1577.93;Eletrônicos;sim;prata;2025-04-15;Paraná
+44;2025-03-16;Ítalo Fernandes;Luana Lima;Goiânia;Centro;Loja A;3;36.89;110.67;Papelaria;não;bronze;2025-03-24;Goiás
+45;2025-04-24;Carlos Nogueira;Roberto Duarte;Vitória;Residencial Norte;Loja B;2;1090.38;2180.76;Informática;sim;ouro;2025-05-04;Espírito Santo
+46;2025-04-14;Bruno Carvalho;Marina Castro;Fortaleza;Residencial Norte;Loja A;4;33.59;134.36;Papelaria;não;bronze;2025-04-19;Ceará
+47;2025-01-22;Fabiana Ribeiro;Fábio Rocha;Cuiabá;Industrial;Loja D;1;1796.38;1796.38;Móveis;sim;ouro;2025-01-30;Mato Grosso
+48;2025-03-26;Rafael Souza;Simone Lima;São Paulo;Areão;Loja C;3;119.41;358.23;Escritório;não;bronze;2025-04-03;São Paulo
+49;2025-06-21;Gustavo Pereira;Felipe Souza;Chapecó;Vila Aurora;Loja D;1;1611.47;1611.47;Informática;sim;prata;2025-06-27;Santa Catarina
+50;2025-03-21;Marcos Lima;Renata Castro;Porto Velho;Jardim Atlântico;Loja C;1;1376.64;1376.64;Eletrodomésticos;sim;ouro;2025-03-28;Rondônia
+51;2025-06-19;Eduardo Martins;Simone Rocha;Campinas;Jardim Europa;Loja B;1;1572.77;1572.77;Eletrônicos;sim;bronze;2025-06-21;São Paulo
+52;2025-05-08;Bruno Carvalho;Luana Nascimento;Várzea Grande;Jardim América;Loja D;1;1206.26;1206.26;Eletrônicos;sim;ouro;2025-05-12;Mato Grosso
+53;2025-06-11;Juliana Alves;Fábio Nogueira;Recife;Centro;Loja D;1;1480.07;1480.07;Informática;sim;ouro;2025-06-19;Pernambuco
+54;2025-04-19;Helena Dias;Marina Rocha;Caxias;Residencial Sul;Loja D;2;58.11;116.22;Utilidades Domésticas;não;bronze;2025-04-26;Maranhão
+55;2025-02-26;Gustavo Pereira;Rogério Nogueira;Feira de Santana;Coxipó;Loja D;1;1128.09;1128.09;Eletrônicos;sim;bronze;2025-03-05;Bahia
+56;2025-06-05;Marcos Lima;Beatriz Nascimento;Ariquemes;Residencial Sul;Loja D;2;77.40;154.80;Escritório;não;prata;2025-06-06;Rondônia
+57;2025-06-12;Rafael Souza;Luana Melo;Campinas;Boa Esperança;Loja A;2;1218.24;2436.48;Informática;sim;prata;2025-06-21;São Paulo
+58;2025-04-17;Fabiana Ribeiro;Roberto Andrade;Cuiabá;Centro;Loja C;3;129.66;388.98;Escritório;sim;prata;2025-04-25;Mato Grosso
+59;2025-04-26;Carlos Nogueira;Paulo Ramos;Ananindeua;Residencial Sul;Loja C;1;1510.72;1510.72;Informática;sim;bronze;2025-05-08;Pará
+60;2025-01-27;Ana Bezerra;Tatiane Castro;Curitiba;Jardim Europa;Loja A;1;1272.13;1272.13;Eletrodomésticos;sim;bronze;2025-01-28;Paraná
+61;2025-04-24;Rafael Souza;Cristina Andrade;Manaus;Jardim Atlântico;Loja D;1;1131.70;1131.70;Eletrônicos;sim;ouro;2025-05-05;Amazonas
+62;2025-05-01;Ítalo Fernandes;Fábio Oliveira;São José dos Campos;Areão;Loja B;1;1544.57;1544.57;Informática;sim;ouro;2025-05-09;São Paulo
+63;2025-03-01;Marcos Lima;Simone Rocha;Contagem;Residencial Norte;Loja A;2;1424.45;2848.90;Móveis;sim;bronze;2025-03-02;Minas Gerais
+64;2025-05-24;Juliana Alves;Renata Rocha;Porto Alegre;Jardim Europa;Loja B;2;65.96;131.92;Utilidades Domésticas;não;bronze;2025-05-30;Rio Grande do Sul
+65;2025-01-03;Rafael Souza;Lucas Nogueira;Florianópolis;Boa Esperança;Loja D;1;1257.22;1257.22;Eletrônicos;sim;ouro;2025-01-06;Santa Catarina
+66;2025-04-28;Bruno Carvalho;André Ferreira;Belo Horizonte;Residencial Norte;Loja C;1;1756.83;1756.83;Eletrodomésticos;sim;prata;2025-05-08;Minas Gerais
+67;2025-03-25;Helena Dias;Marina Andrade;Salvador;Industrial;Loja D;1;1307.42;1307.42;Eletrônicos;sim;bronze;2025-03-30;Bahia
+68;2025-05-28;Ana Bezerra;Fábio Martins;Niterói;Jardim Atlântico;Loja A;1;1518.39;1518.39;Informática;sim;ouro;2025-06-04;Rio de Janeiro
+69;2025-02-16;Patrícia Nunes;Paulo Gomes;Cuiabá;Residencial Norte;Loja D;1;1754.81;1754.81;Eletrodomésticos;sim;bronze;2025-02-20;Mato Grosso
+70;2025-02-18;Gustavo Pereira;Cristina Silva;Vila Velha;Industrial;Loja B;1;1194.66;1194.66;Eletrônicos;sim;ouro;2025-02-25;Espírito Santo
+71;2025-05-30;Eduardo Martins;Luana Nogueira;São Paulo;Jardim América;Loja A;1;1551.64;1551.64;Informática;sim;ouro;2025-06-04;São Paulo
+72;2025-02-26;Juliana Alves;Rogério Ferreira;Londrina;Centro;Loja D;1;1515.95;1515.95;Eletrônicos;sim;bronze;2025-03-08;Paraná
+73;2025-02-24;Marcos Lima;Bruna Lima;Rio de Janeiro;Areão;Loja A;2;1204.82;2409.64;Informática;sim;bronze;2025-02-27;Rio de Janeiro
+74;2025-06-11;Ana Bezerra;Renata Gomes;Recife;Jardim Europa;Loja C;2;115.30;230.60;Utilidades Domésticas;não;bronze;2025-06-15;Pernambuco
+75;2025-04-07;Ítalo Fernandes;Bruna Ramos;Blumenau;Vila Alta;Loja C;7;35.29;247.03;Papelaria;não;bronze;2025-04-13;Santa Catarina
+76;2025-02-27;Gustavo Pereira;Felipe Nascimento;São José dos Campos;Centro;Loja D;1;1663.39;1663.39;Informática;sim;ouro;2025-03-09;São Paulo
+77;2025-03-07;Patrícia Nunes;Tatiane Santos;Cuiabá;Industrial;Loja D;1;1619.27;1619.27;Eletrodomésticos;sim;bronze;2025-03-12;Mato Grosso
+78;2025-01-06;Carlos Nogueira;Cristina Ramos;Belo Horizonte;Residencial Sul;Loja D;3;23.18;69.54;Papelaria;não;bronze;2025-01-10;Minas Gerais
+79;2025-04-27;Rafael Souza;Fábio Andrade;Fortaleza;Jardim Atlântico;Loja A;1;1628.46;1628.46;Eletrodomésticos;sim;ouro;2025-04-29;Ceará
+80;2025-04-22;Bruno Carvalho;Paulo Lima;Campinas;Boa Esperança;Loja D;3;36.24;108.72;Papelaria;não;bronze;2025-04-30;São Paulo
+81;2025-04-03;Marcos Lima;Renata Costa;Cuiabá;Jardim América;Loja B;2;1397.67;2795.34;Móveis;sim;ouro;2025-04-09;Mato Grosso
+82;2025-02-06;Eduardo Martins;Lucas Pereira;Palmas;Centro;Loja A;2;126.66;253.32;Utilidades Domésticas;não;bronze;2025-02-14;Tocantins
+83;2025-01-05;Rafael Souza;André Ramos;Goiânia;Coxipó;Loja B;1;1694.04;1694.04;Informática;sim;bronze;2025-01-07;Goiás
+84;2025-03-30;Juliana Alves;Roberto Nogueira;Curitiba;Vila Alta;Loja D;1;1677.77;1677.77;Eletrodomésticos;sim;prata;2025-04-07;Paraná
+85;2025-03-05;Fabiana Ribeiro;Tatiane Melo;Rio de Janeiro;Industrial;Loja B;1;1365.95;1365.95;Eletrônicos;sim;bronze;2025-03-09;Rio de Janeiro
+86;2025-06-21;Ana Bezerra;Marina Duarte;Florianópolis;Residencial Norte;Loja C;3;40.16;120.48;Papelaria;não;bronze;2025-06-27;Santa Catarina
+87;2025-03-18;Ítalo Fernandes;Felipe Fernandes;Vila Velha;Jardim América;Loja B;1;1411.65;1411.65;Eletrodomésticos;sim;ouro;2025-03-19;Espírito Santo
+88;2025-05-28;Marcos Lima;Bruna Castro;Manaus;Boa Esperança;Loja D;1;1680.09;1680.09;Informática;sim;prata;2025-06-08;Amazonas
+89;2025-04-21;Patrícia Nunes;Renata Lima;São Luís;Residencial Sul;Loja A;2;51.22;102.44;Utilidades Domésticas;não;bronze;2025-04-28;Maranhão
+90;2025-03-25;Eduardo Martins;Fábio Duarte;São Paulo;Boa Vista;Loja A;1;64.00;64.00;Utilidades Domésticas;não;prata;2025-04-04;São Paulo
+91;2025-05-11;Helena Dias;Bruna Moura;Santa Maria;Residencial Sul;Loja B;1;289.66;289.66;Esporte;não;bronze;2025-05-21;Rio Grande do Sul
+92;2025-04-18;Marcos Lima;André Almeida;Brasília;Areão;Loja D;1;734.41;734.41;Eletrodomésticos;sim;prata;2025-04-30;Distrito Federal
+93;2025-01-26;Daniela Freitas;Bruna Duarte;Ribeirão Preto;Residencial Norte;Loja A;2;1802.20;3604.40;Informática;sim;ouro;2025-02-07;São Paulo
+94;2025-03-16;Juliana Alves;Beatriz Mendes;Fortaleza;Vila Aurora;Loja A;1;1529.21;1529.21;Móveis;sim;prata;2025-03-26;Ceará
+95;2025-05-28;Helena Dias;Luana Martins;Campos dos Goytacazes;Areão;Loja A;7;390.58;2734.06;Esporte;sim;prata;2025-06-01;Rio de Janeiro
+96;2025-02-17;Rafael Souza;Beatriz Costa;Curitiba;Areão;Loja D;3;1007.35;3022.05;Móveis;sim;prata;2025-02-22;Paraná
+97;2025-05-17;Patrícia Nunes;Felipe Castro;Várzea Grande;Jardim Europa;Loja A;4;156.13;624.52;Esporte;não;bronze;2025-05-21;Mato Grosso
+98;2025-06-23;Daniela Freitas;Rogério Gomes;Teresina;Jardim América;Loja B;1;1175.23;1175.23;Móveis;não;bronze;2025-06-25;Piauí
+99;2025-03-15;Juliana Alves;Tatiane Martins;Fortaleza;Centro;Loja A;5;137.20;686.00;Escritório;sim;ouro;2025-03-26;Ceará
+100;2025-03-17;Rafael Souza;Beatriz Andrade;Contagem;CPA II;Loja C;1;1407.87;1407.87;Eletrodomésticos;não;prata;2025-03-23;Minas Gerais

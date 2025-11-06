@@ -3,6 +3,7 @@
 * FACET-SNP-323 - MODELAGEM E PROJETO DE BANCO DE DADOS - T01 (2025.2 - 5N123)
 
 
+
 - [:floppy\_disk: 1. Turma: Modelagem e Projeto de Banco de Dados](#floppy_disk-1-turma-modelagem-e-projeto-de-banco-de-dados)
   - [:watch: 1.1. Carga Horária Total: 60](#watch-11-carga-horária-total-60)
   - [:hourglass\_flowing\_sand: 1.2. Horário: 19hs - 22hs](#hourglass_flowing_sand-12-horário-19hs---22hs)
@@ -39,6 +40,7 @@
 - [18. Relação entre esquema e banco](#18-relação-entre-esquema-e-banco)
 - [19. Exercício mineradora](#19-exercício-mineradora)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
+
 
 
 

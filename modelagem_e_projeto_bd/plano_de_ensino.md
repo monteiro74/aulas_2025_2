@@ -40,6 +40,9 @@
 - [18. Relação entre esquema e banco](#18-relação-entre-esquema-e-banco)
 - [19. Exercício mineradora](#19-exercício-mineradora)
 - [Modelagem com MongDB](#modelagem-com-mongdb)
+- [Modelagem de OLTP para OLAP](#modelagem-de-oltp-para-olap)
+  - [OLTP](#oltp)
+  - [OLAP](#olap)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -891,6 +894,123 @@ erDiagram
         ObjectId dono_id
     }
     ALUNO ||--o{ PET : "tem muitos"
+
+```
+
+
+---
+## Modelagem de OLTP para OLAP
+
+
+### OLTP
+
+```mermaid
+erDiagram
+    TBLALUNOS {
+        int      IdAluno
+        string   Nome
+        date     Aniversario
+        string   Sexo
+        decimal  Salario
+    }
+
+    TBLCURSOS {
+        int      IdCurso
+        string   NomeCurso
+    }
+
+    TBLTURMAS {
+        int      IdTurma
+        int      IdAluno
+        int      IdCurso
+        string   DescricaoTurma
+        decimal  PrecoTurma
+        date     DataInicio
+        date     DataFim
+    }
+
+    TBLSITUACAO {
+        int      IdSituacao
+        string   Situacao
+    }
+
+    TBLPRESENCAS {
+        int      IdTurma
+        int      IdAluno
+        int      IdSituacao
+        date     DataPresenca
+    }
+
+    TBLALUNOS ||--o{ TBLTURMAS    : "aluno em turmas"
+    TBLCURSOS ||--o{ TBLTURMAS    : "curso em turmas"
+    TBLTURMAS ||--o{ TBLPRESENCAS : "tem presenças"
+    TBLALUNOS ||--o{ TBLPRESENCAS : "aluno nas presenças"
+    TBLSITUACAO ||--o{ TBLPRESENCAS : "status de presença"
+
+
+```
+
+
+### OLAP
+
+```mermaid
+erDiagram
+    DIMALUNO {
+        int      IdAlunoDW
+        int      IdAlunoOLTP
+        string   Nome
+        string   Sexo
+        date     DataNascimento
+        string   UF
+        string   Cidade
+    }
+
+    DIMCURSO {
+        int      IdCursoDW
+        int      IdCursoOLTP
+        string   NomeCurso
+        string   Area
+    }
+
+    DIMTURMA {
+        int      IdTurmaDW
+        int      IdTurmaOLTP
+        string   DescricaoTurma
+        decimal  PrecoTurma
+        date     DataInicio
+        date     DataFim
+    }
+
+    DIMTEMPO {
+        int      IdTempo
+        date     Data
+        int      Dia
+        int      Mes
+        int      Ano
+        string   DiaSemana
+    }
+
+    DIMSITUACAO {
+        int      IdSituacaoDW
+        int      IdSituacaoOLTP
+        string   Situacao
+    }
+
+    FATOPRESENCA {
+        int      IdFatoPresenca
+        int      IdAlunoDW
+        int      IdTurmaDW
+        int      IdCursoDW
+        int      IdTempo
+        int      IdSituacaoDW
+        int      QtdPresenca
+    }
+
+    DIMALUNO    ||--o{ FATOPRESENCA : "por aluno"
+    DIMCURSO    ||--o{ FATOPRESENCA : "por curso"
+    DIMTURMA    ||--o{ FATOPRESENCA : "por turma"
+    DIMTEMPO    ||--o{ FATOPRESENCA : "por data"
+    DIMSITUACAO ||--o{ FATOPRESENCA : "por situação"
 
 ```
 

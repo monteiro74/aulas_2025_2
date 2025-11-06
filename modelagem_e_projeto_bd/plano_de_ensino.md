@@ -139,7 +139,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 * Avaliação 1: 18/09/2025.
 * Avaliação 2: 30/10/2025.
-* Avaliação 3: 20/11/2025.
+* Avaliação 3: 27/11/2025.
 
 ---
 ## :hammer_and_wrench: 6. Links para download de ferramentas

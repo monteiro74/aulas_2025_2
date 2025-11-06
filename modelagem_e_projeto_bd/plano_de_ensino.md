@@ -39,6 +39,7 @@
 - [🏦 17. Descrição do conteúdo de um banco no SQL Server](#-17-descrição-do-conteúdo-de-um-banco-no-sql-server)
 - [18. Relação entre esquema e banco](#18-relação-entre-esquema-e-banco)
 - [19. Exercício mineradora](#19-exercício-mineradora)
+- [Modelagem com MongDB](#modelagem-com-mongdb)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -847,6 +848,51 @@ https://github.com/monteiro74/aulas_2025_2/blob/main/modelagem_e_projeto_bd/exer
 https://github.com/monteiro74/aulas_2025_2/blob/main/modelagem_e_projeto_bd/exercicio_mineradora/exercicio_mineradora3.JPG
 https://github.com/monteiro74/aulas_2025_2/blob/main/modelagem_e_projeto_bd/exercicio_mineradora/exercicio_mineradora4.JPG
 
+---
+## Modelagem com MongDB
+
+🅰️ Versão A – Embedding
+
+```mermaid
+erDiagram
+    ALUNO {
+        ObjectId _id
+        int      IDAluno
+        string   Nome
+        date     Aniversario
+        string   Sexo
+        decimal  Salario
+        array    Pets
+    }
+
+
+```
+
+🅱️ Versão B – Referencing
+
+```mermaid
+
+erDiagram
+    ALUNO {
+        ObjectId _id
+        int      IDAluno
+        string   Nome
+        date     Aniversario
+        string   Sexo
+        decimal  Salario
+    }
+    PET {
+        ObjectId _id
+        string   apelido
+        string   especie
+        char     sexo
+        date     nascimento
+        date     morte
+        ObjectId dono_id
+    }
+    ALUNO ||--o{ PET : "tem muitos"
+
+```
 
 
 ---

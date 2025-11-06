@@ -129,7 +129,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 12  | 30/10 | 3hs | Blockchain, NoSQL e bancos distribuídos. [Bancos de dados distribuídos](https://docs.google.com/presentation/d/1w7q3YINjzry0bFyrpecR1zffFR8vpJSfk4L5h2lpAaY/edit?usp=view), [Bancos NoSQL](https://docs.google.com/presentation/d/1zAGhhg8T9bBb_wOhXX5PdU_6fxmzSqPW8-G60hf3AY4/edit?usp=view), [Multichain](https://docs.google.com/presentation/d/1kSaqKg_RuXaZXABxAd4Ta9mQWpnMIWVeR1sgGV-xbUs/edit?usp=view). |
 | 13  | 06/11 | 3hs | Blockchain e bancos NoSQL. |
 | 14  | 13/11 | 3hs | Migração OLTP para OLAP. Dados Abertos. |
-| 15  | 20/11 | 3hs | **Avaliação 3** |
+|   | 20/11 |  | Feriado |
+| 15  | 27/11 |  | **Avaliação 3** |
 
 
 ## :date: 5. Unidades de avaliações

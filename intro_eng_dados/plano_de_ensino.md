@@ -13,7 +13,7 @@
 - [:abacus: 3. Repositórios de apoio](#abacus-3-repositórios-de-apoio)
 - [:date: 4. Datas de aulas e conteúdo](#date-4-datas-de-aulas-e-conteúdo)
 - [:date: 5. Datas de avaliações](#date-5-datas-de-avaliações)
-- [:hammer\_and\_wrench: 6. Links para download de ferramentas](#hammer_and_wrench-6-links-para-download-de-ferramentas)
+- [:hammer\_and\_wrench: 6. Ferramentas](#hammer_and_wrench-6-ferramentas)
 - [:books: 7. Livros (básicos)](#books-7-livros-básicos)
 - [:newspaper: 8. Artigos (referências bibliográficas complementares)](#newspaper-8-artigos-referências-bibliográficas-complementares)
   - [:books: 8.1. Outras referências complementares](#books-81-outras-referências-complementares)
@@ -142,24 +142,52 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## :hammer_and_wrench: 6. Links para download de ferramentas
+## :hammer_and_wrench: 6. Ferramentas
+
+Algumas ferramentas são usadas em sala de aula (na lista abaixo da 1 até a 14) outras são comentadas.
 
 1. [Laragon](https://laragon.org/download/)
 2. [Heidi SQL](https://www.heidisql.com/download.php)
 3. [MS Sql Server Express 2022](https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br)
 4. [MS Sql Server Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
-5. [Visual Studio Code](https://code.visualstudio.com/download)
-6. [Github Desktop](https://desktop.github.com/download/)
-7. [DBeaver Community](https://dbeaver.io/download/)
-8. [CouchDB](https://couchdb.apache.org/)
-9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
-10. [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Windows-x86_64.exe)
-11. [MinIO](https://min.io/docs/minio/windows/index.html)
-12. Organge Data Mining (já esta contido dentro do Anaconda)
-13. Spider IDE (já esta contido dentro do Anaconda)
-14. [Pentaho Developer Edition](https://pentaho.com/pentaho-developer-edition/)
-15. [Knime](https://www.knime.com/downloads)
-16. [Socnetv](https://socnetv.org/)
+5. MS Power BI
+6. [Visual Studio Code](https://code.visualstudio.com/download)
+7. [Github Desktop](https://desktop.github.com/download/)
+8. [DBeaver Community](https://dbeaver.io/download/)
+9. [CouchDB](https://couchdb.apache.org/)
+10. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
+11. [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Windows-x86_64.exe)
+12. [MinIO](https://min.io/docs/minio/windows/index.html)
+13. Organge Data Mining (já esta contido dentro do Anaconda)
+14. Spider IDE (já esta contido dentro do Anaconda)
+15. [Pentaho Developer Edition](https://pentaho.com/pentaho-developer-edition/)
+16. [Knime](https://www.knime.com/downloads)
+17. [Socnetv](https://socnetv.org/)
+18. [Vozviewer](https://www.vosviewer.com/)
+19. Apache Kafka
+20. Apache Hadoop
+21. Apache Superset
+22. Apache Spark
+23. Apache Airflow
+24. Apache Nifi
+25. Apache Atlas
+26. Kedro Viz
+27. OpenRefine
+28. Streamlit
+29. Luigi
+30. Amundsen
+31. Datahub
+32. LakeFS
+33. Denodo
+34. Elastic search + Kibana
+35. Grafana
+36. AWS S3
+37. IPFS Desktop
+38. Gephi
+39. Jupyter Notebook (já esta contido dentro do Anaconda)
+40. LM Studio, Jan, GTP4All, Anything LLM
+41. Knime
+    
 
 
 * Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher

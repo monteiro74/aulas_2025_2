@@ -42,6 +42,9 @@
     - [🛰️ Resumo sobre NLP:](#️-resumo-sobre-nlp)
     - [🚀 Resumo comparativo de soluções Cloud](#-resumo-comparativo-de-soluções-cloud)
 - [Resumo de projetos Apache para engenharia de dados](#resumo-de-projetos-apache-para-engenharia-de-dados)
+  - [Outra forma de vialização](#outra-forma-de-vialização)
+    - [Mapa de Projetos Apache com Funções Similares](#mapa-de-projetos-apache-com-funções-similares)
+    - [Outra forma de visualização](#outra-forma-de-visualização)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -637,6 +640,276 @@ graph TD
     class Paimon,DataFusion new
     class Title default
 
+
+```
+
+
+---
+### Outra forma de vialização
+
+
+#### Mapa de Projetos Apache com Funções Similares
+
+> Diagrama em **Markdown + Mermaid** agrupando projetos da Apache Software Foundation por função e destacando grupos com tarefas similares.
+
+```mermaid
+graph LR
+  %% Layout simples e compatível
+
+  %% 1) Ingestão & Mensageria
+  subgraph A_Ingestao_e_Mensageria
+    Kafka((Kafka))
+    Pulsar((Pulsar))
+    RocketMQ((RocketMQ))
+    ActiveMQ((ActiveMQ_Artemis))
+    NiFi([NiFi])
+    Camel([Camel])
+
+    Kafka --- Pulsar --- RocketMQ
+    ActiveMQ --- Camel
+    NiFi --- Camel
+  end
+
+  %% 2) Processamento (Batch e Streaming)
+  subgraph B_Processamento_Batch_e_Streaming
+    Flink((Flink))
+    Spark((Spark))
+    Beam((Beam))
+    Storm((Storm))
+    Samza((Samza))
+
+    Flink --- Spark --- Beam
+    Storm --- Samza
+  end
+
+  %% 3) Armazenamento & Formatos
+  subgraph C_Armazenamento_e_Formatos
+    Iceberg((Iceberg))
+    Hudi((Hudi))
+    Hive((Hive))
+
+    Parquet[Parquet]
+    ORC[ORC]
+    Avro[Avro]
+    Arrow[Arrow]
+
+    Iceberg --- Hudi --- Hive
+    Parquet --- ORC
+    Avro --- Arrow
+  end
+
+  %% 4) Orquestração
+  subgraph D_Orquestracao
+    Airflow((Airflow))
+    Dolphin((DolphinScheduler))
+    Oozie((Oozie))
+
+    Airflow --- Dolphin --- Oozie
+  end
+
+  %% 5) SQL & Query Engines
+  subgraph E_SQL_e_Query_Engines
+    Drill((Drill))
+    Presto((Presto_ou_Trino))
+    Impala((Impala))
+    Calcite[Calcite]
+
+    Drill --- Presto --- Impala
+    Calcite -. usado_por .-> Drill
+    Calcite -. usado_por .-> Flink
+    Calcite -. usado_por .-> Hive
+  end
+
+  %% 6) Governança & Segurança
+  subgraph F_Governanca_e_Seguranca
+    Atlas((Atlas))
+    Ranger((Ranger))
+    Knox((Knox))
+    Sentry((Sentry))
+
+    Atlas --- Ranger --- Knox --- Sentry
+  end
+
+  %% 7) Infra & Bancos (Big Data)
+  subgraph G_Infra_e_Bancos
+    Hadoop((Hadoop_HDFS))
+    HBase((HBase))
+    Cassandra((Cassandra))
+    Kudu((Kudu))
+    Druid((Druid))
+
+    Hadoop --- HBase
+    Hadoop --- Kudu
+    Cassandra --- Kudu
+    Druid
+  end
+
+  %% 8) Visualização & Notebooks
+  subgraph H_Visualizacao_e_Notebooks
+    Superset((Superset))
+    Zeppelin((Zeppelin))
+
+    Superset --- Zeppelin
+  end
+
+  %% Conexões entre camadas (exemplo conceitual)
+  Kafka --> Flink
+  Pulsar --> Flink
+  NiFi --> Flink
+  Flink --> Iceberg
+  Spark --> Iceberg
+  Iceberg --> Presto
+  Iceberg --> Drill
+  Hive --> Presto
+  Airflow -. orquestra .-> Flink
+  Airflow -. orquestra .-> Spark
+  Atlas -. catalogo_linhagem .-> Hive
+  Ranger -. seguranca .-> Hive
+```
+
+
+**Legenda rápida**
+
+* **Arestas sólidas (---)**: projetos com *funções similares* ou forte sobreposição.
+* **Arestas pontilhadas (-.-)**: dependência/uso/integração típica (ex.: orquestração, catálogo, segurança).
+* **Nós arredondados**: motores/plataformas principais.
+* **Nós retangulares**: formatos de arquivo ou bibliotecas.
+
+
+#### Outra forma de visualização
+
+
+
+```mermaid
+
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#fff','primaryTextColor':'#000','primaryBorderColor':'#333','lineColor':'#666','secondaryColor':'#f8f9fa','tertiaryColor':'#fff','background':'#ffffff','mainBkg':'#ffffff','secondBkg':'#f0f0f0'}}}%%
+
+graph LR
+    subgraph Input["📥 CAMADA DE ENTRADA"]
+        direction TB
+        K1["<b>Apache Kafka</b><br/>Event Streaming"]
+        P1["<b>Apache Pulsar</b><br/>Messaging"]
+        N1["<b>Apache NiFi</b><br/>Data Flow"]
+        F1["<b>Apache Flume</b><br/>Log Collection"]
+        S1["<b>Apache Sqoop</b><br/>RDBMS Transfer"]
+    end
+    
+    subgraph Orchestrate["🎯 ORQUESTRAÇÃO"]
+        direction TB
+        A1["<b>Apache Airflow</b><br/>⭐ 320M downloads"]
+        D1["<b>Apache DolphinScheduler</b><br/>Cloud Native"]
+    end
+    
+    subgraph Process["⚡ PROCESSAMENTO"]
+        direction TB
+        
+        subgraph Batch["Batch Processing"]
+            SP1["<b>Apache Spark</b><br/>⭐ In-Memory"]
+            B1["<b>Apache Beam</b><br/>Unified API"]
+        end
+        
+        subgraph Stream["Stream Processing"]
+            FL1["<b>Apache Flink</b><br/>⭐ Real-time"]
+            DF1["<b>Apache DataFusion</b><br/>Rust Query Engine"]
+        end
+    end
+    
+    subgraph Store["🗄️ ARMAZENAMENTO"]
+        direction TB
+        
+        subgraph Lakehouse["🏞️ Data Lakehouse"]
+            I1["<b>Apache Iceberg</b><br/>⭐ Líder 2024"]
+            H1["<b>Apache Hudi</b><br/>Upserts/Deletes"]
+            PA1["<b>Apache Paimon</b><br/>Streaming Tables"]
+        end
+        
+        subgraph Warehouse["🏛️ Data Warehouse"]
+            HV1["<b>Apache Hive</b><br/>SQL on Hadoop"]
+            IM1["<b>Apache Impala</b><br/>MPP Engine"]
+        end
+        
+        subgraph NoSQL["💾 NoSQL Databases"]
+            C1["<b>Apache Cassandra</b><br/>Wide Column"]
+            HB1["<b>Apache HBase</b><br/>Column Family"]
+        end
+        
+        subgraph Files["📦 File Formats"]
+            PR1["<b>Apache Parquet</b><br/>Columnar"]
+            AR1["<b>Apache Arrow</b><br/>In-Memory"]
+            OR1["<b>Apache ORC</b><br/>Optimized"]
+        end
+        
+        subgraph DFS["💿 File Systems"]
+            HD1["<b>Apache HDFS</b><br/>Distributed FS"]
+        end
+    end
+    
+    subgraph Analyze["📊 ANALYTICS"]
+        direction TB
+        
+        subgraph OLAP["OLAP Engines"]
+            DR1["<b>Apache Druid</b><br/>Real-time"]
+            PI1["<b>Apache Pinot</b><br/>Sub-second"]
+            KY1["<b>Apache Kylin</b><br/>OLAP Cubes"]
+        end
+    end
+    
+    subgraph Govern["🔐 GOVERNANÇA"]
+        direction TB
+        G1["<b>Apache Gravitino</b><br/>⭐ TLP 2025<br/>Unified Metastore"]
+        X1["<b>Apache XTable</b><br/>Format Converter"]
+        AT1["<b>Apache Atlas</b><br/>Metadata & Lineage"]
+    end
+    
+    subgraph Output["📤 CAMADA DE SAÍDA"]
+        direction TB
+        SU1["<b>Apache Superset</b><br/>BI & Visualization"]
+    end
+    
+    %% Fluxo principal
+    Input --> Orchestrate
+    Orchestrate --> Process
+    Process --> Store
+    Store --> Analyze
+    Analyze --> Output
+    
+    %% Governança conecta com Storage
+    Store -.-> Govern
+    Govern -.-> Store
+    
+    %% Relacionamentos específicos
+    K1 --> FL1
+    K1 --> SP1
+    
+    SP1 --> I1
+    FL1 --> I1
+    FL1 --> PA1
+    
+    I1 --> DR1
+    I1 --> PI1
+    HV1 --> KY1
+    
+    DR1 --> SU1
+    PI1 --> SU1
+    
+    %% Estilos
+    classDef inputStyle fill:#e3f2fd,stroke:#1976d2,stroke-width:2px,color:#000
+    classDef orchestrateStyle fill:#fff3e0,stroke:#f57c00,stroke-width:2px,color:#000
+    classDef processStyle fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#000
+    classDef storeStyle fill:#e8f5e9,stroke:#388e3c,stroke-width:2px,color:#000
+    classDef analyzeStyle fill:#fce4ec,stroke:#c2185b,stroke-width:2px,color:#000
+    classDef governStyle fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#000
+    classDef outputStyle fill:#e0f2f1,stroke:#00796b,stroke-width:2px,color:#000
+    classDef highlight fill:#ffeb3b,stroke:#f57c00,stroke-width:3px,color:#000
+    
+    class Input,K1,P1,N1,F1,S1 inputStyle
+    class Orchestrate,A1,D1 orchestrateStyle
+    class Process,Batch,Stream,SP1,B1,FL1,DF1 processStyle
+    class Store,Lakehouse,Warehouse,NoSQL,Files,DFS storeStyle
+    class Analyze,OLAP,DR1,PI1,KY1 analyzeStyle
+    class Govern,G1,X1,AT1 governStyle
+    class Output,SU1 outputStyle
+    class I1,A1,G1 highlight
 
 ```
 

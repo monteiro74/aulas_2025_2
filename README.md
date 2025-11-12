@@ -1,4 +1,4 @@
-# Disciplinas e projetos do Professor Emiliano Monteiro
+# Disciplinas e projetos do Prof. Dr. Emiliano S. Monteiro
 
 - [Disciplinas e projetos do Professor Emiliano Monteiro](#disciplinas-e-projetos-do-professor-emiliano-monteiro)
 - [🎯 1. Disciplinas para 2025/2.](#-1-disciplinas-para-20252)

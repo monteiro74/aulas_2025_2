@@ -41,6 +41,7 @@
     - [🛸 Exemplo de processo NLP](#-exemplo-de-processo-nlp)
     - [🛰️ Resumo sobre NLP:](#️-resumo-sobre-nlp)
     - [🚀 Resumo comparativo de soluções Cloud](#-resumo-comparativo-de-soluções-cloud)
+- [Resumo de projetos Apache para engenharia de dados](#resumo-de-projetos-apache-para-engenharia-de-dados)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -530,7 +531,114 @@ Coreference Resolution
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg](https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg)
 
 
+## Resumo de projetos Apache para engenharia de dados
 
+```mermaid
+
+
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#fff','primaryTextColor':'#000','primaryBorderColor':'#333','lineColor':'#333','secondaryColor':'#f4f4f4','tertiaryColor':'#fff','background':'#ffffff','mainBkg':'#ffffff','secondBkg':'#f9f9f9'}}}%%
+
+graph TD
+    Title["<b>PROJETOS APACHE PARA ENGENHARIA DE DADOS 2024-2025</b>"]
+    
+    Title --> Orchestration
+    Title --> Streaming
+    
+    subgraph Orchestration["🎯 CAMADA DE ORQUESTRAÇÃO"]
+        Airflow["<b>Apache Airflow</b><br/>Workflow Engine<br/>320M downloads/2024"]
+        DolphinScheduler["<b>Apache DolphinScheduler</b><br/>Visual Workflow<br/>Cloud Native"]
+    end
+    
+    Orchestration --> Integration
+    Orchestration --> Processing
+    
+    subgraph Streaming["🔥 CAMADA DE STREAMING"]
+        Kafka["<b>Apache Kafka</b><br/>Event Streaming<br/>Backbone de Dados"]
+        Pulsar["<b>Apache Pulsar</b><br/>Pub-Sub Messaging<br/>Multi-tenancy"]
+    end
+    
+    subgraph Integration["🔌 CAMADA DE INTEGRAÇÃO"]
+        NiFi["<b>Apache NiFi</b><br/>Data Flow<br/>Visual Integration"]
+        Flume["<b>Apache Flume</b><br/>Log Collection<br/>Distributed"]
+        Sqoop["<b>Apache Sqoop</b><br/>SQL Transfer<br/>Hadoop ↔ RDBMS"]
+    end
+    
+    Integration --> Processing
+    Streaming --> Processing
+    
+    subgraph Processing["⚡ CAMADA DE PROCESSAMENTO"]
+        Spark["<b>Apache Spark</b><br/>Batch & Stream<br/>In-Memory Processing"]
+        Flink["<b>Apache Flink</b><br/>Stream Processing<br/>Real-time"]
+        Beam["<b>Apache Beam</b><br/>Unified Model<br/>Batch + Stream"]
+        DataFusion["<b>Apache DataFusion</b><br/>Query Engine<br/>Rust-based TLP"]
+    end
+    
+    Processing --> Storage
+    Processing --> Analytics
+    
+    subgraph Storage["🗄️ CAMADA DE ARMAZENAMENTO"]
+        direction TB
+        subgraph TableFormats["Formatos de Tabela Lakehouse"]
+            Iceberg["<b>Apache Iceberg</b><br/>Table Format<br/>⭐ Líder 2024"]
+            Hudi["<b>Apache Hudi</b><br/>Table Format<br/>Real-time Ingestion"]
+            Paimon["<b>Apache Paimon</b><br/>Table Format<br/>Streaming Lakehouse"]
+        end
+        
+        subgraph FileFormats["Formatos de Arquivo"]
+            Parquet["<b>Apache Parquet</b><br/>Columnar Storage<br/>Comprimido"]
+            Arrow["<b>Apache Arrow</b><br/>In-Memory Format<br/>Cross-language"]
+            ORC["<b>Apache ORC</b><br/>Columnar Storage<br/>Otimizado Hive"]
+        end
+        
+        subgraph StorageSystems["Sistemas de Storage"]
+            HDFS["<b>Apache HDFS</b><br/>Distributed FS<br/>Hadoop Foundation"]
+            Cassandra["<b>Apache Cassandra</b><br/>NoSQL DB<br/>Wide Column"]
+            HBase["<b>Apache HBase</b><br/>NoSQL DB<br/>Column-oriented"]
+        end
+    end
+    
+    Storage --> Analytics
+    Storage --> DataWarehouse
+    
+    subgraph Analytics["📊 CAMADA DE ANALYTICS"]
+        Druid["<b>Apache Druid</b><br/>OLAP Database<br/>Real-time Analytics"]
+        Pinot["<b>Apache Pinot</b><br/>Real-time OLAP<br/>Sub-second Queries"]
+        Kylin["<b>Apache Kylin</b><br/>OLAP Cube<br/>Pre-computed"]
+    end
+    
+    subgraph DataWarehouse["🏞️ DATA WAREHOUSE"]
+        Hive["<b>Apache Hive</b><br/>Data Warehouse<br/>SQL on Hadoop"]
+        Impala["<b>Apache Impala</b><br/>MPP SQL Engine<br/>High Performance"]
+    end
+    
+    Analytics --> Visualization
+    DataWarehouse --> Visualization
+    
+    subgraph Visualization["📈 CAMADA DE VISUALIZAÇÃO"]
+        Superset["<b>Apache Superset</b><br/>BI Platform<br/>Open Source"]
+    end
+    
+    Storage --> Metadata
+    
+    subgraph Metadata["🗂️ CAMADA DE METADADOS & GOVERNANÇA"]
+        Gravitino["<b>Apache Gravitino</b><br/>Unified Metastore<br/>⭐ TLP 2025"]
+        XTable["<b>Apache XTable</b><br/>Format Converter<br/>Bi-directional"]
+        Atlas["<b>Apache Atlas</b><br/>Data Governance<br/>Metadata Framework"]
+    end
+    
+    %% Estilos com fundo branco
+    classDef default fill:#ffffff,stroke:#333,stroke-width:2px,color:#000
+    classDef highlight fill:#e3f2fd,stroke:#1976d2,stroke-width:3px,color:#000
+    classDef leader fill:#fff3e0,stroke:#f57c00,stroke-width:3px,color:#000
+    classDef new fill:#f3e5f5,stroke:#7b1fa2,stroke-width:3px,color:#000
+    
+    class Iceberg,Gravitino leader
+    class Airflow,Kafka,Spark highlight
+    class Paimon,DataFusion new
+    class Title default
+
+
+```
 
 ---
 ### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)

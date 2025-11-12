@@ -41,7 +41,7 @@
 - [🛸 18. Exemplo de processo NLP](#-18-exemplo-de-processo-nlp)
   - [🛰️ 18.1. Resumo sobre NLP:](#️-181-resumo-sobre-nlp)
 - [🚀 19. Resumo comparativo de soluções Cloud](#-19-resumo-comparativo-de-soluções-cloud)
-- [20. Resumo de projetos Apache para engenharia de dados](#20-resumo-de-projetos-apache-para-engenharia-de-dados)
+- [:game\_die: 20. Resumo de projetos Apache para engenharia de dados](#game_die-20-resumo-de-projetos-apache-para-engenharia-de-dados)
   - [Outra forma de vialização](#outra-forma-de-vialização)
     - [Mapa de Projetos Apache com Funções Similares](#mapa-de-projetos-apache-com-funções-similares)
     - [Outra forma de visualização](#outra-forma-de-visualização)
@@ -534,7 +534,7 @@ Coreference Resolution
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg](https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg)
 
 
-## 20. Resumo de projetos Apache para engenharia de dados
+## :game_die: 20. Resumo de projetos Apache para engenharia de dados
 
 ```mermaid
 

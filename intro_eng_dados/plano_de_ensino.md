@@ -228,8 +228,6 @@ Artigo 3: [A Importância da Análise de Dados na Engenharia de Produção](http
 
 Artigo 4: [Ciência da informação e ciência de dados: convergência interdisciplinares](https://www.scielo.br/j/eb/a/rLCJY3rCQsTHC9cnmtMGsmb/?format=pdf&lang=pt).
 
-Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplicações na engenharia.](https://lcv.fee.unicamp.br/images/BTSym-19/Papers/166.pdf).
-
 
 ---
 ### :books: 8.1. Outras referências complementares

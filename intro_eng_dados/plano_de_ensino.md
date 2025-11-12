@@ -36,7 +36,7 @@
     - [📊 14.2.8. Big Data](#-1428-big-data)
   - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
 - [📄 15. Exemplos usados em sala de aula](#-15-exemplos-usados-em-sala-de-aula)
-- [16. Assuntos diversos](#16-assuntos-diversos)
+- [📄 16. Assuntos diversos](#-16-assuntos-diversos)
 - [💬 17. Algoritmo Apriori](#-17-algoritmo-apriori)
 - [🛸 18. Exemplo de processo NLP](#-18-exemplo-de-processo-nlp)
   - [🛰️ 18.1. Resumo sobre NLP:](#️-181-resumo-sobre-nlp)
@@ -465,7 +465,7 @@ Algoritmos classificadores, comparação:
 | **Random Forest**| Conjunto de árvores de decisão treinadas em subconjuntos dos dados | Alta acurácia; reduz overfitting; lida com dados desbalanceados           | Mais difícil de interpretar; pode ser computacionalmente custoso          | Situações onde acurácia é prioridade; dados ruidosos ou desbalanceados  |
 
 
-## 16. Assuntos diversos
+## 📄 16. Assuntos diversos
 
 
 ---

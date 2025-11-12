@@ -42,9 +42,9 @@
   - [🛰️ 18.1. Resumo sobre NLP:](#️-181-resumo-sobre-nlp)
 - [🚀 19. Resumo comparativo de soluções Cloud](#-19-resumo-comparativo-de-soluções-cloud)
 - [:game\_die: 20. Resumo de projetos Apache para engenharia de dados](#game_die-20-resumo-de-projetos-apache-para-engenharia-de-dados)
-- [20.1. Outra forma de vialização](#201-outra-forma-de-vialização)
-  - [20.1.1. Mapa de Projetos Apache com Funções Similares](#2011-mapa-de-projetos-apache-com-funções-similares)
-  - [20.1.2. Outra forma de visualização](#2012-outra-forma-de-visualização)
+  - [:game\_die: 20.1. Outra forma de vialização](#game_die-201-outra-forma-de-vialização)
+    - [20.1.1. Mapa de Projetos Apache com Funções Similares](#2011-mapa-de-projetos-apache-com-funções-similares)
+    - [20.1.2. Outra forma de visualização](#2012-outra-forma-de-visualização)
 - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
@@ -645,10 +645,10 @@ graph TD
 
 
 ---
-## 20.1. Outra forma de vialização
+### :game_die: 20.1. Outra forma de vialização
 
 
-### 20.1.1. Mapa de Projetos Apache com Funções Similares
+#### 20.1.1. Mapa de Projetos Apache com Funções Similares
 
 > Diagrama em **Markdown + Mermaid** agrupando projetos da Apache Software Foundation por função e destacando grupos com tarefas similares.
 
@@ -776,7 +776,7 @@ graph LR
 * **Nós retangulares**: formatos de arquivo ou bibliotecas.
 
 
-### 20.1.2. Outra forma de visualização
+#### 20.1.2. Outra forma de visualização
 
 
 

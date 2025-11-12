@@ -35,13 +35,13 @@
     - [🔐 14.2.7. Governança de Dados](#-1427-governança-de-dados)
     - [📊 14.2.8. Big Data](#-1428-big-data)
   - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
-  - [📄 15. Exemplos usados em sala de aula](#-15-exemplos-usados-em-sala-de-aula)
-  - [16. Assuntos diversos](#16-assuntos-diversos)
-    - [💬 Algoritmo Apriori](#-algoritmo-apriori)
-    - [🛸 Exemplo de processo NLP](#-exemplo-de-processo-nlp)
-    - [🛰️ Resumo sobre NLP:](#️-resumo-sobre-nlp)
-    - [🚀 Resumo comparativo de soluções Cloud](#-resumo-comparativo-de-soluções-cloud)
-- [Resumo de projetos Apache para engenharia de dados](#resumo-de-projetos-apache-para-engenharia-de-dados)
+- [📄 15. Exemplos usados em sala de aula](#-15-exemplos-usados-em-sala-de-aula)
+- [16. Assuntos diversos](#16-assuntos-diversos)
+- [💬 17. Algoritmo Apriori](#-17-algoritmo-apriori)
+- [🛸 18. Exemplo de processo NLP](#-18-exemplo-de-processo-nlp)
+  - [🛰️ 18.1. Resumo sobre NLP:](#️-181-resumo-sobre-nlp)
+- [🚀 19. Resumo comparativo de soluções Cloud](#-19-resumo-comparativo-de-soluções-cloud)
+- [20. Resumo de projetos Apache para engenharia de dados](#20-resumo-de-projetos-apache-para-engenharia-de-dados)
   - [Outra forma de vialização](#outra-forma-de-vialização)
     - [Mapa de Projetos Apache com Funções Similares](#mapa-de-projetos-apache-com-funções-similares)
     - [Outra forma de visualização](#outra-forma-de-visualização)
@@ -452,7 +452,7 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 
 
-### 📄 15. Exemplos usados em sala de aula 
+## 📄 15. Exemplos usados em sala de aula 
 
 Algoritmos classificadores, comparação:
 
@@ -465,11 +465,11 @@ Algoritmos classificadores, comparação:
 | **Random Forest**| Conjunto de árvores de decisão treinadas em subconjuntos dos dados | Alta acurácia; reduz overfitting; lida com dados desbalanceados           | Mais difícil de interpretar; pode ser computacionalmente custoso          | Situações onde acurácia é prioridade; dados ruidosos ou desbalanceados  |
 
 
-### 16. Assuntos diversos
+## 16. Assuntos diversos
 
 
 ---
-#### 💬 Algoritmo Apriori
+##  💬 17. Algoritmo Apriori
 
 ```mermaid
 flowchart TD
@@ -491,7 +491,7 @@ flowchart TD
 ```
 
 ---
-#### 🛸 Exemplo de processo NLP
+## 🛸 18. Exemplo de processo NLP
 
 ```mermaid
 flowchart TD
@@ -506,7 +506,7 @@ flowchart TD
 
 
 
-#### 🛰️ Resumo sobre NLP:
+### 🛰️ 18.1. Resumo sobre NLP:
 
 Sentence Segmentation
 ➤ Divide o texto em frases distintas, identificando limites com base em pontuação e estrutura linguística.
@@ -529,12 +529,12 @@ Named Entity Recognition (NER)
 Coreference Resolution
 ➤ Detecta quando diferentes palavras ou pronomes se referem à mesma entidade (ex: "João saiu. Ele...").
 
-#### 🚀 Resumo comparativo de soluções Cloud
+## 🚀 19. Resumo comparativo de soluções Cloud
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg](https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg)
 
 
-## Resumo de projetos Apache para engenharia de dados
+## 20. Resumo de projetos Apache para engenharia de dados
 
 ```mermaid
 

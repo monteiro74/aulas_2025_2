@@ -46,7 +46,7 @@
     - [20.1.1. Mapa de Projetos Apache com Funções Similares](#2011-mapa-de-projetos-apache-com-funções-similares)
     - [20.1.2. Outra forma de visualização](#2012-outra-forma-de-visualização)
 - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
-  - [Exercício final](#exercício-final)
+  - [Exercício final de recuperação](#exercício-final-de-recuperação)
 
 
 
@@ -920,12 +920,11 @@ graph LR
 
 
 ---
-### Exercício final
+### Exercício final de recuperação
 
 1. Coloque um servidor MySQL para rodar
 2. Crie dois bancos de dados: banco_1 e banco_2
 3. importe para o banco de dados: banco_1o arquivo: cnaes_export.csv
 4. copie a tabela cane_export do banco_1 para o banco_2
 5. no banco_2 execute um select mostrando todos os dados dessa tabela
-6. Use a ferramenta que desejar para mover os dados da tabela entre os bancos 1 e 2.
-7. 
+6. Use a ferramenta que desejar para mover os dados da tabela entre os bancos 1 e 2, como: HeidiSQL, DBeaver, MySQL Workbench, phpMyAdmin

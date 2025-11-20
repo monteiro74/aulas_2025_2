@@ -927,3 +927,5 @@ graph LR
 3. importe para o banco de dados: banco_1o arquivo: cnaes_export.csv
 4. copie a tabela cane_export do banco_1 para o banco_2
 5. no banco_2 execute um select mostrando todos os dados dessa tabela
+6. Use a ferramenta que desejar para mover os dados da tabela entre os bancos 1 e 2.
+7. 

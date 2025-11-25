@@ -128,8 +128,6 @@ https://www.instagram.com/p/DEpsW-PhgFo/?img_index=6
 ---
 ## 💾 5. Arquivos
 
-https://drive.google.com/drive/folders/1fYyjmitE3Shpln3Hpk5wBf_6x-j8aZGx
-
 
 ### 5.1. Templates de documentos:
 
@@ -139,11 +137,9 @@ Links para os documentos de TCC1:
 ou
 2. No Sigaa (na disciplina de TCC).
 ou
-3. No Google drive (acesso com sua conta institucional): https://drive.google.com/drive/folders/1fYyjmitE3Shpln3Hpk5wBf_6x-j8aZGx
-ou
-4. No repositório da disciplina: https://github.com/monteiro74/aulas_2025_2/tree/main/tcc1
+3. No repositório da disciplina: https://github.com/monteiro74/aulas_2025_2/tree/main/tcc1
 
-5. O template de projeto do TCC 1 no Overleaf: https://www.overleaf.com/read/nbdjpvwkjdjy#44d1b3
+4. O template de projeto do TCC 1 no Overleaf: https://www.overleaf.com/read/nbdjpvwkjdjy#44d1b3
 
 ---
 ## :alarm_clock: 6. Professores x áreas de orientação

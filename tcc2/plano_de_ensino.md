@@ -203,17 +203,11 @@ No momento os professores que temos no curso são:
 ---
 ## 📆 7. Calendário geral
 
-
-
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto2.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto2.png?raw=true)
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/setembro.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/setembro.png?raw=true)
 
-
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png?raw=true)
-
-
-![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro2.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro2.png?raw=true)
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/calendario_novembro_dezembro_v2.png](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/calendario_novembro_dezembro_v2.png)
 

@@ -179,7 +179,7 @@ No momento os professores que temos no curso são:
 |4 | 2021069467  |CARLOS EDUARDO C. DA SILVA      | Benevid Felix da Silva | Assistente Virtual Especializado em Drywall e Steel Frame | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |5 | 20230006675 |DARY GUSTAVO DA SILVA	          | Benevid Felix da Silva | Gerenciamento de Dispositivos IOT com LoRa | ✔️ | | |
 |6 | 20230021027 |ELBER LUCAS ALVES BARBOZA       | Ramilton Costa Gomes Junior |	Campo Tático com IA  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br>| ❓projeto + ata <br> |
-|7 | 20230012850 |EMANUEL ESTEVAM DE O. DUTRA     | Ivan Luiz Pedroso Pires | Frontend Para Plataforma Digital Colaborativa para Gestão Sustentável de Resíduos da Construção Civil |	✔️| | |
+|7 | 20230012850 |EMANUEL ESTEVAM DE OLIVEIRA DUTRA     | Ivan Luiz Pedroso Pires | Frontend Para Plataforma Digital Colaborativa para Gestão Sustentável de Resíduos da Construção Civil |	✔️| ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br>| ❓projeto + ata <br> |
 |8 | 2021057751  |EMANUELLE ANJOLIN ZUNTINI	      | Benevid Felix da Silva | Aplicação de Modelos de Linguagem (LLM) para Automação do Atendimento Comercial em Concessionárias. | ✔️ | | |
 |9 | 2017159001  |GABRIEL BEREGULA GOMES	        |  |  | | | |
 |10| 20220001773 |GABRIEL DE ALMEIDA MORAES       | Maicon Aparecido Sartin | Investigação de modelo de visão computacional para reconhecimento de comida | ✔️ | | |

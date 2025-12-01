@@ -174,9 +174,9 @@ No momento os professores que temos no curso são:
 
 |Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
 |--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|
-|1 |2019274948   |ANA KAROLINE DA SILVA DE SOUSA  | Juliano Fernandes de Avila | Sistema tutor e petsitters | ✔️ | | |
+|1 |2019274948   |ANA KAROLINE DA SILVA DE SOUSA  | Juliano Fernandes de Avila | Sistema tutor e petsitters | ✔️ | ✅Relatório <br> ✅Autorização <br> ✅1a versão <br>  | ❓projeto + ata <br>|
 |2 |20230004723  |BRUNO BORCARDT RAMOS            | Ramilton Costa Gomes Junior| Tecnocracia Excludente e Inclusão Digital: Desenvolvimento de uma Ferramenta Open-Source para Autoria de Websites Acessíveis, da área de acessibilidade, usabilidade e user eXperience | ✔️ | | |
-|3 |20230006577  |CAMILA WEBER	                  | Emiliano Soares Monteiro | Clifo: Sistema de Gestão de Clientes e Finanças para um MEI de Assistência Técnica em Eletrônicos | ✔️ | | |
+|3 |20230006577  |CAMILA WEBER	                  | Emiliano Soares Monteiro | Clifo: Sistema de Gestão de Clientes e Finanças para um MEI de Assistência Técnica em Eletrônicos | ✔️ |  | |
 |4 | 2021069467  |CARLOS EDUARDO C. DA SILVA      | Benevid Felix da Silva | Assistente Virtual Especializado em Drywall e Steel Frame | ✔️ | | |
 |5 | 20230006675 |DARY GUSTAVO DA SILVA	          | Benevid Felix da Silva | Gerenciamento de Dispositivos IOT com LoRa | ✔️ | | |
 |6 | 20230021027 |ELBER LUCAS ALVES BARBOZA       | Ramilton Costa Gomes Junior |	Campo Tático com IA  | ✔️ | | |

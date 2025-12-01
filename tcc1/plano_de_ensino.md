@@ -203,7 +203,7 @@ No momento os professores que temos no curso são:
 |28| 2021027108  |RAFAELA BOHRER	                | Elisangela Dias Brugnera | Literacia Digital: Um compilado de jogos digitais para educação | ✔️ | ✅Relatório de acompanhamento <br> ❌Autorização para banca <br> ✅1a versão <br> | 🏆projeto + ata <br> |
 |29| 20230041164 |RYLLER BRITO PEREIRA            | Elisangela Dias Brugnera| Avaliação da experiência do usuário (UX) e do design de interação (IX) no aplicativo móvel do sigaa da unemat sob a perspectiva da interação humano computador | ✔️	 | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |30| 20220056913 |SALATIEL BONFIM GOMES	          |  |  | | | |
-|31| 20230011076 |SANDY HIKARU HONDA	            | Ramilton Costa Gomes Junior | Sistema de gerenciamento de processos imobiliários | ✔️| | |
+|31| 20230011076 |SANDY HIKARU HONDA	            | Ramilton Costa Gomes Junior | Sistema de gerenciamento de processos imobiliários | ✔️| ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |32| 2021076686  |THIAGO LEAL DE SOUSA ARAUJO     | |	  | | | |
 |33| 2019171452  |THIAGO SMERDECK PEREIRA	        | Benevid Felix da Silva | Sistema de baixo custo para monitoramento térmico de centros de processamento de dados |✔️ | | |
 |34| 20220016426 |VINÍCIUS FREITAS	              |João Ricardo Dos Santos Rosa  |Gamificação em ambientes educacionais com Godot |✔️ | | |

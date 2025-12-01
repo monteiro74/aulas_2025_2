@@ -35,13 +35,18 @@
     - [🔐 14.2.7. Governança de Dados](#-1427-governança-de-dados)
     - [📊 14.2.8. Big Data](#-1428-big-data)
   - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
-  - [📄 15. Exemplos usados em sala de aula](#-15-exemplos-usados-em-sala-de-aula)
-  - [16. Assuntos diversos](#16-assuntos-diversos)
-    - [💬 Algoritmo Apriori](#-algoritmo-apriori)
-    - [🛸 Exemplo de processo NLP](#-exemplo-de-processo-nlp)
-    - [🛰️ Resumo sobre NLP:](#️-resumo-sobre-nlp)
-    - [🚀 Resumo comparativo de soluções Cloud](#-resumo-comparativo-de-soluções-cloud)
-  - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
+- [📄 15. Exemplos usados em sala de aula](#-15-exemplos-usados-em-sala-de-aula)
+- [📄 16. Assuntos diversos](#-16-assuntos-diversos)
+- [💬 17. Algoritmo Apriori](#-17-algoritmo-apriori)
+- [🛸 18. Exemplo de processo NLP](#-18-exemplo-de-processo-nlp)
+  - [🛰️ 18.1. Resumo sobre NLP:](#️-181-resumo-sobre-nlp)
+- [🚀 19. Resumo comparativo de soluções Cloud](#-19-resumo-comparativo-de-soluções-cloud)
+- [:game\_die: 20. Resumo de projetos Apache para engenharia de dados](#game_die-20-resumo-de-projetos-apache-para-engenharia-de-dados)
+  - [:game\_die: 20.1. Outra forma de vialização](#game_die-201-outra-forma-de-vialização)
+    - [20.1.1. Mapa de Projetos Apache com Funções Similares](#2011-mapa-de-projetos-apache-com-funções-similares)
+    - [20.1.2. Outra forma de visualização](#2012-outra-forma-de-visualização)
+- [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
+  - [Exercício final de recuperação](#exercício-final-de-recuperação)
 
 
 
@@ -130,7 +135,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  11 | 22/10  | 3hs  | [Análise de redes sociais](https://docs.google.com/presentation/d/1tlMywdzeJ8Q8Q5ZP5uh6-mznJY1axxVhn1FDzSSg_lc/edit?usp=view), [Enriquecimento de dados](https://docs.google.com/presentation/d/1t5uwylSfE9oq-by8U1KSA44k9dBZ5upogj-17uqPE7U/edit?usp=view), [Movimentação de dados no Pentaho](https://docs.google.com/presentation/d/1KQiYOY-xh326Lg17JzbJ-I_rUp_KwVUPVxMsxLk9JBY/edit?usp=view), [Virtualização de dados](https://docs.google.com/presentation/d/1pORrFHFuKtOtydgtP0Eb0U7LvaEnypFVQezdb1GR1qQ/edit?usp=view), [Big data](https://docs.google.com/presentation/d/11dhwuhwERycOaKYhRdORX5ag7EZVz-3jqOpbhJwGdfQ/edit?usp=view). |
 |  12 | 29/10  | 3hs  | Orquestração, Dark Data, Data Lineage, Regressão Linear, Streamlit. [Caso de conversão de dados](https://docs.google.com/presentation/d/1OOfiEkjDdwqtPMWRRjKVYI3VM3KtqEjkEPoBJidoXmA/edit?usp=view), [Orquestração, storytelling, catélogo, dark data, dark lineage](https://docs.google.com/presentation/d/111Sw4ZUwnmFOrCpbtD5O6khFw6lFcTs_IjjmzPKk3-c/edit?usp=view), [Regressão linear](https://docs.google.com/presentation/d/12Zw4YreBC2uxmi-2FUGBK0-NjsgEIa0Qa6OfA1uHv1Y/edit?usp=view). https://github.com/monteiro74/exercicio_streamlit, https://exercicioapp-into-eng-dados-v2.streamlit.app/. |
 |  13 | 05/11  | 3hs  | [Bibliometria, infometria, RIS](https://docs.google.com/presentation/d/147qjKB3aldT3GaSY5_e7aE7MqvFjyqFHISg4sIE7j0Y/edit?usp=view), [Bibliometria com vozviewer](https://docs.google.com/presentation/d/11u8XBApK1rmx0MwXdWDkH5YBfkMjpmZTtuKtONbpGyA/edit?usp=view), [Data stream, Apache kafka, apache Spark](https://docs.google.com/presentation/d/1WzSjtYKeF_BOulmLM1pQiUMnPeKx8I8TQ7xqO313R88/edit?usp=view), [OpenRefine](https://docs.google.com/presentation/d/1lQSZXjPI1EvuOII05yQNn9E3ZA1yPtekCtLh8jntANw/edit?usp=view), [Qualidade de dados](https://docs.google.com/presentation/d/139O9bH8U2qsYt1xgpahb30zGH3MQycp_jjxTkHjUCLg/edit?usp=view). [HP BladeSystem c-Class enclosure](https://www.hp.com/ctg/Manual/c00815957.pdf), [HP blade system c7000](http://servidor-hp.com.co/netcomp/documentacion/hp-bladesystem-c7000-enclosure-servidor-manual-servidor-hp.com.co.pdf). |
-|  14 | 12/11  | 3hs  | [Governança](https://docs.google.com/presentation/d/1mMmISnwlh-6VVMzWaAz4KhANdTkg4Ware4gVMEsqOJ0/edit?usp=view). |
+|  14 | 12/11  | 3hs  | [Governança](https://docs.google.com/presentation/d/1UjkX4DeLv4hhVYUky--_gFp-BKFR1PwieiiFfzrGE38/edit?usp=view), [Tendências na área de eng. dados](https://docs.google.com/presentation/d/1OqAe_PBE3HunUUCkQ5bfOlqzhokaWSJy5NIZh4hhaJY/edit?usp=view). |
 |  15 | 19/11  | 3hs  | **Avaliação 3.** |
 
 
@@ -223,8 +228,6 @@ Artigo 2: [Engenharia de dados para extração de conhecimento na avaliação do
 Artigo 3: [A Importância da Análise de Dados na Engenharia de Produção](https://www.abepro.org.br/biblioteca/TN_STO_359_1852_42030.pdf).
 
 Artigo 4: [Ciência da informação e ciência de dados: convergência interdisciplinares](https://www.scielo.br/j/eb/a/rLCJY3rCQsTHC9cnmtMGsmb/?format=pdf&lang=pt).
-
-Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplicações na engenharia.](https://lcv.fee.unicamp.br/images/BTSym-19/Papers/166.pdf).
 
 
 ---
@@ -448,7 +451,7 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 
 
-### 📄 15. Exemplos usados em sala de aula 
+## 📄 15. Exemplos usados em sala de aula 
 
 Algoritmos classificadores, comparação:
 
@@ -461,11 +464,11 @@ Algoritmos classificadores, comparação:
 | **Random Forest**| Conjunto de árvores de decisão treinadas em subconjuntos dos dados | Alta acurácia; reduz overfitting; lida com dados desbalanceados           | Mais difícil de interpretar; pode ser computacionalmente custoso          | Situações onde acurácia é prioridade; dados ruidosos ou desbalanceados  |
 
 
-### 16. Assuntos diversos
+## 📄 16. Assuntos diversos
 
 
 ---
-#### 💬 Algoritmo Apriori
+##  💬 17. Algoritmo Apriori
 
 ```mermaid
 flowchart TD
@@ -487,7 +490,7 @@ flowchart TD
 ```
 
 ---
-#### 🛸 Exemplo de processo NLP
+## 🛸 18. Exemplo de processo NLP
 
 ```mermaid
 flowchart TD
@@ -502,7 +505,7 @@ flowchart TD
 
 
 
-#### 🛰️ Resumo sobre NLP:
+### 🛰️ 18.1. Resumo sobre NLP:
 
 Sentence Segmentation
 ➤ Divide o texto em frases distintas, identificando limites com base em pontuação e estrutura linguística.
@@ -525,13 +528,403 @@ Named Entity Recognition (NER)
 Coreference Resolution
 ➤ Detecta quando diferentes palavras ou pronomes se referem à mesma entidade (ex: "João saiu. Ele...").
 
-#### 🚀 Resumo comparativo de soluções Cloud
+## 🚀 19. Resumo comparativo de soluções Cloud
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg](https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/figura1.jpg)
+
+
+## :game_die: 20. Resumo de projetos Apache para engenharia de dados
+
+```mermaid
+
+
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#fff','primaryTextColor':'#000','primaryBorderColor':'#333','lineColor':'#333','secondaryColor':'#f4f4f4','tertiaryColor':'#fff','background':'#ffffff','mainBkg':'#ffffff','secondBkg':'#f9f9f9'}}}%%
+
+graph TD
+    Title["<b>PROJETOS APACHE PARA ENGENHARIA DE DADOS 2024-2025</b>"]
+    
+    Title --> Orchestration
+    Title --> Streaming
+    
+    subgraph Orchestration["🎯 CAMADA DE ORQUESTRAÇÃO"]
+        Airflow["<b>Apache Airflow</b><br/>Workflow Engine<br/>320M downloads/2024"]
+        DolphinScheduler["<b>Apache DolphinScheduler</b><br/>Visual Workflow<br/>Cloud Native"]
+    end
+    
+    Orchestration --> Integration
+    Orchestration --> Processing
+    
+    subgraph Streaming["🔥 CAMADA DE STREAMING"]
+        Kafka["<b>Apache Kafka</b><br/>Event Streaming<br/>Backbone de Dados"]
+        Pulsar["<b>Apache Pulsar</b><br/>Pub-Sub Messaging<br/>Multi-tenancy"]
+    end
+    
+    subgraph Integration["🔌 CAMADA DE INTEGRAÇÃO"]
+        NiFi["<b>Apache NiFi</b><br/>Data Flow<br/>Visual Integration"]
+        Flume["<b>Apache Flume</b><br/>Log Collection<br/>Distributed"]
+        Sqoop["<b>Apache Sqoop</b><br/>SQL Transfer<br/>Hadoop ↔ RDBMS"]
+    end
+    
+    Integration --> Processing
+    Streaming --> Processing
+    
+    subgraph Processing["⚡ CAMADA DE PROCESSAMENTO"]
+        Spark["<b>Apache Spark</b><br/>Batch & Stream<br/>In-Memory Processing"]
+        Flink["<b>Apache Flink</b><br/>Stream Processing<br/>Real-time"]
+        Beam["<b>Apache Beam</b><br/>Unified Model<br/>Batch + Stream"]
+        DataFusion["<b>Apache DataFusion</b><br/>Query Engine<br/>Rust-based TLP"]
+    end
+    
+    Processing --> Storage
+    Processing --> Analytics
+    
+    subgraph Storage["🗄️ CAMADA DE ARMAZENAMENTO"]
+        direction TB
+        subgraph TableFormats["Formatos de Tabela Lakehouse"]
+            Iceberg["<b>Apache Iceberg</b><br/>Table Format<br/>⭐ Líder 2024"]
+            Hudi["<b>Apache Hudi</b><br/>Table Format<br/>Real-time Ingestion"]
+            Paimon["<b>Apache Paimon</b><br/>Table Format<br/>Streaming Lakehouse"]
+        end
+        
+        subgraph FileFormats["Formatos de Arquivo"]
+            Parquet["<b>Apache Parquet</b><br/>Columnar Storage<br/>Comprimido"]
+            Arrow["<b>Apache Arrow</b><br/>In-Memory Format<br/>Cross-language"]
+            ORC["<b>Apache ORC</b><br/>Columnar Storage<br/>Otimizado Hive"]
+        end
+        
+        subgraph StorageSystems["Sistemas de Storage"]
+            HDFS["<b>Apache HDFS</b><br/>Distributed FS<br/>Hadoop Foundation"]
+            Cassandra["<b>Apache Cassandra</b><br/>NoSQL DB<br/>Wide Column"]
+            HBase["<b>Apache HBase</b><br/>NoSQL DB<br/>Column-oriented"]
+        end
+    end
+    
+    Storage --> Analytics
+    Storage --> DataWarehouse
+    
+    subgraph Analytics["📊 CAMADA DE ANALYTICS"]
+        Druid["<b>Apache Druid</b><br/>OLAP Database<br/>Real-time Analytics"]
+        Pinot["<b>Apache Pinot</b><br/>Real-time OLAP<br/>Sub-second Queries"]
+        Kylin["<b>Apache Kylin</b><br/>OLAP Cube<br/>Pre-computed"]
+    end
+    
+    subgraph DataWarehouse["🏞️ DATA WAREHOUSE"]
+        Hive["<b>Apache Hive</b><br/>Data Warehouse<br/>SQL on Hadoop"]
+        Impala["<b>Apache Impala</b><br/>MPP SQL Engine<br/>High Performance"]
+    end
+    
+    Analytics --> Visualization
+    DataWarehouse --> Visualization
+    
+    subgraph Visualization["📈 CAMADA DE VISUALIZAÇÃO"]
+        Superset["<b>Apache Superset</b><br/>BI Platform<br/>Open Source"]
+    end
+    
+    Storage --> Metadata
+    
+    subgraph Metadata["🗂️ CAMADA DE METADADOS & GOVERNANÇA"]
+        Gravitino["<b>Apache Gravitino</b><br/>Unified Metastore<br/>⭐ TLP 2025"]
+        XTable["<b>Apache XTable</b><br/>Format Converter<br/>Bi-directional"]
+        Atlas["<b>Apache Atlas</b><br/>Data Governance<br/>Metadata Framework"]
+    end
+    
+    %% Estilos com fundo branco
+    classDef default fill:#ffffff,stroke:#333,stroke-width:2px,color:#000
+    classDef highlight fill:#e3f2fd,stroke:#1976d2,stroke-width:3px,color:#000
+    classDef leader fill:#fff3e0,stroke:#f57c00,stroke-width:3px,color:#000
+    classDef new fill:#f3e5f5,stroke:#7b1fa2,stroke-width:3px,color:#000
+    
+    class Iceberg,Gravitino leader
+    class Airflow,Kafka,Spark highlight
+    class Paimon,DataFusion new
+    class Title default
+
+
+```
+
+
+---
+### :game_die: 20.1. Outra forma de vialização
+
+
+#### 20.1.1. Mapa de Projetos Apache com Funções Similares
+
+> Diagrama em **Markdown + Mermaid** agrupando projetos da Apache Software Foundation por função e destacando grupos com tarefas similares.
+
+```mermaid
+graph LR
+  %% Layout simples e compatível
+
+  %% 1) Ingestão & Mensageria
+  subgraph A_Ingestao_e_Mensageria
+    Kafka((Kafka))
+    Pulsar((Pulsar))
+    RocketMQ((RocketMQ))
+    ActiveMQ((ActiveMQ_Artemis))
+    NiFi([NiFi])
+    Camel([Camel])
+
+    Kafka --- Pulsar --- RocketMQ
+    ActiveMQ --- Camel
+    NiFi --- Camel
+  end
+
+  %% 2) Processamento (Batch e Streaming)
+  subgraph B_Processamento_Batch_e_Streaming
+    Flink((Flink))
+    Spark((Spark))
+    Beam((Beam))
+    Storm((Storm))
+    Samza((Samza))
+
+    Flink --- Spark --- Beam
+    Storm --- Samza
+  end
+
+  %% 3) Armazenamento & Formatos
+  subgraph C_Armazenamento_e_Formatos
+    Iceberg((Iceberg))
+    Hudi((Hudi))
+    Hive((Hive))
+
+    Parquet[Parquet]
+    ORC[ORC]
+    Avro[Avro]
+    Arrow[Arrow]
+
+    Iceberg --- Hudi --- Hive
+    Parquet --- ORC
+    Avro --- Arrow
+  end
+
+  %% 4) Orquestração
+  subgraph D_Orquestracao
+    Airflow((Airflow))
+    Dolphin((DolphinScheduler))
+    Oozie((Oozie))
+
+    Airflow --- Dolphin --- Oozie
+  end
+
+  %% 5) SQL & Query Engines
+  subgraph E_SQL_e_Query_Engines
+    Drill((Drill))
+    Presto((Presto_ou_Trino))
+    Impala((Impala))
+    Calcite[Calcite]
+
+    Drill --- Presto --- Impala
+    Calcite -. usado_por .-> Drill
+    Calcite -. usado_por .-> Flink
+    Calcite -. usado_por .-> Hive
+  end
+
+  %% 6) Governança & Segurança
+  subgraph F_Governanca_e_Seguranca
+    Atlas((Atlas))
+    Ranger((Ranger))
+    Knox((Knox))
+    Sentry((Sentry))
+
+    Atlas --- Ranger --- Knox --- Sentry
+  end
+
+  %% 7) Infra & Bancos (Big Data)
+  subgraph G_Infra_e_Bancos
+    Hadoop((Hadoop_HDFS))
+    HBase((HBase))
+    Cassandra((Cassandra))
+    Kudu((Kudu))
+    Druid((Druid))
+
+    Hadoop --- HBase
+    Hadoop --- Kudu
+    Cassandra --- Kudu
+    Druid
+  end
+
+  %% 8) Visualização & Notebooks
+  subgraph H_Visualizacao_e_Notebooks
+    Superset((Superset))
+    Zeppelin((Zeppelin))
+
+    Superset --- Zeppelin
+  end
+
+  %% Conexões entre camadas (exemplo conceitual)
+  Kafka --> Flink
+  Pulsar --> Flink
+  NiFi --> Flink
+  Flink --> Iceberg
+  Spark --> Iceberg
+  Iceberg --> Presto
+  Iceberg --> Drill
+  Hive --> Presto
+  Airflow -. orquestra .-> Flink
+  Airflow -. orquestra .-> Spark
+  Atlas -. catalogo_linhagem .-> Hive
+  Ranger -. seguranca .-> Hive
+```
+
+
+**Legenda rápida**
+
+* **Arestas sólidas (---)**: projetos com *funções similares* ou forte sobreposição.
+* **Arestas pontilhadas (-.-)**: dependência/uso/integração típica (ex.: orquestração, catálogo, segurança).
+* **Nós arredondados**: motores/plataformas principais.
+* **Nós retangulares**: formatos de arquivo ou bibliotecas.
+
+
+#### 20.1.2. Outra forma de visualização
+
+
+
+```mermaid
+
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#fff','primaryTextColor':'#000','primaryBorderColor':'#333','lineColor':'#666','secondaryColor':'#f8f9fa','tertiaryColor':'#fff','background':'#ffffff','mainBkg':'#ffffff','secondBkg':'#f0f0f0'}}}%%
+
+graph LR
+    subgraph Input["📥 CAMADA DE ENTRADA"]
+        direction TB
+        K1["<b>Apache Kafka</b><br/>Event Streaming"]
+        P1["<b>Apache Pulsar</b><br/>Messaging"]
+        N1["<b>Apache NiFi</b><br/>Data Flow"]
+        F1["<b>Apache Flume</b><br/>Log Collection"]
+        S1["<b>Apache Sqoop</b><br/>RDBMS Transfer"]
+    end
+    
+    subgraph Orchestrate["🎯 ORQUESTRAÇÃO"]
+        direction TB
+        A1["<b>Apache Airflow</b><br/>⭐ 320M downloads"]
+        D1["<b>Apache DolphinScheduler</b><br/>Cloud Native"]
+    end
+    
+    subgraph Process["⚡ PROCESSAMENTO"]
+        direction TB
+        
+        subgraph Batch["Batch Processing"]
+            SP1["<b>Apache Spark</b><br/>⭐ In-Memory"]
+            B1["<b>Apache Beam</b><br/>Unified API"]
+        end
+        
+        subgraph Stream["Stream Processing"]
+            FL1["<b>Apache Flink</b><br/>⭐ Real-time"]
+            DF1["<b>Apache DataFusion</b><br/>Rust Query Engine"]
+        end
+    end
+    
+    subgraph Store["🗄️ ARMAZENAMENTO"]
+        direction TB
+        
+        subgraph Lakehouse["🏞️ Data Lakehouse"]
+            I1["<b>Apache Iceberg</b><br/>⭐ Líder 2024"]
+            H1["<b>Apache Hudi</b><br/>Upserts/Deletes"]
+            PA1["<b>Apache Paimon</b><br/>Streaming Tables"]
+        end
+        
+        subgraph Warehouse["🏛️ Data Warehouse"]
+            HV1["<b>Apache Hive</b><br/>SQL on Hadoop"]
+            IM1["<b>Apache Impala</b><br/>MPP Engine"]
+        end
+        
+        subgraph NoSQL["💾 NoSQL Databases"]
+            C1["<b>Apache Cassandra</b><br/>Wide Column"]
+            HB1["<b>Apache HBase</b><br/>Column Family"]
+        end
+        
+        subgraph Files["📦 File Formats"]
+            PR1["<b>Apache Parquet</b><br/>Columnar"]
+            AR1["<b>Apache Arrow</b><br/>In-Memory"]
+            OR1["<b>Apache ORC</b><br/>Optimized"]
+        end
+        
+        subgraph DFS["💿 File Systems"]
+            HD1["<b>Apache HDFS</b><br/>Distributed FS"]
+        end
+    end
+    
+    subgraph Analyze["📊 ANALYTICS"]
+        direction TB
+        
+        subgraph OLAP["OLAP Engines"]
+            DR1["<b>Apache Druid</b><br/>Real-time"]
+            PI1["<b>Apache Pinot</b><br/>Sub-second"]
+            KY1["<b>Apache Kylin</b><br/>OLAP Cubes"]
+        end
+    end
+    
+    subgraph Govern["🔐 GOVERNANÇA"]
+        direction TB
+        G1["<b>Apache Gravitino</b><br/>⭐ TLP 2025<br/>Unified Metastore"]
+        X1["<b>Apache XTable</b><br/>Format Converter"]
+        AT1["<b>Apache Atlas</b><br/>Metadata & Lineage"]
+    end
+    
+    subgraph Output["📤 CAMADA DE SAÍDA"]
+        direction TB
+        SU1["<b>Apache Superset</b><br/>BI & Visualization"]
+    end
+    
+    %% Fluxo principal
+    Input --> Orchestrate
+    Orchestrate --> Process
+    Process --> Store
+    Store --> Analyze
+    Analyze --> Output
+    
+    %% Governança conecta com Storage
+    Store -.-> Govern
+    Govern -.-> Store
+    
+    %% Relacionamentos específicos
+    K1 --> FL1
+    K1 --> SP1
+    
+    SP1 --> I1
+    FL1 --> I1
+    FL1 --> PA1
+    
+    I1 --> DR1
+    I1 --> PI1
+    HV1 --> KY1
+    
+    DR1 --> SU1
+    PI1 --> SU1
+    
+    %% Estilos
+    classDef inputStyle fill:#e3f2fd,stroke:#1976d2,stroke-width:2px,color:#000
+    classDef orchestrateStyle fill:#fff3e0,stroke:#f57c00,stroke-width:2px,color:#000
+    classDef processStyle fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#000
+    classDef storeStyle fill:#e8f5e9,stroke:#388e3c,stroke-width:2px,color:#000
+    classDef analyzeStyle fill:#fce4ec,stroke:#c2185b,stroke-width:2px,color:#000
+    classDef governStyle fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#000
+    classDef outputStyle fill:#e0f2f1,stroke:#00796b,stroke-width:2px,color:#000
+    classDef highlight fill:#ffeb3b,stroke:#f57c00,stroke-width:3px,color:#000
+    
+    class Input,K1,P1,N1,F1,S1 inputStyle
+    class Orchestrate,A1,D1 orchestrateStyle
+    class Process,Batch,Stream,SP1,B1,FL1,DF1 processStyle
+    class Store,Lakehouse,Warehouse,NoSQL,Files,DFS storeStyle
+    class Analyze,OLAP,DR1,PI1,KY1 analyzeStyle
+    class Govern,G1,X1,AT1 governStyle
+    class Output,SU1 outputStyle
+    class I1,A1,G1 highlight
+
+```
+
+---
+## 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+
 
 
 
 
 ---
-### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+### Exercício final de recuperação
 
+1. Coloque um servidor MySQL para rodar
+2. Crie dois bancos de dados: banco_1 e banco_2
+3. importe para o banco de dados: banco_1o arquivo: cnaes_export.csv
+4. copie a tabela cane_export do banco_1 para o banco_2
+5. no banco_2 execute um select mostrando todos os dados dessa tabela
+6. Use a ferramenta que desejar para mover os dados da tabela entre os bancos 1 e 2, como: HeidiSQL, DBeaver, MySQL Workbench, phpMyAdmin

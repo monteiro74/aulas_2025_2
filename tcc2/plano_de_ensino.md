@@ -13,7 +13,6 @@
 - [:date: 3. Datas de avaliações](#date-3-datas-de-avaliações)
 - [:books: 4. Referências](#books-4-referências)
 - [💾 5. Arquivos](#-5-arquivos)
-  - [5.1. Templates de documentos:](#51-templates-de-documentos)
 - [:alarm\_clock: 6. Professores x áreas de orientação](#alarm_clock-6-professores-x-áreas-de-orientação)
   - [🧑‍🎓 6.1. Relação Aluno x Professor x Tema:](#-61-relação-aluno-x-professor-x-tema)
 - [📆 7. Calendário geral](#-7-calendário-geral)
@@ -30,6 +29,7 @@
 - [🧱 11. Ordem de entrega de documentos:](#-11-ordem-de-entrega-de-documentos)
 - [12. Estatísticas de TCC](#12-estatísticas-de-tcc)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
+
 
 
 ---
@@ -119,24 +119,16 @@ https://www.instagram.com/p/DEpsW-PhgFo/?img_index=6
 ---
 ## 💾 5. Arquivos
 
-https://drive.google.com/drive/folders/1fYyjmitE3Shpln3Hpk5wBf_6x-j8aZGx
-
-
-### 5.1. Templates de documentos:
-
-
 
 Links para os documentos de TCC2:
 
 1. No link tree do curso: https://linktr.ee/si.unemat
 ou
-2. No Sigaa (na disciplina de TCC).
+2. No Sigaa (na disciplina de TCC)
 ou
-3. No Google drive (acesso com sua conta institucional): https://drive.google.com/drive/folders/1NfqMijrwuFmZLY2yDSfNDqL6Z1vvJUvQ
+3. No repositório da disciplina: https://github.com/monteiro74/aulas_2025_2/tree/main/tcc2
 ou
-4. No repositório da disciplina: https://github.com/monteiro74/aulas_2025_2/tree/main/tcc2
-
-5. O template de artigo do TCC 2 no Overleaf: https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr
+4. O template de artigo do TCC 2 no Overleaf: https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr
 
 
 
@@ -211,17 +203,11 @@ No momento os professores que temos no curso são:
 ---
 ## 📆 7. Calendário geral
 
-
-
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto2.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/agosto2.png?raw=true)
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/setembro.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/setembro.png?raw=true)
 
-
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/outubro.png?raw=true)
-
-
-![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro2.png?raw=true](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/novembro2.png?raw=true)
 
 ![https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/calendario_novembro_dezembro_v2.png](https://github.com/monteiro74/aulas_2025_2/blob/main/calendarios/calendario_novembro_dezembro_v2.png)
 

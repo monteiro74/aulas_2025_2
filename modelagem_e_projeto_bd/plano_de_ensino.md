@@ -134,7 +134,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 11  | 23/10 | 3hs | Blockchain. [Blockchain](https://docs.google.com/presentation/d/199hQRI61fPm_AdWyBmB8Kjzi0h5tGygUwicFHoYowRY/edit?usp=view),[Lab com Multichain](https://docs.google.com/presentation/d/1QQy3NviUofkljxXjBsskmZmS90hyXFIYoP5jdgxXA74/edit?usp=view). [HP BladeSystem c-Class enclosure](https://www.hp.com/ctg/Manual/c00815957.pdf), [HP blade system c7000](http://servidor-hp.com.co/netcomp/documentacion/hp-bladesystem-c7000-enclosure-servidor-manual-servidor-hp.com.co.pdf). |
 | 12  | 30/10 | 3hs | Blockchain, NoSQL e bancos distribuídos. [Bancos de dados distribuídos](https://docs.google.com/presentation/d/1w7q3YINjzry0bFyrpecR1zffFR8vpJSfk4L5h2lpAaY/edit?usp=view), [Bancos NoSQL](https://docs.google.com/presentation/d/1zAGhhg8T9bBb_wOhXX5PdU_6fxmzSqPW8-G60hf3AY4/edit?usp=view), [Multichain](https://docs.google.com/presentation/d/1kSaqKg_RuXaZXABxAd4Ta9mQWpnMIWVeR1sgGV-xbUs/edit?usp=view). |
 | 13  | 06/11 | 3hs | [Vetoriais, Blockchain de 2ª camada, Blockchain no DB,  bancos multi modelo, tendências, artigos, FISCO BCOS, ML, permissões no MySQL](https://docs.google.com/presentation/d/1ZRj6Vkdgu4NvnNKtCDhAvmuKExzTtVoT-VZA2N0evw0/edit?usp=view), [OLTP para OLAP](https://docs.google.com/presentation/d/1gfw8mNNbFf6zYxsOkprSbM4ONYfYNtQNBtzeJ5N2c_k/edit?usp=view), [Modelagem MongoDB](https://docs.google.com/presentation/d/11JD0BFoLe8SIqiIsKvG-RlpYAZqT_ZWzUrXJlAkTOCE/edit?usp=view). |
-| 14  | 13/11 | 3hs | Migração OLTP para OLAP. Dados Abertos. |
+| 14  | 13/11 | 3hs | Revisão para avaliação.
+ |
 |   | 20/11 |  | Feriado |
 | 15  | 27/11 |  | **Avaliação 3** |
 

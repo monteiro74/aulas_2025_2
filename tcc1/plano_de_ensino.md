@@ -2,6 +2,7 @@
 
 * FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2025.2)
 
+
 - [:game\_die: 1. Turma: TCC1 FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2025.2)](#game_die-1-turma-tcc1-facet-snp-336---trabalho-de-conclusão-de-curso-i---t01-20252)
   - [:watch: 1.1. Carga Horária Total: 30](#watch-11-carga-horária-total-30)
   - [:hourglass\_flowing\_sand: 1.2. Horário: 30 horas.](#hourglass_flowing_sand-12-horário-30-horas)
@@ -36,6 +37,7 @@
 - [🧱 12. Ordem e janelas de entrega de documentos:](#-12-ordem-e-janelas-de-entrega-de-documentos)
 - [13. Estatísticas de TCC](#13-estatísticas-de-tcc)
   - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
+
 
 
 
@@ -126,8 +128,6 @@ https://www.instagram.com/p/DEpsW-PhgFo/?img_index=6
 ---
 ## 💾 5. Arquivos
 
-https://drive.google.com/drive/folders/1fYyjmitE3Shpln3Hpk5wBf_6x-j8aZGx
-
 
 ### 5.1. Templates de documentos:
 
@@ -137,11 +137,9 @@ Links para os documentos de TCC1:
 ou
 2. No Sigaa (na disciplina de TCC).
 ou
-3. No Google drive (acesso com sua conta institucional): https://drive.google.com/drive/folders/1fYyjmitE3Shpln3Hpk5wBf_6x-j8aZGx
-ou
-4. No repositório da disciplina: https://github.com/monteiro74/aulas_2025_2/tree/main/tcc1
+3. No repositório da disciplina: https://github.com/monteiro74/aulas_2025_2/tree/main/tcc1
 
-5. O template de projeto do TCC 1 no Overleaf: https://www.overleaf.com/read/nbdjpvwkjdjy#44d1b3
+4. O template de projeto do TCC 1 no Overleaf: https://www.overleaf.com/read/nbdjpvwkjdjy#44d1b3
 
 ---
 ## :alarm_clock: 6. Professores x áreas de orientação
@@ -472,4 +470,5 @@ https://docs.google.com/presentation/d/1NLFbsbOinrP0NqKC8VaQsYR-GuMs4ry-J5gads-L
 
 ---
 ### 💻 [Ícones usados nesta página](https://github.com/ikatyang/emoji-cheat-sheet)
+
 

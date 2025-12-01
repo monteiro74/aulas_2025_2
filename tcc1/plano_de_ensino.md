@@ -206,7 +206,7 @@ No momento os professores que temos no curso são:
 |31| 20230011076 |SANDY HIKARU HONDA	            | Ramilton Costa Gomes Junior | Sistema de gerenciamento de processos imobiliários | ✔️| ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |32| 2021076686  |THIAGO LEAL DE SOUSA ARAUJO     | |	  | | | |
 |33| 2019171452  |THIAGO SMERDECK PEREIRA	        | Benevid Felix da Silva | Sistema de baixo custo para monitoramento térmico de centros de processamento de dados |✔️ | | |
-|34| 20220016426 |VINÍCIUS FREITAS	              |João Ricardo Dos Santos Rosa  |Gamificação em ambientes educacionais com Godot |✔️ | | |
+|34| 20220016426 |VINÍCIUS FREITAS	              |João Ricardo Dos Santos Rosa  |Gamificação em ambientes educacionais com Godot |✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |35| 20230013295 |VITOR EMANUEL SILVA SAUZEN      | Ivan Luiz Pedroso Pires |	Backend de uma plataforma digital inteligente para rastreabilidade e governança de resíduos da construção civil | ✔️ | | |
 |36| 2018165103  |VITOR FORTUNATO DE OLIVEIRA	    | Elias Antônio Morgan| Inteligência artificial e sociedade: Análise de como a IA pode afetar a sociedade e propostas para sua regulação | ✔️ |  | |
 |37| 20230006049 |VITOR RODRIGO FRAILLE PEREIRA	  | Benevid Felix da Silva | Hidrômetro digital inteligente para condomínios |✔️ | | |

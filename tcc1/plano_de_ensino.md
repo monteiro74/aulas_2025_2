@@ -175,10 +175,10 @@ No momento os professores que temos no curso são:
 |--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|
 |1 |2019274948   |ANA KAROLINE DA SILVA DE SOUSA  | Juliano Fernandes de Avila | Sistema tutor e petsitters | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br>  | ❓projeto tcc1 versão corrigida + ata <br>|
 |2 |20230004723  |BRUNO BORCARDT RAMOS            | Ramilton Costa Gomes Junior| Tecnocracia Excludente e Inclusão Digital: Desenvolvimento de uma Ferramenta Open-Source para Autoria de Websites Acessíveis, da área de acessibilidade, usabilidade e user eXperience | ✔️ | ❌Relatório de acompanhamento <br> ✅ Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
-|3 |20230006577  |CAMILA WEBER	                  | Emiliano Soares Monteiro | Clifo: Sistema de Gestão de Clientes e Finanças para um MEI de Assistência Técnica em Eletrônicos | ✔️ |  | |
-|4 | 2021069467  |CARLOS EDUARDO C. DA SILVA      | Benevid Felix da Silva | Assistente Virtual Especializado em Drywall e Steel Frame | ✔️ | | |
+|3 |20230006577  |CAMILA WEBER	                  | Emiliano Soares Monteiro | Clifo: Sistema de Gestão de Clientes e Finanças para um MEI de Assistência Técnica em Eletrônicos | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
+|4 | 2021069467  |CARLOS EDUARDO C. DA SILVA      | Benevid Felix da Silva | Assistente Virtual Especializado em Drywall e Steel Frame | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |5 | 20230006675 |DARY GUSTAVO DA SILVA	          | Benevid Felix da Silva | Gerenciamento de Dispositivos IOT com LoRa | ✔️ | | |
-|6 | 20230021027 |ELBER LUCAS ALVES BARBOZA       | Ramilton Costa Gomes Junior |	Campo Tático com IA  | ✔️ | | |
+|6 | 20230021027 |ELBER LUCAS ALVES BARBOZA       | Ramilton Costa Gomes Junior |	Campo Tático com IA  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br>| ❓projeto + ata <br> |
 |7 | 20230012850 |EMANUEL ESTEVAM DE O. DUTRA     | Ivan Luiz Pedroso Pires | Frontend Para Plataforma Digital Colaborativa para Gestão Sustentável de Resíduos da Construção Civil |	✔️| | |
 |8 | 2021057751  |EMANUELLE ANJOLIN ZUNTINI	      | Benevid Felix da Silva | Aplicação de Modelos de Linguagem (LLM) para Automação do Atendimento Comercial em Concessionárias. | ✔️ | | |
 |9 | 2017159001  |GABRIEL BEREGULA GOMES	        |  |  | | | |

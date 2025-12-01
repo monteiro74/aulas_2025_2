@@ -184,7 +184,7 @@ No momento os professores que temos no curso são:
 |9 | 2017159001  |GABRIEL BEREGULA GOMES	        |  |  | | | |
 |10| 20220001773 |GABRIEL DE ALMEIDA MORAES       | Maicon Aparecido Sartin | Investigação de modelo de visão computacional para reconhecimento de comida | ✔️ | | |
 |11| 2017262840  |GLADSON JAIR BENTZ	            | Janecler Foppa | Detecção de Gases Baseado em Princípio Biomimético | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆projeto + ata |
-|12| 20230021439 |GUILHERME HENRIQUE A. X. DE OLIVEIRA	| João Ricardo Dos Santos Rosa | Exploração de Estéticas Retrô na Unity: Manipulação Artística de Técnicas Gráficas do Estilo PSX e Nintendo 64 | ✔️ | | |
+|12| 20230021439 |GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA	| João Ricardo Dos Santos Rosa | Exploração de Estéticas Retrô na Unity: Manipulação Artística de Técnicas Gráficas do Estilo PSX e Nintendo 64 | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |13| 20230004948 |GUILLERMO GILIOLI DE PAULA COELHO	| João Ricardo Dos Santos Rosa | Estratégias para aprimorar a experiência do usuário em jogos Metroidvania 3D | ✔️ | | |
 |14| 2021069402  |HELLIELTON SANTOS DOS REIS	    | Juliano Fernandes de Avila | Inteligência artificial na contabilidade para otimização de processos| ✔️ | | |
 |15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	  | João Ricardo Dos Santos Rosa | Acessibilidade visual em jogos digitais: avaliação de um recurso para jogadores com Daltonismo a partir de um protótipo experimental. | ✔️ | | |

@@ -189,7 +189,7 @@ No momento os professores que temos no curso são:
 |14| 2021069402  |HELLIELTON SANTOS DOS REIS	    | Juliano Fernandes de Avila | Inteligência artificial na contabilidade para otimização de processos| ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |15|20230004966  |ÍCARO GABRIEL ALVES DOS REIS	  | João Ricardo Dos Santos Rosa | Acessibilidade visual em jogos digitais: avaliação de um recurso para jogadores com Daltonismo a partir de um protótipo experimental. | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |16| 20230046394 |IZABELA AMARAL DE SOUZA	        | Maicon Aparecido | Desempenho de modelos de redes neurais aplicados à estimativa do índice de clorifila foliar em cafezais. | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
-|17| 20220037810 |JANAINA LIMA VIANA	            | Ivan Luiz Pedroso Pires | Sistema web para gestão de mapas e relatórios agrícolas  | ✔️ | | |
+|17| 20220037810 |JANAINA LIMA VIANA	            | Ivan Luiz Pedroso Pires | Sistema web para gestão de mapas e relatórios agrícolas  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ        | Emiliano Soares Monteiro| Sistema de gestão de débito para clínicas médicas, odontológicas, estáticas e outras |✔️ | | |
 |19| 2017158978  |JOÃO PAULO CAVALCANTE ZANATTA   | |	 | |
 |20| 2021076603  |JOÃO VITOR THEODORO DE SOUZA	  | Benevid Felix da Silva | Fluxo online de denúncias e feedbacks para problemas urbanos em Sinop. |✔️ | | |

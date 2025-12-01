@@ -200,7 +200,7 @@ No momento os professores que temos no curso são:
 |25| 20230011011 |NATAN DE ALMEIDA BENITES	      | Ramilton Costa Gomes Junior | Ransomware: Conceitos, implementação e estratégias de defesa | | | |
 |26| 20230009247 |OTAVIO MANIEZZO MILAN	          | João Ricardo Dos Santos Rosa | Otimização do carregamento de áreas interconectadas em jogos Metroidvania 3D: Abordagem para previnir quedas de desempenho |✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |27| 20230048639 |PEDRO SALVADOR DE ARAUJO	      | Juliano Fernandes de Avila | Gestão de contrato de locação | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
-|28| 2021027108  |RAFAELA BOHRER	                | Elisangela Dias Brugnera | Literacia Digital: Um compilado de jogos digitais para educação | ✔️ | ✅Relatório de acompanhamento <br> | ❌Autorização para banca <br> 1a versão <br> |
+|28| 2021027108  |RAFAELA BOHRER	                | Elisangela Dias Brugnera | Literacia Digital: Um compilado de jogos digitais para educação | ✔️ | ✅Relatório de acompanhamento <br> ❌Autorização para banca <br> ✅1a versão <br> | 🏆projeto + ata <br> |
 |29| 20230041164 |RYLLER BRITO PEREIRA            | Elisangela Dias Brugnera| Avaliação da experiência do usuário (UX) e do design de interação (IX) no aplicativo móvel do sigaa da unemat sob a perspectiva da interação humano computador | ✔️	 | | |
 |30| 20220056913 |SALATIEL BONFIM GOMES	          |  |  | | | |
 |31| 20230011076 |SANDY HIKARU HONDA	            | Ramilton Costa Gomes Junior | Sistema de gerenciamento de processos imobiliários | ✔️| | |

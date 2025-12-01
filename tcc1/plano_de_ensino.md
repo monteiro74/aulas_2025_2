@@ -192,7 +192,7 @@ No momento os professores que temos no curso são:
 |17| 20220037810 |JANAINA LIMA VIANA	            | Ivan Luiz Pedroso Pires | Sistema web para gestão de mapas e relatórios agrícolas  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |18| 20230005023 |JOÃO LUIZ RODIGHERO TELÓ        | Emiliano Soares Monteiro| Sistema de gestão de débito para clínicas médicas, odontológicas, estáticas e outras |✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |19| 2017158978  |JOÃO PAULO CAVALCANTE ZANATTA   | |	 | |
-|20| 2021076603  |JOÃO VITOR THEODORO DE SOUZA	  | Benevid Felix da Silva | Fluxo online de denúncias e feedbacks para problemas urbanos em Sinop. |✔️ | | |
+|20| 2021076603  |JOÃO VITOR THEODORO DE SOUZA	  | Benevid Felix da Silva | Fluxo online de denúncias e feedbacks para problemas urbanos em Sinop. |✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |21| 20220021293 |JULIO CESAR COLLI	              | Juliano Fernandes de Avila | O processo de inclusão digital em escolas de Mato Grosso | ✔️ | | |
 |22| 20230023649 |KAIKY MARÇAL FERREIRA           | João Ricardo Dos Santos Rosa | Desafios no design de IA de perseguição em Metroidvanias: Como mitigar comportamentos emergentes indesejados que quebram a imersão e a dificuldade | ✔️ | | |
 |23| 20230005088 |KENNY AMABILE DA ROCHA	        | Benevid Felix da Silva | Sistema de monitoramento de servidores baseado em IoT: Uma abordagem com ESP32 para temperatura, umidade e fumaça. | ✔️ | | |

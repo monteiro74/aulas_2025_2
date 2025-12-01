@@ -212,7 +212,7 @@ No momento os professores que temos no curso são:
 |37| 20230006049 |VITOR RODRIGO FRAILLE PEREIRA	  | Benevid Felix da Silva | Hidrômetro digital inteligente para condomínios |✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |38| 20230006067 |WESLEY RODRIGO BARBOSA MAFRA	  | Ramilton Costa Gomes Junior | Semáforos inteligentes baseados em ia aplicada à visão computacional  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |39| 20230020039 |WILLEN SILVA DE SOUZA	          | Elias Antônio Morgan | Estudo sobre os benefícios da implantação de chatbots integrados com inteligência artificial no âmbito empresarial | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
-|40| 2018165108  |WILLIAN DE CARVALHO NOGUEIRA    | Janecler Foppa | Simulados online do Revalida: Extração, organização e aplicação de questões em ambiente web | ✔️ | | |
+|40| 2018165108  |WILLIAN DE CARVALHO NOGUEIRA    | Janecler Foppa | Simulados online do Revalida: Extração, organização e aplicação de questões em ambiente web | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 
 [^1]: 1ª entrega: Final de Agosto/Início de Setembro.<br>
 

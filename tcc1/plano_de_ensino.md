@@ -207,10 +207,10 @@ No momento os professores que temos no curso são:
 |32| 2021076686  |THIAGO LEAL DE SOUSA ARAUJO     | |	  | | | |
 |33| 2019171452  |THIAGO SMERDECK PEREIRA	        | Benevid Felix da Silva | Sistema de baixo custo para monitoramento térmico de centros de processamento de dados |✔️ | | |
 |34| 20220016426 |VINÍCIUS FREITAS	              |João Ricardo Dos Santos Rosa  |Gamificação em ambientes educacionais com Godot |✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
-|35| 20230013295 |VITOR EMANUEL SILVA SAUZEN      | Ivan Luiz Pedroso Pires |	Backend de uma plataforma digital inteligente para rastreabilidade e governança de resíduos da construção civil | ✔️ | | |
+|35| 20230013295 |VITOR EMANUEL SILVA SAUZEN      | Ivan Luiz Pedroso Pires |	Backend de uma plataforma digital inteligente para rastreabilidade e governança de resíduos da construção civil | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |36| 2018165103  |VITOR FORTUNATO DE OLIVEIRA	    | Elias Antônio Morgan| Inteligência artificial e sociedade: Análise de como a IA pode afetar a sociedade e propostas para sua regulação | ✔️ |  | |
-|37| 20230006049 |VITOR RODRIGO FRAILLE PEREIRA	  | Benevid Felix da Silva | Hidrômetro digital inteligente para condomínios |✔️ | | |
-|38| 20230006067 |WESLEY RODRIGO BARBOSA MAFRA	  | Ramilton Costa Gomes Junior | Semáforos inteligentes baseados em ia aplicada à visão computacional  | ✔️ | | |
+|37| 20230006049 |VITOR RODRIGO FRAILLE PEREIRA	  | Benevid Felix da Silva | Hidrômetro digital inteligente para condomínios |✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
+|38| 20230006067 |WESLEY RODRIGO BARBOSA MAFRA	  | Ramilton Costa Gomes Junior | Semáforos inteligentes baseados em ia aplicada à visão computacional  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓projeto + ata <br> |
 |39| 20230020039 |WILLEN SILVA DE SOUZA	          | Elias Antônio Morgan | Estudo sobre os benefícios da implantação de chatbots integrados com inteligência artificial no âmbito empresarial | ✔️ | | |
 |40| 2018165108  |WILLIAN DE CARVALHO NOGUEIRA    | Janecler Foppa | Simulados online do Revalida: Extração, organização e aplicação de questões em ambiente web | ✔️ | | |
 

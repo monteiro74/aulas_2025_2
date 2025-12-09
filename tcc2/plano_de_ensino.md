@@ -190,12 +190,12 @@ No momento os professores que temos no curso são:
 |24| 2018165940  |MARCOS JUNIOR DA SILVA	        | João Ricardo Dos Santos Rosa | Estudo de usabilidade da plataforma Lattes: Identificação de barreiras e propostas de redesign |✔️ | | |
 |25| 2018165059  |MARIA THAIS SILVA MARQUES       | Tales Nereu Bogoni | Desenvolvimento de uma aplicação mobile para consulta de horários de missas na cidade de Sinop - MT | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 |26| 20220016346 |MATHEUS LEANDRO HOLOWKA	        | Emiliano Soares Monteiro | DIMA - Dashboard integrado de métricas de atendimento, da área de computação aplicada | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|27| 20220002556 |MATHEUS REIS BARROS	            | Elias Antônio Morgan | Sistema Para Escolinhas de Futebol | ✔️ | | |
+|27| 20220002556 |MATHEUS REIS BARROS	            | Elias Antônio Morgan | Sistema Para Escolinhas de Futebol | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 |28| 2018165439  |MAURÍCIO ROBERTO P. FILHO	      | Ramilton Costa Gomes Junior | Regressão linear como ferramenta para modelos de predição em machine learning  | ✔️ | | |
 |29| 2021034499  |MAYCON R. BRUGNERA VASCONCELLOS	| Ramilton Costa Gomes Junior | App Inclusivo: Descrição de imagens para pessoas com deficiência visual | ✔️ | | |
 |30| 2017158979  |PAULO CÉSAR MARTINS PORTILHO	  | |  |  | | |
-|31| 2019171804  |ROBERTO DOS SANTOS FILHO	      | Elias Antônio Morgan | Solução para gestão de vulnerabilidades e mitigação de ameaças cibernéticas | ✔️ | | |
-|32| 2013123533  |VAGNO VALADARES DA COSTA	      | Juliano Fernandes de Avila | Realidade Aumentada como Ferramenta Pedagógica | ✔️ | | |
+|31| 2019171804  |ROBERTO DOS SANTOS FILHO	      | Elias Antônio Morgan | Solução para gestão de vulnerabilidades e mitigação de ameaças cibernéticas | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
+|32| 2013123533  |VAGNO VALADARES DA COSTA	      | Juliano Fernandes de Avila | Realidade Aumentada como Ferramenta Pedagógica | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 |33| 2019171149  |VINÍCIUS VIVAN DE LIMA	        | Benevid Feliz da Silva | Especialização de modelos de IA: Fine-tuning aplicado a documentos corporativos. | ✔️ | | |
 |34| 2019274896  |VITOR ROBERTO BISPO DOS SANTOS	|  Benevid Feliz da Silva  | Gestão de romoaneio  | ✔️ | | |
 |35| 2021018341  |WINY ZANIN                      | Ivan Luiz Pedroso Pires| Smart Drawer: Backend para sistema ciberfísico de reservas e acesso automatizado  | ✔️ | | |

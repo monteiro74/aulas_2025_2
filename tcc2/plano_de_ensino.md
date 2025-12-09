@@ -182,7 +182,7 @@ No momento os professores que temos no curso são:
 |16| 2017263349  |HANS DONNER GIL ESPINHA	        | | |  | | |
 |17| 2020177439  |JOÃO VITOR ARRUDA PERCINOTTO	  | Benevid Feliz da Silva | Uso de transição de audio com LLM | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 |18| 20220001915 |JULIO DA SILVA RODRIGUES	      | Ramilton Costa Gomes Junior | A importância dos sistemas nas tarefas das empresas | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|19| 2021072622  |LARISSA SMANIOTTO ARAUJO	      | Ivan Luiz Pedroso Pires | Smart Drawer: Frontend web responsivo para sistema ciberfísico de reservas e acesso automatizado | ✔️ | | |
+|19| 2021072622  |LARISSA SMANIOTTO ARAUJO	      | Ivan Luiz Pedroso Pires | Smart Drawer: Frontend web responsivo para sistema ciberfísico de reservas e acesso automatizado | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓falta entrega de ata assinada por todos os professores |
 |20| 20210110021 |LEONARDI	V. M. O. DA SILVA     | Emiliano Soares Monteiro | IPPA-Bank - Integração Power BI e Power Automate para performance de agências bancárias. | ✔️ | | |
 |21| 2020177772  |LEONARDO OLIVEIRA DE MORAES     | Maicon Aparecido Sartin | Sistema web para otimização de processos de classificação de grãos visando a análise de dados com dashboard e KPI’s| ✔️ | | |
 |22| 2019274037  |LEONARDO PALIN DOS SANTOS       | Janecler Foppa | Inovação e sustentabilidade: A Biomimética na automação residencial | ✔️ | | |

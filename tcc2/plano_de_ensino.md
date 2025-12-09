@@ -160,6 +160,7 @@ No momento os professores que temos no curso são:
 
 ### 🧑‍🎓 6.1. Relação Aluno x Professor x Tema:
 
+❓não entregou
 
 |Id| Matricula   |Aluno                           | Professor          |    Tema | [1ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[2ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |[3ª Entrega](#-12-ordem-de-entrega-de-documentos) [^1] |
 |--|-------------|--------------------------------|--------------------|---------|-----------------|---|---|

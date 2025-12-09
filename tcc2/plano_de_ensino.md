@@ -177,7 +177,7 @@ No momento os professores que temos no curso são:
 |11| 20220010048 |FELIPE LEAL ALVES	              | Elias Antônio Morgan | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA | ✔️ | | |
 |12| 2019274866  |GABRIEL FERNANDO BRAND	        | Ramilton Costa Gomes Junior | Sistema web de controle de honorários contábeis: automação e gestão financeira | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 |13| 2018165104  |GABRIEL SMANIOTTO ARAUJO	      | Janecler Foppa | Classificação de imagens com aprendizado de máquina: uma análise bibliográfica | ✔️ | | |
-|14| 2018270250  |GABRIELLE CANDIDO SCHMITT	      | Francisco Sanches Banhos Filho |Ánalise da cobertura vacinal no mato grosso e desenvolvimento de dashboards interativos | ✔️ | | |
+|14| 2018270250  |GABRIELLE CANDIDO SCHMITT	      | Francisco Sanches Banhos Filho |Ánalise da cobertura vacinal no mato grosso e desenvolvimento de dashboards interativos | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 |15| 2021077487  |GUSTAVO MORESCO D'AMBROS	      | Janecler Foppa | Gestão de Feedback como Ferramenta Estratégica | ✔️ | | |
 |16| 2017263349  |HANS DONNER GIL ESPINHA	        | | |  | | |
 |17| 2020177439  |JOÃO VITOR ARRUDA PERCINOTTO	  | Benevid Feliz da Silva | Uso de transição de audio com LLM | ✔️ | | |

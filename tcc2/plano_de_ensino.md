@@ -172,7 +172,7 @@ No momento os professores que temos no curso são:
 | 6| 2017263267  |CLEDERSON BRUSCO	              | Benevid Feliz da Silva| Alimentador de pets | ✔️  | | |
 | 7| 2021017881  |DANIEL ARLINDO DE O. CARLING	  | Ramilton Costa Gomes Junior | Monitoramento de Infraestrutura de Rede Hospitalar com Zabbix  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 | 8| 2016256628  |DEOCLIDES ORMOND BORGES	        | Francisco Sanches Banhos Filho |  Implantação de um servidor no cartório do 1° Ofício de Sorriso utilizando virtualização | ✔️ | | |
-| 9| 20220038058 |EWERTON OLEGARIO DOS SANTOS	    | Janecler Foppa | Migração de sistemas legados para frameworks emergentes com ênfase Oracle Apex | ✔️ | | |
+| 9| 20220038058 |EWERTON OLEGARIO DOS SANTOS	    | Janecler Foppa | Migração de sistemas legados para frameworks emergentes com ênfase Oracle Apex | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 |10| 2019171596  |FELIPE CHRISTOPHER FAVARO ROCHA | Ramilton Costa Gomes Junior | Análise do uso de redes sociais durante as aulas no ensino superior: Um estudo baseado no tráfego de rede  | ✔️ | | |
 |11| 20220010048 |FELIPE LEAL ALVES	              | Elias Antônio Morgan | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA | ✔️ | | |
 |12| 2019274866  |GABRIEL FERNANDO BRAND	        | Ramilton Costa Gomes Junior | Sistema web de controle de honorários contábeis: automação e gestão financeira | ✔️ | | |

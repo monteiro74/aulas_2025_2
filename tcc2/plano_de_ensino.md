@@ -178,9 +178,9 @@ No momento os professores que temos no curso são:
 |12| 2019274866  |GABRIEL FERNANDO BRAND	        | Ramilton Costa Gomes Junior | Sistema web de controle de honorários contábeis: automação e gestão financeira | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 |13| 2018165104  |GABRIEL SMANIOTTO ARAUJO	      | Janecler Foppa | Classificação de imagens com aprendizado de máquina: uma análise bibliográfica | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | ❓falta entrega de artigo |
 |14| 2018270250  |GABRIELLE CANDIDO SCHMITT	      | Francisco Sanches Banhos Filho |Ánalise da cobertura vacinal no mato grosso e desenvolvimento de dashboards interativos | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
-|15| 2021077487  |GUSTAVO MORESCO D'AMBROS	      | Janecler Foppa | Gestão de Feedback como Ferramenta Estratégica | ✔️ | | |
+|15| 2021077487  |GUSTAVO MORESCO D'AMBROS	      | Janecler Foppa | Gestão de Feedback como Ferramenta Estratégica | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 |16| 2017263349  |HANS DONNER GIL ESPINHA	        | | |  | | |
-|17| 2020177439  |JOÃO VITOR ARRUDA PERCINOTTO	  | Benevid Feliz da Silva | Uso de transição de audio com LLM | ✔️ | | |
+|17| 2020177439  |JOÃO VITOR ARRUDA PERCINOTTO	  | Benevid Feliz da Silva | Uso de transição de audio com LLM | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 |18| 20220001915 |JULIO DA SILVA RODRIGUES	      | Ramilton Costa Gomes Junior | A importância dos sistemas nas tarefas das empresas | ✔️ | | |
 |19| 2021072622  |LARISSA SMANIOTTO ARAUJO	      | Ivan Luiz Pedroso Pires | Smart Drawer: Frontend web responsivo para sistema ciberfísico de reservas e acesso automatizado | ✔️ | | |
 |20| 20210110021 |LEONARDI	V. M. O. DA SILVA     | Emiliano Soares Monteiro | IPPA-Bank - Integração Power BI e Power Automate para performance de agências bancárias. | ✔️ | | |

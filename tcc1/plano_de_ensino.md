@@ -217,8 +217,8 @@ No momento os professores que temos no curso são:
 
 [^1]: 1ª entrega: Final de Agosto/Início de Setembro.<br>
 
-Total de alunos matriculados: 40.<br>
-Total de entregas na 1a etapa: 34.<br>
+Total de alunos matriculados: 41.<br>
+Total de entregas na 3a etapa: 29.<br>
 
 ---
 ## 📆 7. Calendário geral

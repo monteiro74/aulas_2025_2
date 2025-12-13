@@ -200,6 +200,8 @@ No momento os professores que temos no curso são:
 |34| 2019274896  |VITOR ROBERTO BISPO DOS SANTOS	|  Benevid Feliz da Silva  | Gestão de romoaneio  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 |35| 2021018341  |WINY ZANIN                      | Ivan Luiz Pedroso Pires| Smart Drawer: Backend para sistema ciberfísico de reservas e acesso automatizado  | ✔️ | ✅Relatório de acompanhamento <br> ✅Autorização para banca <br> ✅1a versão <br> | 🏆 artigo + ata |
 
+Total de alunos matriculados: 35.<br>
+Total de entregas na 3a etapa: 26.<br>
 
 ---
 ## 📆 7. Calendário geral
